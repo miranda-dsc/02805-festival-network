@@ -1,0 +1,9 @@
+# Credentials: never upload
+credentials.py
+
+# Raw Clashfinder files: large, and they contain our username
+data/raw/clashfinder/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
