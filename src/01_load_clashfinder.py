@@ -44,8 +44,8 @@ for cf_id in ids:
         "edition": data["id"],
         "name": data["name"],
         "year": int(first_start[:4]),
-        "start_date": first_start[:10],   # gives us the week
-        "timezone": data["timezone"],     # gives us the country
+        "start_date": first_start[:10],  
+        "timezone": data["timezone"],    
         "n_shows": sum(len(s["events"]) for s in data["locations"]),
     })
 
