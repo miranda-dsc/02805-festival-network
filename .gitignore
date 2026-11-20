@@ -1,7 +1,7 @@
-# Credentials: never upload
+# Credentials
 credentials.py
 
-# Raw Clashfinder files: large, and they contain our username
+# Raw Clashfinder files
 data/raw/clashfinder/
 
 # Python
