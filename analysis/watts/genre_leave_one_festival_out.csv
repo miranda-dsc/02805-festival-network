@@ -1,0 +1,529 @@
+include_ambiguous,include_brand,term,omitted_festival,estimate
+True,True,country_before_genre,all points east,2.4052063883528847
+True,True,country_before_genre,beautiful days,2.5614446491838896
+True,True,country_before_genre,bestival,2.316926158639358
+True,True,country_before_genre,boardmasters,2.3410824476734744
+True,True,country_before_genre,download,2.7044817755717014
+True,True,country_before_genre,end of the road,2.496990542062192
+True,True,country_before_genre,eurock ennes de belfort,2.5016229486741928
+True,True,country_before_genre,glastonbury,2.445158337256171
+True,True,country_before_genre,graspop metal meeting,2.5455833098479945
+True,True,country_before_genre,green man,2.5781234650860356
+True,True,country_before_genre,internacional de benic ssim,2.5042008410972008
+True,True,country_before_genre,isle of wight,2.56682186411023
+True,True,country_before_genre,kendal calling,2.2180857101375957
+True,True,country_before_genre,latitude,2.3214208932866134
+True,True,country_before_genre,les ardentes,2.477501405331952
+True,True,country_before_genre,mad cool,2.5576104135819504
+True,True,country_before_genre,maifeld derby,2.5105616430917217
+True,True,country_before_genre,mysteryland,2.3988484229413705
+True,True,country_before_genre,neighbourhood weekender,2.30976693817034
+True,True,country_before_genre,nos alive,2.571047053758395
+True,True,country_before_genre,off,2.487665059305445
+True,True,country_before_genre,parklife,2.42630567995342
+True,True,country_before_genre,pohoda,2.333289767952015
+True,True,country_before_genre,pol and rock,2.43028836611801
+True,True,country_before_genre,primavera sound,2.425050237697742
+True,True,country_before_genre,pukkelpop,2.7536396689180163
+True,True,country_before_genre,ramblin man fair,2.6457429272072472
+True,True,country_before_genre,reading,1.9251796566413295
+True,True,country_before_genre,rebellion,2.972592888239649
+True,True,country_before_genre,reeperbahnfestival,2.354056490264519
+True,True,country_before_genre,rock for people,2.516417846672465
+True,True,country_before_genre,rock werchter,2.7324238928767124
+True,True,country_before_genre,slam dunk,2.6388771562789834
+True,True,country_before_genre,sziget,2.309153304330873
+True,True,country_before_genre,the great escape,2.0408750595323104
+True,True,country_before_genre,tomorrowland weekend 1,2.2031586395606286
+True,True,country_before_genre,tomorrowland winter,2.4966982581723633
+True,True,country_before_genre,trees,2.58453273154261
+True,True,country_before_genre,trnsmt,2.196517406293774
+True,True,country_before_genre,truck,2.109448086588444
+True,True,country_before_genre,victorious,2.6109825997825027
+True,True,country_before_genre,vida,2.4166007351813787
+True,True,country_before_genre,vieilles charrues,2.4469336863163194
+True,True,country_before_genre,wireless,2.6470067812931646
+True,True,country_after_genre,all points east,1.9844911556656353
+True,True,country_after_genre,beautiful days,2.0417757941674277
+True,True,country_after_genre,bestival,1.816830935431045
+True,True,country_after_genre,boardmasters,1.8708306298931305
+True,True,country_after_genre,download,2.178528518900763
+True,True,country_after_genre,end of the road,2.0300234529753234
+True,True,country_after_genre,eurock ennes de belfort,2.002402468525744
+True,True,country_after_genre,glastonbury,2.00991356173737
+True,True,country_after_genre,graspop metal meeting,2.1363403097563323
+True,True,country_after_genre,green man,2.1201854574688093
+True,True,country_after_genre,internacional de benic ssim,1.9675422965328908
+True,True,country_after_genre,isle of wight,2.111240426520997
+True,True,country_after_genre,kendal calling,1.8036559836126203
+True,True,country_after_genre,latitude,1.9046562685558017
+True,True,country_after_genre,les ardentes,1.9858431934249725
+True,True,country_after_genre,mad cool,2.0556280915462417
+True,True,country_after_genre,maifeld derby,2.023100534577756
+True,True,country_after_genre,mysteryland,2.009029625567933
+True,True,country_after_genre,neighbourhood weekender,1.8859234740036868
+True,True,country_after_genre,nos alive,1.994704814911804
+True,True,country_after_genre,off,2.0325940261846855
+True,True,country_after_genre,parklife,1.830548105440135
+True,True,country_after_genre,pohoda,1.8668991679655649
+True,True,country_after_genre,pol and rock,2.0917317870422436
+True,True,country_after_genre,primavera sound,1.8489357700174507
+True,True,country_after_genre,pukkelpop,2.1507686508419206
+True,True,country_after_genre,ramblin man fair,2.041157820869035
+True,True,country_after_genre,reading,1.6062937850402517
+True,True,country_after_genre,rebellion,2.397756330816609
+True,True,country_after_genre,reeperbahnfestival,1.795397325779912
+True,True,country_after_genre,rock for people,2.0908068994003832
+True,True,country_after_genre,rock werchter,2.142009404342008
+True,True,country_after_genre,slam dunk,2.055426295694204
+True,True,country_after_genre,sziget,1.7954328472165182
+True,True,country_after_genre,the great escape,1.6569399152555349
+True,True,country_after_genre,tomorrowland weekend 1,1.8238135420361665
+True,True,country_after_genre,tomorrowland winter,2.0629134855241817
+True,True,country_after_genre,trees,2.1286528776800995
+True,True,country_after_genre,trnsmt,1.797730933224409
+True,True,country_after_genre,truck,1.7059720062551833
+True,True,country_after_genre,victorious,2.1769775493884733
+True,True,country_after_genre,vida,1.9693370472691567
+True,True,country_after_genre,vieilles charrues,1.9693488971743647
+True,True,country_after_genre,wireless,1.9057362102215718
+True,True,genre_per_0_1,all points east,1.3139614501442027
+True,True,genre_per_0_1,beautiful days,1.3830793305134117
+True,True,genre_per_0_1,bestival,1.3577349250131021
+True,True,genre_per_0_1,boardmasters,1.356231370968983
+True,True,genre_per_0_1,download,1.3395659645550546
+True,True,genre_per_0_1,end of the road,1.384443233108187
+True,True,genre_per_0_1,eurock ennes de belfort,1.3776205077091022
+True,True,genre_per_0_1,glastonbury,1.4264117328827617
+True,True,genre_per_0_1,graspop metal meeting,1.3794089690218214
+True,True,genre_per_0_1,green man,1.3871237806035002
+True,True,genre_per_0_1,internacional de benic ssim,1.406400037016308
+True,True,genre_per_0_1,isle of wight,1.3911258373125874
+True,True,genre_per_0_1,kendal calling,1.359575114410306
+True,True,genre_per_0_1,latitude,1.330592471848677
+True,True,genre_per_0_1,les ardentes,1.4111257882550592
+True,True,genre_per_0_1,mad cool,1.35082833962784
+True,True,genre_per_0_1,maifeld derby,1.3908133562056295
+True,True,genre_per_0_1,mysteryland,1.3318479758003554
+True,True,genre_per_0_1,neighbourhood weekender,1.3728376962792566
+True,True,genre_per_0_1,nos alive,1.3888450112781008
+True,True,genre_per_0_1,off,1.3937793316631948
+True,True,genre_per_0_1,parklife,1.3647083619458769
+True,True,genre_per_0_1,pohoda,1.393346093061775
+True,True,genre_per_0_1,pol and rock,1.4315005013510147
+True,True,genre_per_0_1,primavera sound,1.3945030921688177
+True,True,genre_per_0_1,pukkelpop,1.3148729633600305
+True,True,genre_per_0_1,ramblin man fair,1.3908091214975629
+True,True,genre_per_0_1,reading,1.2523878743704904
+True,True,genre_per_0_1,rebellion,1.271289757383299
+True,True,genre_per_0_1,reeperbahnfestival,1.4297117143779186
+True,True,genre_per_0_1,rock for people,1.3834307485873396
+True,True,genre_per_0_1,rock werchter,1.3211382558113522
+True,True,genre_per_0_1,slam dunk,1.4005633284995471
+True,True,genre_per_0_1,sziget,1.3960131321370277
+True,True,genre_per_0_1,the great escape,1.3330512070588807
+True,True,genre_per_0_1,tomorrowland weekend 1,1.2597377478472085
+True,True,genre_per_0_1,tomorrowland winter,1.3701597952268332
+True,True,genre_per_0_1,trees,1.368333857817367
+True,True,genre_per_0_1,trnsmt,1.352875239859484
+True,True,genre_per_0_1,truck,1.3443918774037864
+True,True,genre_per_0_1,victorious,1.4322127835279586
+True,True,genre_per_0_1,vida,1.4046140504798044
+True,True,genre_per_0_1,vieilles charrues,1.3942428761250916
+True,True,genre_per_0_1,wireless,1.4215831760850515
+True,False,country_before_genre,all points east,2.473624970153291
+True,False,country_before_genre,beautiful days,2.63309898609755
+True,False,country_before_genre,bestival,2.3892363644281134
+True,False,country_before_genre,boardmasters,2.4122585859391945
+True,False,country_before_genre,download,2.7753824586355615
+True,False,country_before_genre,end of the road,2.5649539900050966
+True,False,country_before_genre,eurock ennes de belfort,2.5696664212544165
+True,False,country_before_genre,glastonbury,2.5155805703023133
+True,False,country_before_genre,graspop metal meeting,2.619457340151247
+True,False,country_before_genre,green man,2.6500523202522763
+True,False,country_before_genre,internacional de benic ssim,2.5752681800126074
+True,False,country_before_genre,isle of wight,2.6365710397396014
+True,False,country_before_genre,kendal calling,2.287021537569712
+True,False,country_before_genre,latitude,2.3953646791707364
+True,False,country_before_genre,les ardentes,2.547791949091979
+True,False,country_before_genre,mad cool,2.6281445754445305
+True,False,country_before_genre,maifeld derby,2.580327931102493
+True,False,country_before_genre,mysteryland,2.4762140338316914
+True,False,country_before_genre,neighbourhood weekender,2.3748902096702778
+True,False,country_before_genre,nos alive,2.642296050745033
+True,False,country_before_genre,off,2.5596472908481496
+True,False,country_before_genre,parklife,2.494022825571913
+True,False,country_before_genre,pohoda,2.403352226343346
+True,False,country_before_genre,pol and rock,2.5053715852862237
+True,False,country_before_genre,primavera sound,2.50687098272134
+True,False,country_before_genre,pukkelpop,2.83102986567108
+True,False,country_before_genre,ramblin man fair,2.7174111210928444
+True,False,country_before_genre,reading,1.9905624637646193
+True,False,country_before_genre,rebellion,3.044685869322687
+True,False,country_before_genre,reeperbahnfestival,2.427833428740492
+True,False,country_before_genre,rock for people,2.5927855531507253
+True,False,country_before_genre,rock werchter,2.8043943274152032
+True,False,country_before_genre,slam dunk,2.7124705252042958
+True,False,country_before_genre,sziget,2.3838842286258024
+True,False,country_before_genre,the great escape,2.1036611885430023
+True,False,country_before_genre,tomorrowland weekend 1,2.2031586395606286
+True,False,country_before_genre,tomorrowland winter,2.4966982581723633
+True,False,country_before_genre,trees,2.6618938560792507
+True,False,country_before_genre,trnsmt,2.2714133115620583
+True,False,country_before_genre,truck,2.1840792730020886
+True,False,country_before_genre,victorious,2.674290081420804
+True,False,country_before_genre,vida,2.4872979857338784
+True,False,country_before_genre,vieilles charrues,2.5157885942129825
+True,False,country_before_genre,wireless,2.7221351020422833
+True,False,country_after_genre,all points east,2.0619374130505377
+True,False,country_after_genre,beautiful days,2.123013817749114
+True,False,country_after_genre,bestival,1.898722538920561
+True,False,country_after_genre,boardmasters,1.9506754776506565
+True,False,country_after_genre,download,2.259939256921613
+True,False,country_after_genre,end of the road,2.106428815054463
+True,False,country_after_genre,eurock ennes de belfort,2.0796908441112736
+True,False,country_after_genre,glastonbury,2.0879898563832953
+True,False,country_after_genre,graspop metal meeting,2.217082548868958
+True,False,country_after_genre,green man,2.200225204896789
+True,False,country_after_genre,internacional de benic ssim,2.0491087131308343
+True,False,country_after_genre,isle of wight,2.1890809233275563
+True,False,country_after_genre,kendal calling,1.8802481036730798
+True,False,country_after_genre,latitude,1.9864080878294952
+True,False,country_after_genre,les ardentes,2.0648857558826843
+True,False,country_after_genre,mad cool,2.136155413312573
+True,False,country_after_genre,maifeld derby,2.1018052956960656
+True,False,country_after_genre,mysteryland,2.0925582306275214
+True,False,country_after_genre,neighbourhood weekender,1.9590358621262334
+True,False,country_after_genre,nos alive,2.07739177398495
+True,False,country_after_genre,off,2.1126104274919064
+True,False,country_after_genre,parklife,1.9111764778286364
+True,False,country_after_genre,pohoda,1.9451761251432618
+True,False,country_after_genre,pol and rock,2.1714248394087265
+True,False,country_after_genre,primavera sound,1.9424245889648937
+True,False,country_after_genre,pukkelpop,2.2423863363859735
+True,False,country_after_genre,ramblin man fair,2.124681723142587
+True,False,country_after_genre,reading,1.6790032535120993
+True,False,country_after_genre,rebellion,2.482677141769293
+True,False,country_after_genre,reeperbahnfestival,1.8794101438071853
+True,False,country_after_genre,rock for people,2.174065572110117
+True,False,country_after_genre,rock werchter,2.227273222515974
+True,False,country_after_genre,slam dunk,2.140346479996696
+True,False,country_after_genre,sziget,1.8798879102588182
+True,False,country_after_genre,the great escape,1.727750295820667
+True,False,country_after_genre,tomorrowland weekend 1,1.8238135420361665
+True,False,country_after_genre,tomorrowland winter,2.0629134855241817
+True,False,country_after_genre,trees,2.2140085113718304
+True,False,country_after_genre,trnsmt,1.8797447537864762
+True,False,country_after_genre,truck,1.788066190658298
+True,False,country_after_genre,victorious,2.2482905391789356
+True,False,country_after_genre,vida,2.0475941416734202
+True,False,country_after_genre,vieilles charrues,2.0467062027895064
+True,False,country_after_genre,wireless,1.996325492491377
+True,False,genre_per_0_1,all points east,1.2764137727450307
+True,False,genre_per_0_1,beautiful days,1.3492455243935673
+True,False,genre_per_0_1,bestival,1.3233137207687147
+True,False,genre_per_0_1,boardmasters,1.3224727503440055
+True,False,genre_per_0_1,download,1.3054378855117537
+True,False,genre_per_0_1,end of the road,1.3497437732711353
+True,False,genre_per_0_1,eurock ennes de belfort,1.3439171808125459
+True,False,genre_per_0_1,glastonbury,1.3908907001936408
+True,False,genre_per_0_1,graspop metal meeting,1.3463892046155477
+True,False,genre_per_0_1,green man,1.3530786480275627
+True,False,genre_per_0_1,internacional de benic ssim,1.3706798128727684
+True,False,genre_per_0_1,isle of wight,1.356774330672872
+True,False,genre_per_0_1,kendal calling,1.3244066228128677
+True,False,genre_per_0_1,latitude,1.2956965392843098
+True,False,genre_per_0_1,les ardentes,1.3770477779405326
+True,False,genre_per_0_1,mad cool,1.3159469927915213
+True,False,genre_per_0_1,maifeld derby,1.3565509403217695
+True,False,genre_per_0_1,mysteryland,1.3004289554002624
+True,False,genre_per_0_1,neighbourhood weekender,1.338181588995826
+True,False,genre_per_0_1,nos alive,1.3537849458623223
+True,False,genre_per_0_1,off,1.359747223880541
+True,False,genre_per_0_1,parklife,1.3287069532889388
+True,False,genre_per_0_1,pohoda,1.3597601826361194
+True,False,genre_per_0_1,pol and rock,1.398773431772142
+True,False,genre_per_0_1,primavera sound,1.3567678477421758
+True,False,genre_per_0_1,pukkelpop,1.2764203705979877
+True,False,genre_per_0_1,ramblin man fair,1.3562318410721976
+True,False,genre_per_0_1,reading,1.2136416541764352
+True,False,genre_per_0_1,rebellion,1.2368197529785712
+True,False,genre_per_0_1,reeperbahnfestival,1.394034791789527
+True,False,genre_per_0_1,rock for people,1.3501243298487982
+True,False,genre_per_0_1,rock werchter,1.2847050078567246
+True,False,genre_per_0_1,slam dunk,1.3655231026943073
+True,False,genre_per_0_1,sziget,1.3603244682869802
+True,False,genre_per_0_1,the great escape,1.2953716215813855
+True,False,genre_per_0_1,tomorrowland weekend 1,1.2597377478472085
+True,False,genre_per_0_1,tomorrowland winter,1.3701597952268332
+True,False,genre_per_0_1,trees,1.334344993316245
+True,False,genre_per_0_1,trnsmt,1.3179118369340632
+True,False,genre_per_0_1,truck,1.3091518193209373
+True,False,genre_per_0_1,victorious,1.396391804241436
+True,False,genre_per_0_1,vida,1.3711088974725387
+True,False,genre_per_0_1,vieilles charrues,1.3606080390041349
+True,False,genre_per_0_1,wireless,1.3854083791453677
+False,True,country_before_genre,all points east,2.4052063883528847
+False,True,country_before_genre,beautiful days,2.5614446491838896
+False,True,country_before_genre,bestival,2.316926158639358
+False,True,country_before_genre,boardmasters,2.3410824476734744
+False,True,country_before_genre,download,2.7044817755717014
+False,True,country_before_genre,end of the road,2.496990542062192
+False,True,country_before_genre,eurock ennes de belfort,2.5016229486741928
+False,True,country_before_genre,glastonbury,2.445158337256171
+False,True,country_before_genre,graspop metal meeting,2.5455833098479945
+False,True,country_before_genre,green man,2.5781234650860356
+False,True,country_before_genre,internacional de benic ssim,2.5042008410972008
+False,True,country_before_genre,isle of wight,2.56682186411023
+False,True,country_before_genre,kendal calling,2.2180857101375957
+False,True,country_before_genre,latitude,2.3214208932866134
+False,True,country_before_genre,les ardentes,2.477501405331952
+False,True,country_before_genre,mad cool,2.5576104135819504
+False,True,country_before_genre,maifeld derby,2.5105616430917217
+False,True,country_before_genre,mysteryland,2.3988484229413705
+False,True,country_before_genre,neighbourhood weekender,2.30976693817034
+False,True,country_before_genre,nos alive,2.571047053758395
+False,True,country_before_genre,off,2.487665059305445
+False,True,country_before_genre,parklife,2.42630567995342
+False,True,country_before_genre,pohoda,2.333289767952015
+False,True,country_before_genre,pol and rock,2.43028836611801
+False,True,country_before_genre,primavera sound,2.425050237697742
+False,True,country_before_genre,pukkelpop,2.7536396689180163
+False,True,country_before_genre,ramblin man fair,2.6457429272072472
+False,True,country_before_genre,reading,1.9251796566413295
+False,True,country_before_genre,rebellion,2.972592888239649
+False,True,country_before_genre,reeperbahnfestival,2.354056490264519
+False,True,country_before_genre,rock for people,2.516417846672465
+False,True,country_before_genre,rock werchter,2.7324238928767124
+False,True,country_before_genre,slam dunk,2.6388771562789834
+False,True,country_before_genre,sziget,2.309153304330873
+False,True,country_before_genre,the great escape,2.0408750595323104
+False,True,country_before_genre,tomorrowland weekend 1,2.2031586395606286
+False,True,country_before_genre,tomorrowland winter,2.4966982581723633
+False,True,country_before_genre,trees,2.58453273154261
+False,True,country_before_genre,trnsmt,2.196517406293774
+False,True,country_before_genre,truck,2.109448086588444
+False,True,country_before_genre,victorious,2.6109825997825027
+False,True,country_before_genre,vida,2.4166007351813787
+False,True,country_before_genre,vieilles charrues,2.4469336863163194
+False,True,country_before_genre,wireless,2.6470067812931646
+False,True,country_after_genre,all points east,1.9749116087325946
+False,True,country_after_genre,beautiful days,2.027794879448026
+False,True,country_after_genre,bestival,1.8034923217106376
+False,True,country_after_genre,boardmasters,1.864813219599214
+False,True,country_after_genre,download,2.155089629766386
+False,True,country_after_genre,end of the road,2.0174543700429313
+False,True,country_after_genre,eurock ennes de belfort,1.9834933578453993
+False,True,country_after_genre,glastonbury,1.9982879730291963
+False,True,country_after_genre,graspop metal meeting,2.1261310522193693
+False,True,country_after_genre,green man,2.1141886667107452
+False,True,country_after_genre,internacional de benic ssim,1.9594522577944327
+False,True,country_after_genre,isle of wight,2.096885047911053
+False,True,country_after_genre,kendal calling,1.795001366090316
+False,True,country_after_genre,latitude,1.8994930280271722
+False,True,country_after_genre,les ardentes,1.9702082217390138
+False,True,country_after_genre,mad cool,2.042789444391786
+False,True,country_after_genre,maifeld derby,2.0031618852082027
+False,True,country_after_genre,mysteryland,1.9978817765654207
+False,True,country_after_genre,neighbourhood weekender,1.8764872379383528
+False,True,country_after_genre,nos alive,1.9946821827904173
+False,True,country_after_genre,off,2.0064236903282917
+False,True,country_after_genre,parklife,1.8158456116764141
+False,True,country_after_genre,pohoda,1.8526686382940043
+False,True,country_after_genre,pol and rock,2.0676516466483004
+False,True,country_after_genre,primavera sound,1.83783283739759
+False,True,country_after_genre,pukkelpop,2.1437776372690824
+False,True,country_after_genre,ramblin man fair,2.020041200069475
+False,True,country_after_genre,reading,1.5854095823925018
+False,True,country_after_genre,rebellion,2.384316120303223
+False,True,country_after_genre,reeperbahnfestival,1.7895909023421896
+False,True,country_after_genre,rock for people,2.0901815755823376
+False,True,country_after_genre,rock werchter,2.1325698483230995
+False,True,country_after_genre,slam dunk,2.042769984629442
+False,True,country_after_genre,sziget,1.787803579493379
+False,True,country_after_genre,the great escape,1.6471877435007294
+False,True,country_after_genre,tomorrowland weekend 1,1.8181357862244703
+False,True,country_after_genre,tomorrowland winter,2.0489761380879306
+False,True,country_after_genre,trees,2.1133249450202802
+False,True,country_after_genre,trnsmt,1.7902449335720758
+False,True,country_after_genre,truck,1.7023432381368664
+False,True,country_after_genre,victorious,2.1477174345560996
+False,True,country_after_genre,vida,1.954080608360235
+False,True,country_after_genre,vieilles charrues,1.9546511992454876
+False,True,country_after_genre,wireless,1.9012962183448372
+False,True,genre_per_0_1,all points east,1.33688017045611
+False,True,genre_per_0_1,beautiful days,1.402235305035821
+False,True,genre_per_0_1,bestival,1.379029329772813
+False,True,genre_per_0_1,boardmasters,1.378955209610634
+False,True,genre_per_0_1,download,1.3694641553281377
+False,True,genre_per_0_1,end of the road,1.4053272628078317
+False,True,genre_per_0_1,eurock ennes de belfort,1.4005783867844621
+False,True,genre_per_0_1,glastonbury,1.439638767858089
+False,True,genre_per_0_1,graspop metal meeting,1.405764325518833
+False,True,genre_per_0_1,green man,1.4107810547029234
+False,True,genre_per_0_1,internacional de benic ssim,1.4298028051495835
+False,True,genre_per_0_1,isle of wight,1.409733077028286
+False,True,genre_per_0_1,kendal calling,1.3816143269985774
+False,True,genre_per_0_1,latitude,1.3539089447133876
+False,True,genre_per_0_1,les ardentes,1.4320025520967457
+False,True,genre_per_0_1,mad cool,1.3739419561190915
+False,True,genre_per_0_1,maifeld derby,1.4151540238175837
+False,True,genre_per_0_1,mysteryland,1.3476200196681505
+False,True,genre_per_0_1,neighbourhood weekender,1.3940402678109665
+False,True,genre_per_0_1,nos alive,1.4097572735540278
+False,True,genre_per_0_1,off,1.4120479072534275
+False,True,genre_per_0_1,parklife,1.3849831031044937
+False,True,genre_per_0_1,pohoda,1.4146890243514725
+False,True,genre_per_0_1,pol and rock,1.4505079413373994
+False,True,genre_per_0_1,primavera sound,1.4137422896660001
+False,True,genre_per_0_1,pukkelpop,1.335823763322718
+False,True,genre_per_0_1,ramblin man fair,1.4138061809154692
+False,True,genre_per_0_1,reading,1.2780774802713417
+False,True,genre_per_0_1,rebellion,1.294068427679889
+False,True,genre_per_0_1,reeperbahnfestival,1.4433067030826245
+False,True,genre_per_0_1,rock for people,1.4046106795079936
+False,True,genre_per_0_1,rock werchter,1.3474383472843767
+False,True,genre_per_0_1,slam dunk,1.4166176132510648
+False,True,genre_per_0_1,sziget,1.4130418243759384
+False,True,genre_per_0_1,the great escape,1.351839693244512
+False,True,genre_per_0_1,tomorrowland weekend 1,1.2661901919358134
+False,True,genre_per_0_1,tomorrowland winter,1.3923924068320228
+False,True,genre_per_0_1,trees,1.3908321495375862
+False,True,genre_per_0_1,trnsmt,1.3808005617342216
+False,True,genre_per_0_1,truck,1.3734741553685492
+False,True,genre_per_0_1,victorious,1.4285525364569123
+False,True,genre_per_0_1,vida,1.4318750877834636
+False,True,genre_per_0_1,vieilles charrues,1.4171686711385452
+False,True,genre_per_0_1,wireless,1.4350184092993392
+False,False,country_before_genre,all points east,2.473624970153291
+False,False,country_before_genre,beautiful days,2.63309898609755
+False,False,country_before_genre,bestival,2.3892363644281134
+False,False,country_before_genre,boardmasters,2.4122585859391945
+False,False,country_before_genre,download,2.7753824586355615
+False,False,country_before_genre,end of the road,2.5649539900050966
+False,False,country_before_genre,eurock ennes de belfort,2.5696664212544165
+False,False,country_before_genre,glastonbury,2.5155805703023133
+False,False,country_before_genre,graspop metal meeting,2.619457340151247
+False,False,country_before_genre,green man,2.6500523202522763
+False,False,country_before_genre,internacional de benic ssim,2.5752681800126074
+False,False,country_before_genre,isle of wight,2.6365710397396014
+False,False,country_before_genre,kendal calling,2.287021537569712
+False,False,country_before_genre,latitude,2.3953646791707364
+False,False,country_before_genre,les ardentes,2.547791949091979
+False,False,country_before_genre,mad cool,2.6281445754445305
+False,False,country_before_genre,maifeld derby,2.580327931102493
+False,False,country_before_genre,mysteryland,2.4762140338316914
+False,False,country_before_genre,neighbourhood weekender,2.3748902096702778
+False,False,country_before_genre,nos alive,2.642296050745033
+False,False,country_before_genre,off,2.5596472908481496
+False,False,country_before_genre,parklife,2.494022825571913
+False,False,country_before_genre,pohoda,2.403352226343346
+False,False,country_before_genre,pol and rock,2.5053715852862237
+False,False,country_before_genre,primavera sound,2.50687098272134
+False,False,country_before_genre,pukkelpop,2.83102986567108
+False,False,country_before_genre,ramblin man fair,2.7174111210928444
+False,False,country_before_genre,reading,1.9905624637646193
+False,False,country_before_genre,rebellion,3.044685869322687
+False,False,country_before_genre,reeperbahnfestival,2.427833428740492
+False,False,country_before_genre,rock for people,2.5927855531507253
+False,False,country_before_genre,rock werchter,2.8043943274152032
+False,False,country_before_genre,slam dunk,2.7124705252042958
+False,False,country_before_genre,sziget,2.3838842286258024
+False,False,country_before_genre,the great escape,2.1036611885430023
+False,False,country_before_genre,tomorrowland weekend 1,2.2031586395606286
+False,False,country_before_genre,tomorrowland winter,2.4966982581723633
+False,False,country_before_genre,trees,2.6618938560792507
+False,False,country_before_genre,trnsmt,2.2714133115620583
+False,False,country_before_genre,truck,2.1840792730020886
+False,False,country_before_genre,victorious,2.674290081420804
+False,False,country_before_genre,vida,2.4872979857338784
+False,False,country_before_genre,vieilles charrues,2.5157885942129825
+False,False,country_before_genre,wireless,2.7221351020422833
+False,False,country_after_genre,all points east,2.0524402354587545
+False,False,country_after_genre,beautiful days,2.1091530020626976
+False,False,country_after_genre,bestival,1.885462246957597
+False,False,country_after_genre,boardmasters,1.9445883469241225
+False,False,country_after_genre,download,2.236742217950939
+False,False,country_after_genre,end of the road,2.0940252957548138
+False,False,country_after_genre,eurock ennes de belfort,2.061080945648256
+False,False,country_after_genre,glastonbury,2.07649177248162
+False,False,country_after_genre,graspop metal meeting,2.2068797357594137
+False,False,country_after_genre,green man,2.1941806324201836
+False,False,country_after_genre,internacional de benic ssim,2.0409316943310727
+False,False,country_after_genre,isle of wight,2.174930082777871
+False,False,country_after_genre,kendal calling,1.8716173141200274
+False,False,country_after_genre,latitude,1.981170433522338
+False,False,country_after_genre,les ardentes,2.049421814471785
+False,False,country_after_genre,mad cool,2.123414000198449
+False,False,country_after_genre,maifeld derby,2.0821392724958008
+False,False,country_after_genre,mysteryland,2.081615984993951
+False,False,country_after_genre,neighbourhood weekender,1.9496539929182872
+False,False,country_after_genre,nos alive,2.077026733778108
+False,False,country_after_genre,off,2.086956053702794
+False,False,country_after_genre,parklife,1.8965752653832744
+False,False,country_after_genre,pohoda,1.931101176578318
+False,False,country_after_genre,pol and rock,2.1477846885376164
+False,False,country_after_genre,primavera sound,1.93139415578097
+False,False,country_after_genre,pukkelpop,2.2351714402203546
+False,False,country_after_genre,ramblin man fair,2.1038265403322276
+False,False,country_after_genre,reading,1.6584436500095023
+False,False,country_after_genre,rebellion,2.469257810464019
+False,False,country_after_genre,reeperbahnfestival,1.8734956938548912
+False,False,country_after_genre,rock for people,2.173276029638329
+False,False,country_after_genre,rock werchter,2.2176374897047553
+False,False,country_after_genre,slam dunk,2.127751680425935
+False,False,country_after_genre,sziget,1.87229291886673
+False,False,country_after_genre,the great escape,1.7180792849461675
+False,False,country_after_genre,tomorrowland weekend 1,1.8181357862244703
+False,False,country_after_genre,tomorrowland winter,2.0489761380879306
+False,False,country_after_genre,trees,2.198829348207635
+False,False,country_after_genre,trnsmt,1.8721917918725184
+False,False,country_after_genre,truck,1.7843209838753327
+False,False,country_after_genre,victorious,2.219677457414304
+False,False,country_after_genre,vida,2.0324875537075546
+False,False,country_after_genre,vieilles charrues,2.032157686280742
+False,False,country_after_genre,wireless,1.9916941587170833
+False,False,genre_per_0_1,all points east,1.2992036139884608
+False,False,genre_per_0_1,beautiful days,1.3685201380679473
+False,False,genre_per_0_1,bestival,1.3447558216610416
+False,False,genre_per_0_1,boardmasters,1.3452540702377453
+False,False,genre_per_0_1,download,1.335415413336962
+False,False,genre_per_0_1,end of the road,1.3704141436130268
+False,False,genre_per_0_1,eurock ennes de belfort,1.3667320673394847
+False,False,genre_per_0_1,glastonbury,1.4044286358412947
+False,False,genre_per_0_1,graspop metal meeting,1.3728431924422528
+False,False,genre_per_0_1,green man,1.3767325975267737
+False,False,genre_per_0_1,internacional de benic ssim,1.3942506647633144
+False,False,genre_per_0_1,isle of wight,1.375367468372514
+False,False,genre_per_0_1,kendal calling,1.3464781645996988
+False,False,genre_per_0_1,latitude,1.319037028739448
+False,False,genre_per_0_1,les ardentes,1.397999011648643
+False,False,genre_per_0_1,mad cool,1.33907856808993
+False,False,genre_per_0_1,maifeld derby,1.3808802596233316
+False,False,genre_per_0_1,mysteryland,1.3159615602313355
+False,False,genre_per_0_1,neighbourhood weekender,1.3594432898313507
+False,False,genre_per_0_1,nos alive,1.3750352529852048
+False,False,genre_per_0_1,off,1.3779177794073267
+False,False,genre_per_0_1,parklife,1.3491319321015305
+False,False,genre_per_0_1,pohoda,1.3811401473532918
+False,False,genre_per_0_1,pol and rock,1.4177344683106987
+False,False,genre_per_0_1,primavera sound,1.3760420984764623
+False,False,genre_per_0_1,pukkelpop,1.297712913333136
+False,False,genre_per_0_1,ramblin man fair,1.3792308758580833
+False,False,genre_per_0_1,reading,1.239808919639897
+False,False,genre_per_0_1,rebellion,1.259707434570435
+False,False,genre_per_0_1,reeperbahnfestival,1.407977860841951
+False,False,genre_per_0_1,rock for people,1.3713380230829195
+False,False,genre_per_0_1,rock werchter,1.311282008937537
+False,False,genre_per_0_1,slam dunk,1.3818040835736785
+False,False,genre_per_0_1,sziget,1.3773673281791683
+False,False,genre_per_0_1,the great escape,1.3143497559070612
+False,False,genre_per_0_1,tomorrowland weekend 1,1.2661901919358134
+False,False,genre_per_0_1,tomorrowland winter,1.3923924068320228
+False,False,genre_per_0_1,trees,1.356923885366192
+False,False,genre_per_0_1,trnsmt,1.3459224854821774
+False,False,genre_per_0_1,truck,1.3381401662087384
+False,False,genre_per_0_1,victorious,1.3934070175475886
+False,False,genre_per_0_1,vida,1.3983248905238728
+False,False,genre_per_0_1,vieilles charrues,1.3835551515762117
+False,False,genre_per_0_1,wireless,1.3991161664098681

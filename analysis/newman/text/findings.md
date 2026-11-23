@@ -1,0 +1,9 @@
+We used positive MusicBrainz tag weights from strict id, name and alias matches, normalized per act. Median edition coverage was 35% across 214 editions. We excluded 2020 and 2021.
+
+1. In 2019, Louvain community 2 at seed 19 had top tags electronic, indie rock, hip hop. The median community's worst deletion gave top-three Jaccard 0.50, equivalent to one swap when both lists have three tags. This captures leading tags after weighting by how often they occur across editions. It misses untagged acts and uses current tags for past editions.
+
+2. Tag clusters agreed with Louvain at permutation p below 0.05 in 7 of 9 years, versus 6 of 9 using only acts booked once that year and 8 of 9 using only repeat acts that also create network edges. Agreement stayed above the shuffle mean after every deletion in 4 of 9 years (2016, 2018, 2019, 2023). Country agreement was below the shuffle mean in 5 of 9 years and reached p below 0.05 in 0. This captures alignment with booking communities even when profile acts create no network edges. It misses untagged acts, and silhouettes of 0.22 to 0.39 and uneven cluster sizes limit interpretation.
+
+3. Bridge rank agreement reached p below 0.05 in 4 of 8 successive retained year pairs. Rock for People was top quartile in 8 of 8 observed years and stayed there under every deletion of another festival in 4 of 8 years. This captures how consistently festivals spread booking links across communities. It misses the acts behind those links and is sensitive to festival deletion, with 7 common festivals in the first comparison. The 2022 to 2023 rank correlation was -0.05.
+
+We chose the tag cluster count by silhouette from two to six cosine clusters and used 499 within-year label permutations for each comparison. For bridge stability, we permuted festival identities in the second year within the common festival set. Vertical lines in the figure show festival deletion ranges.

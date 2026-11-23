@@ -1,0 +1,1812 @@
+source,target,observed,year_shuffle_mean,calendar_shuffle_mean,same_brand
+all points east,boardmasters,3,1.892,4.76,False
+all points east,download,2,1.008,7.428,False
+all points east,end of the road,5,5.2,2.34,False
+all points east,eurock ennes de belfort,4,7.255999999999999,1.916,False
+all points east,glastonbury,71,67.35600000000001,83.852,False
+all points east,graspop metal meeting,0,0.47200000000000003,1.6360000000000001,False
+all points east,internacional de benic ssim,9,5.319999999999999,2.688,False
+all points east,isle of wight,6,6.888,34.172,False
+all points east,kendal calling,14,13.564,21.991999999999997,False
+all points east,latitude,19,21.6,18.46,False
+all points east,mad cool,12,12.112,3.5919999999999996,False
+all points east,maifeld derby,12,10.260000000000002,1.484,False
+all points east,mysteryland,0,0.0,1.0919999999999999,False
+all points east,neighbourhood weekender,4,4.004,2.584,False
+all points east,nos alive,9,7.324,3.008,False
+all points east,off,3,1.5,0.444,False
+all points east,parklife,23,26.54,19.908,False
+all points east,pohoda,2,2.512,0.688,False
+all points east,pol and rock,1,0.44799999999999995,2.176,False
+all points east,primavera sound,37,40.512,19.956,False
+all points east,pukkelpop,27,27.255999999999997,7.5840000000000005,False
+all points east,ramblin man fair,0,0.0,1.268,False
+all points east,reading,20,22.456,21.536,False
+all points east,rebellion,2,2.076,23.36,False
+all points east,reeperbahnfestival,17,17.4,16.328,False
+all points east,rock for people,12,7.76,13.5,False
+all points east,rock werchter,18,14.984,4.52,False
+all points east,slam dunk,0,0.148,2.6479999999999997,False
+all points east,sziget,29,22.308,11.016,False
+all points east,the great escape,26,40.988,48.007999999999996,False
+all points east,tomorrowland weekend 1,6,6.311999999999999,17.831999999999997,False
+all points east,tomorrowland winter,0,0.0,2.128,False
+all points east,trees,9,7.140000000000001,22.908,False
+all points east,trnsmt,6,6.192,7.664,False
+all points east,truck,12,15.367999999999999,24.28,False
+all points east,victorious,22,16.612000000000002,30.028,False
+all points east,vida,2,3.028,2.596,False
+all points east,vieilles charrues,7,5.896000000000001,1.8679999999999999,False
+all points east,wireless,6,7.184,8.34,False
+beautiful days,all points east,1,1.328,11.780000000000001,False
+beautiful days,bestival,3,4.416,8.912,False
+beautiful days,boardmasters,8,8.164,8.296,False
+beautiful days,download,1,1.852,6.628,False
+beautiful days,end of the road,0,0.436,4.736,False
+beautiful days,eurock ennes de belfort,1,1.0,1.36,False
+beautiful days,glastonbury,31,30.587999999999997,58.328,False
+beautiful days,graspop metal meeting,1,0.728,4.78,False
+beautiful days,green man,4,3.7600000000000002,7.36,False
+beautiful days,internacional de benic ssim,1,0.32,6.568,False
+beautiful days,isle of wight,13,14.732,20.788,False
+beautiful days,kendal calling,17,16.652,13.788,False
+beautiful days,latitude,6,6.22,17.932000000000002,False
+beautiful days,les ardentes,1,1.808,2.192,False
+beautiful days,mad cool,3,2.8520000000000003,4.92,False
+beautiful days,maifeld derby,0,0.0,1.344,False
+beautiful days,mysteryland,0,0.0,0.884,False
+beautiful days,neighbourhood weekender,2,1.8719999999999999,3.64,False
+beautiful days,nos alive,0,0.0,4.148,False
+beautiful days,off,0,0.368,1.312,False
+beautiful days,parklife,0,0.0,7.9479999999999995,False
+beautiful days,pohoda,2,3.824,4.416,False
+beautiful days,pol and rock,3,3.0,2.6,False
+beautiful days,primavera sound,3,3.336,16.352,False
+beautiful days,pukkelpop,1,0.924,8.520000000000001,False
+beautiful days,ramblin man fair,2,1.592,3.048,False
+beautiful days,reading,5,5.82,21.852,False
+beautiful days,rebellion,13,12.436,19.264,False
+beautiful days,reeperbahnfestival,2,2.0,4.4559999999999995,False
+beautiful days,rock for people,3,2.8600000000000003,10.548,False
+beautiful days,rock werchter,3,3.0,5.295999999999999,False
+beautiful days,slam dunk,3,2.632,3.652,False
+beautiful days,sziget,3,2.948,12.639999999999999,False
+beautiful days,the great escape,5,4.188,35.332,False
+beautiful days,tomorrowland weekend 1,1,0.6839999999999999,13.928,False
+beautiful days,tomorrowland winter,0,0.0,0.9800000000000001,False
+beautiful days,trees,4,4.524,15.592,False
+beautiful days,trnsmt,2,0.66,5.524,False
+beautiful days,truck,3,4.284,11.956,False
+beautiful days,victorious,17,19.0,22.748,False
+beautiful days,vida,0,0.0,2.7199999999999998,False
+beautiful days,vieilles charrues,0,0.0,1.112,False
+beautiful days,wireless,0,0.0,4.74,False
+bestival,all points east,53,54.084,43.812,False
+bestival,beautiful days,10,7.336,15.32,False
+bestival,boardmasters,50,44.888000000000005,42.432,False
+bestival,download,7,8.716000000000001,29.888,False
+bestival,end of the road,9,11.32,16.944000000000003,False
+bestival,eurock ennes de belfort,6,6.144,6.0600000000000005,False
+bestival,glastonbury,124,118.892,224.40800000000002,False
+bestival,graspop metal meeting,1,0.884,23.668,False
+bestival,green man,15,13.072000000000001,39.344,False
+bestival,internacional de benic ssim,35,28.767999999999997,26.152,False
+bestival,isle of wight,49,47.416,79.43199999999999,False
+bestival,kendal calling,54,53.104,49.244,False
+bestival,latitude,45,45.220000000000006,68.05600000000001,False
+bestival,les ardentes,11,7.196,10.508,False
+bestival,mad cool,31,29.172,17.14,False
+bestival,maifeld derby,10,8.196000000000002,5.887999999999999,False
+bestival,mysteryland,7,7.000000000000001,4.4,False
+bestival,neighbourhood weekender,16,15.18,12.78,False
+bestival,nos alive,21,17.024,17.040000000000003,False
+bestival,off,7,7.08,6.620000000000001,False
+bestival,parklife,37,37.0,25.82,False
+bestival,pohoda,20,17.999999999999996,18.4,False
+bestival,pol and rock,2,2.472,9.2,False
+bestival,primavera sound,60,59.687999999999995,63.156,False
+bestival,pukkelpop,53,50.068,37.73599999999999,False
+bestival,ramblin man fair,1,1.0,13.456,False
+bestival,reading,61,57.12,93.34400000000001,False
+bestival,rebellion,1,1.8119999999999998,78.28399999999999,False
+bestival,reeperbahnfestival,5,5.0,13.659999999999998,False
+bestival,rock for people,14,10.384,36.93600000000001,False
+bestival,rock werchter,31,30.267999999999997,20.855999999999998,False
+bestival,slam dunk,3,2.9440000000000004,18.864,False
+bestival,sziget,59,52.467999999999996,51.008,False
+bestival,the great escape,40,45.532000000000004,150.876,False
+bestival,tomorrowland weekend 1,15,15.252000000000002,54.647999999999996,False
+bestival,tomorrowland winter,3,3.0,3.996,False
+bestival,trees,16,15.172,61.763999999999996,False
+bestival,trnsmt,20,20.948000000000004,26.508,False
+bestival,truck,29,28.68,42.532,False
+bestival,victorious,57,53.971999999999994,98.284,False
+bestival,vida,5,3.216,12.532,False
+bestival,vieilles charrues,7,6.804,5.888,False
+bestival,wireless,16,16.580000000000002,17.576,False
+boardmasters,all points east,18,19.78,22.7,False
+boardmasters,beautiful days,3,3.3,8.288,False
+boardmasters,bestival,11,17.392,10.272,False
+boardmasters,download,1,0.788,8.676,False
+boardmasters,end of the road,2,2.0,9.148,False
+boardmasters,eurock ennes de belfort,1,1.22,3.184,False
+boardmasters,glastonbury,36,42.416,72.70400000000001,False
+boardmasters,graspop metal meeting,0,0.45199999999999996,8.084,False
+boardmasters,green man,7,6.324,12.792,False
+boardmasters,internacional de benic ssim,10,9.280000000000001,8.948,False
+boardmasters,isle of wight,22,21.695999999999998,41.040000000000006,False
+boardmasters,kendal calling,23,24.636,21.996000000000002,False
+boardmasters,latitude,24,21.944,28.955999999999996,False
+boardmasters,les ardentes,0,1.284,2.596,False
+boardmasters,mad cool,10,9.780000000000001,7.984,False
+boardmasters,maifeld derby,2,2.404,2.124,False
+boardmasters,mysteryland,6,5.32,2.2880000000000003,False
+boardmasters,neighbourhood weekender,21,19.456000000000003,7.112,False
+boardmasters,nos alive,9,6.116,6.779999999999999,False
+boardmasters,off,1,0.66,1.8199999999999998,False
+boardmasters,parklife,20,19.112000000000002,11.792,False
+boardmasters,pohoda,6,7.256,6.132,False
+boardmasters,pol and rock,3,2.784,3.9800000000000004,False
+boardmasters,primavera sound,11,9.188,26.424,False
+boardmasters,pukkelpop,17,18.352,16.668,False
+boardmasters,ramblin man fair,1,1.0,6.268,False
+boardmasters,reading,18,27.224,34.948,False
+boardmasters,rebellion,1,0.716,29.904000000000003,False
+boardmasters,reeperbahnfestival,6,5.336,6.936,False
+boardmasters,rock for people,11,9.024000000000001,17.408,False
+boardmasters,rock werchter,18,18.548000000000002,8.056000000000001,False
+boardmasters,slam dunk,1,0.428,6.651999999999999,False
+boardmasters,sziget,25,21.067999999999998,21.704,False
+boardmasters,the great escape,23,29.536,60.752,False
+boardmasters,tomorrowland weekend 1,12,12.812,22.392,False
+boardmasters,tomorrowland winter,3,2.7,2.096,False
+boardmasters,trees,10,8.64,29.264000000000003,False
+boardmasters,trnsmt,13,14.155999999999999,11.956,False
+boardmasters,truck,17,16.884,17.868,False
+boardmasters,victorious,42,42.304,45.092,False
+boardmasters,vida,1,1.456,4.3,False
+boardmasters,vieilles charrues,1,1.0,3.1,False
+boardmasters,wireless,5,5.0,8.86,False
+download,all points east,7,7.308000000000001,19.804,False
+download,beautiful days,3,1.628,6.432,False
+download,bestival,7,4.188,14.096000000000002,False
+download,boardmasters,2,2.2,16.240000000000002,False
+download,end of the road,2,1.36,7.156,False
+download,eurock ennes de belfort,9,9.211999999999998,3.176,False
+download,glastonbury,20,18.684,95.71600000000001,False
+download,graspop metal meeting,70,72.832,8.283999999999999,False
+download,green man,0,0.0,14.224,False
+download,internacional de benic ssim,3,1.56,10.4,False
+download,isle of wight,6,6.215999999999999,40.492,False
+download,kendal calling,13,10.956,26.371999999999996,False
+download,latitude,4,3.532,31.924,False
+download,les ardentes,0,0.0,3.312,False
+download,mad cool,10,11.807999999999998,7.755999999999999,False
+download,maifeld derby,1,0.968,2.56,False
+download,mysteryland,0,0.0,1.6600000000000001,False
+download,neighbourhood weekender,3,2.78,5.2,False
+download,nos alive,1,1.22,6.596000000000001,False
+download,off,3,3.476,2.2840000000000003,False
+download,parklife,0,0.0,13.315999999999999,False
+download,pohoda,2,2.068,6.892,False
+download,pol and rock,20,19.256000000000004,3.652,False
+download,primavera sound,9,8.644000000000002,26.031999999999996,False
+download,pukkelpop,20,21.200000000000003,16.188000000000002,False
+download,ramblin man fair,24,20.887999999999998,5.184,False
+download,reading,50,61.93600000000001,37.772,False
+download,rebellion,8,4.66,31.276,False
+download,reeperbahnfestival,3,2.6599999999999997,8.576,False
+download,rock for people,68,61.244,17.444,False
+download,rock werchter,18,15.035999999999998,9.124,False
+download,slam dunk,55,53.768,8.58,False
+download,sziget,13,12.872,23.383999999999997,False
+download,the great escape,8,12.707999999999998,70.836,False
+download,tomorrowland weekend 1,1,1.0,24.972,False
+download,tomorrowland winter,0,0.0,1.5199999999999998,False
+download,trees,59,46.708,28.363999999999997,False
+download,trnsmt,6,5.756,11.616,False
+download,truck,8,8.459999999999999,21.544000000000004,False
+download,victorious,9,8.956,44.992,False
+download,vida,0,0.0,4.684,False
+download,vieilles charrues,1,0.9440000000000001,2.692,False
+download,wireless,0,0.0,8.384,False
+end of the road,all points east,26,26.704,9.804,False
+end of the road,beautiful days,1,0.564,1.444,False
+end of the road,bestival,3,3.764,7.384,False
+end of the road,boardmasters,2,2.0,7.544,False
+end of the road,download,0,0.328,6.295999999999999,False
+end of the road,eurock ennes de belfort,1,2.008,1.016,False
+end of the road,glastonbury,50,45.112,55.716,False
+end of the road,graspop metal meeting,0,0.0,3.8680000000000003,False
+end of the road,green man,22,21.828,5.48,False
+end of the road,internacional de benic ssim,6,7.648,5.188,False
+end of the road,isle of wight,3,1.38,17.944,False
+end of the road,kendal calling,4,2.692,12.696,False
+end of the road,latitude,14,20.232,14.42,False
+end of the road,les ardentes,0,0.556,1.696,False
+end of the road,mad cool,8,10.072,3.468,False
+end of the road,maifeld derby,6,5.1160000000000005,1.248,False
+end of the road,mysteryland,0,0.0,0.7160000000000001,False
+end of the road,neighbourhood weekender,0,0.54,2.952,False
+end of the road,nos alive,6,5.128,3.8160000000000003,False
+end of the road,off,4,4.348,0.98,False
+end of the road,parklife,1,1.0,9.32,False
+end of the road,pohoda,7,6.5,3.42,False
+end of the road,pol and rock,0,0.0,2.024,False
+end of the road,primavera sound,48,39.424,16.016,False
+end of the road,pukkelpop,14,11.128,7.532,False
+end of the road,ramblin man fair,0,0.0,2.028,False
+end of the road,reading,7,7.52,18.856,False
+end of the road,rebellion,0,0.688,18.908,False
+end of the road,reeperbahnfestival,5,5.0,5.5120000000000005,False
+end of the road,rock for people,1,0.904,8.92,False
+end of the road,rock werchter,11,9.591999999999999,4.327999999999999,False
+end of the road,slam dunk,0,0.0,3.312,False
+end of the road,sziget,10,8.916,11.351999999999999,False
+end of the road,the great escape,21,27.112,34.199999999999996,False
+end of the road,tomorrowland weekend 1,1,1.0,12.591999999999999,False
+end of the road,tomorrowland winter,0,0.0,0.952,False
+end of the road,trees,3,3.168,14.431999999999999,False
+end of the road,trnsmt,3,2.544,5.256,False
+end of the road,truck,7,6.836,12.596,False
+end of the road,victorious,10,7.604,20.528,False
+end of the road,vida,3,3.42,2.7039999999999997,False
+end of the road,vieilles charrues,2,1.572,1.116,False
+end of the road,wireless,0,0.0,4.084,False
+eurock ennes de belfort,all points east,11,7.576,2.228,False
+eurock ennes de belfort,boardmasters,3,2.7800000000000002,1.3039999999999998,False
+eurock ennes de belfort,download,2,1.04,0.356,False
+eurock ennes de belfort,end of the road,2,0.904,0.492,False
+eurock ennes de belfort,glastonbury,15,15.480000000000002,9.124,False
+eurock ennes de belfort,graspop metal meeting,0,1.064,3.0,False
+eurock ennes de belfort,internacional de benic ssim,1,1.744,1.3679999999999999,False
+eurock ennes de belfort,isle of wight,4,5.204000000000001,4.252,False
+eurock ennes de belfort,kendal calling,2,4.0440000000000005,3.904,False
+eurock ennes de belfort,latitude,4,5.94,3.4,False
+eurock ennes de belfort,mad cool,4,4.359999999999999,1.708,False
+eurock ennes de belfort,maifeld derby,5,4.220000000000001,0.3,False
+eurock ennes de belfort,mysteryland,1,0.872,2.552,False
+eurock ennes de belfort,neighbourhood weekender,2,0.8879999999999999,0.436,False
+eurock ennes de belfort,nos alive,4,2.3000000000000003,2.7720000000000002,False
+eurock ennes de belfort,off,1,1.096,0.488,False
+eurock ennes de belfort,parklife,0,1.292,1.868,False
+eurock ennes de belfort,pohoda,2,0.884,2.06,False
+eurock ennes de belfort,pol and rock,3,3.4480000000000004,1.42,False
+eurock ennes de belfort,primavera sound,7,8.956,8.008,False
+eurock ennes de belfort,pukkelpop,7,9.12,11.296,False
+eurock ennes de belfort,ramblin man fair,0,0.272,0.256,False
+eurock ennes de belfort,reading,4,8.604,3.064,False
+eurock ennes de belfort,rebellion,0,1.232,2.732,False
+eurock ennes de belfort,reeperbahnfestival,4,6.140000000000001,4.836,False
+eurock ennes de belfort,rock for people,6,4.747999999999999,1.9799999999999998,False
+eurock ennes de belfort,rock werchter,13,8.088,6.588,False
+eurock ennes de belfort,slam dunk,0,0.0,0.45599999999999996,False
+eurock ennes de belfort,sziget,18,13.052,16.108,False
+eurock ennes de belfort,the great escape,6,10.8,7.516,False
+eurock ennes de belfort,tomorrowland weekend 1,1,0.8799999999999999,17.948,False
+eurock ennes de belfort,tomorrowland winter,0,0.588,20.164,False
+eurock ennes de belfort,trees,1,1.6960000000000002,2.7359999999999998,False
+eurock ennes de belfort,trnsmt,3,3.508,0.956,False
+eurock ennes de belfort,truck,4,4.12,2.636,False
+eurock ennes de belfort,victorious,7,4.476,3.8000000000000003,False
+eurock ennes de belfort,vida,1,0.404,0.544,False
+eurock ennes de belfort,vieilles charrues,9,9.152,10.399999999999999,False
+eurock ennes de belfort,wireless,1,1.528,0.976,False
+glastonbury,all points east,163,165.9,155.788,False
+glastonbury,beautiful days,38,35.912,41.367999999999995,False
+glastonbury,bestival,85,94.696,117.32800000000002,False
+glastonbury,boardmasters,111,112.508,148.01600000000002,False
+glastonbury,download,12,14.248,102.50000000000001,False
+glastonbury,end of the road,18,20.756,44.1,False
+glastonbury,eurock ennes de belfort,32,35.096,24.888,False
+glastonbury,graspop metal meeting,4,5.672,67.176,False
+glastonbury,green man,46,50.848,102.33599999999998,False
+glastonbury,internacional de benic ssim,69,68.964,66.224,False
+glastonbury,isle of wight,121,126.71600000000001,380.632,False
+glastonbury,kendal calling,137,134.53199999999998,242.53199999999998,False
+glastonbury,latitude,129,143.548,274.304,False
+glastonbury,les ardentes,15,16.372,27.464,False
+glastonbury,mad cool,67,63.535999999999994,49.82000000000001,False
+glastonbury,maifeld derby,27,29.116,21.863999999999997,False
+glastonbury,mysteryland,18,19.516,16.124,False
+glastonbury,neighbourhood weekender,36,35.42400000000001,36.471999999999994,False
+glastonbury,nos alive,40,38.083999999999996,43.471999999999994,False
+glastonbury,off,16,15.296,16.852,False
+glastonbury,parklife,111,124.868,155.33200000000002,False
+glastonbury,pohoda,40,38.124,40.692,False
+glastonbury,pol and rock,8,11.08,29.328,False
+glastonbury,primavera sound,167,161.99599999999998,207.956,False
+glastonbury,pukkelpop,135,143.59199999999998,130.436,False
+glastonbury,ramblin man fair,7,6.836,33.016,False
+glastonbury,reading,126,157.932,347.91999999999996,False
+glastonbury,rebellion,30,30.924000000000003,321.55199999999996,False
+glastonbury,reeperbahnfestival,64,71.796,131.904,False
+glastonbury,rock for people,42,43.7,137.42399999999998,False
+glastonbury,rock werchter,89,87.45599999999999,67.14,False
+glastonbury,slam dunk,7,7.220000000000001,67.944,False
+glastonbury,sziget,161,150.156,174.37999999999997,False
+glastonbury,the great escape,141,196.464,671.312,False
+glastonbury,tomorrowland weekend 1,65,63.972,208.11599999999999,False
+glastonbury,tomorrowland winter,6,6.648,16.984,False
+glastonbury,trees,35,38.135999999999996,262.688,False
+glastonbury,trnsmt,74,72.82799999999999,103.032,False
+glastonbury,truck,80,91.792,233.108,False
+glastonbury,victorious,182,169.536,403.744,False
+glastonbury,vida,14,14.144,37.664,False
+glastonbury,vieilles charrues,24,20.631999999999998,23.304000000000002,False
+glastonbury,wireless,37,36.608000000000004,79.41200000000002,False
+graspop metal meeting,all points east,4,3.2240000000000006,7.86,False
+graspop metal meeting,beautiful days,0,0.272,1.584,False
+graspop metal meeting,bestival,0,0.032,1.952,False
+graspop metal meeting,boardmasters,1,0.316,3.16,False
+graspop metal meeting,download,15,24.576,3.388,False
+graspop metal meeting,end of the road,0,0.0,2.464,False
+graspop metal meeting,eurock ennes de belfort,8,7.284000000000001,12.548,False
+graspop metal meeting,glastonbury,7,5.276000000000001,34.932,False
+graspop metal meeting,green man,0,0.0,2.496,False
+graspop metal meeting,internacional de benic ssim,1,0.364,7.904,False
+graspop metal meeting,isle of wight,2,1.852,15.379999999999999,False
+graspop metal meeting,kendal calling,3,2.2840000000000003,10.203999999999999,False
+graspop metal meeting,latitude,1,1.052,10.052,False
+graspop metal meeting,les ardentes,0,0.0,4.692,False
+graspop metal meeting,mad cool,5,5.812,7.976,False
+graspop metal meeting,maifeld derby,0,0.492,1.464,False
+graspop metal meeting,mysteryland,0,0.0,14.628,False
+graspop metal meeting,neighbourhood weekender,1,0.8119999999999999,2.372,False
+graspop metal meeting,nos alive,0,0.0,7.052,False
+graspop metal meeting,off,0,1.104,2.1,False
+graspop metal meeting,parklife,0,0.0,7.316000000000001,False
+graspop metal meeting,pohoda,1,0.664,5.648000000000001,False
+graspop metal meeting,pol and rock,23,20.38,9.096000000000002,False
+graspop metal meeting,primavera sound,9,8.512,33.86,False
+graspop metal meeting,pukkelpop,19,19.123999999999995,61.007999999999996,False
+graspop metal meeting,ramblin man fair,14,13.232,1.52,False
+graspop metal meeting,reading,8,20.872,12.076,False
+graspop metal meeting,rebellion,3,3.864,11.395999999999999,False
+graspop metal meeting,reeperbahnfestival,0,0.0,4.348,False
+graspop metal meeting,rock for people,34,34.428,19.211999999999996,False
+graspop metal meeting,rock werchter,12,7.98,31.844,False
+graspop metal meeting,slam dunk,10,13.468,1.6439999999999997,False
+graspop metal meeting,sziget,8,8.128,43.988,False
+graspop metal meeting,the great escape,3,4.972,26.272,False
+graspop metal meeting,tomorrowland weekend 1,0,0.0,107.744,False
+graspop metal meeting,tomorrowland winter,1,1.0,21.772,False
+graspop metal meeting,trees,18,13.78,11.655999999999999,False
+graspop metal meeting,trnsmt,1,0.5,4.332,False
+graspop metal meeting,truck,0,0.844,9.364,False
+graspop metal meeting,victorious,2,2.184,16.348,False
+graspop metal meeting,vida,0,0.0,3.9960000000000004,False
+graspop metal meeting,vieilles charrues,0,0.0,14.016000000000002,False
+graspop metal meeting,wireless,0,0.0,3.628,False
+green man,all points east,40,38.28,21.564,False
+green man,beautiful days,2,1.56,5.872,False
+green man,bestival,6,6.255999999999999,7.62,False
+green man,boardmasters,5,2.8920000000000003,8.712,False
+green man,download,0,0.0,7.888000000000001,False
+green man,end of the road,35,33.82,8.463999999999999,False
+green man,eurock ennes de belfort,3,2.54,2.976,False
+green man,glastonbury,54,50.120000000000005,82.592,False
+green man,graspop metal meeting,0,0.0,6.732,False
+green man,internacional de benic ssim,6,6.151999999999999,8.08,False
+green man,isle of wight,1,1.0,38.664,False
+green man,kendal calling,17,17.32,23.312,False
+green man,latitude,23,23.932000000000002,27.232,False
+green man,les ardentes,2,1.332,1.776,False
+green man,mad cool,13,12.788,8.236,False
+green man,maifeld derby,8,5.788,1.732,False
+green man,mysteryland,0,0.0,1.964,False
+green man,neighbourhood weekender,2,1.448,6.356000000000001,False
+green man,nos alive,6,4.144,7.164000000000001,False
+green man,off,7,7.152000000000001,1.916,False
+green man,parklife,1,1.0,13.08,False
+green man,pohoda,6,5.119999999999999,5.0200000000000005,False
+green man,pol and rock,1,1.0,4.024,False
+green man,primavera sound,39,35.724,27.84,False
+green man,pukkelpop,16,18.476,15.192,False
+green man,ramblin man fair,1,0.6799999999999999,5.796,False
+green man,reading,9,9.620000000000001,32.472,False
+green man,rebellion,1,1.0,26.939999999999998,False
+green man,reeperbahnfestival,11,11.0,7.656000000000001,False
+green man,rock for people,1,0.944,18.116,False
+green man,rock werchter,11,11.152000000000001,7.312,False
+green man,slam dunk,0,0.0,5.215999999999999,False
+green man,sziget,17,11.12,20.556,False
+green man,the great escape,29,31.656,61.896,False
+green man,tomorrowland weekend 1,1,1.0,23.184,False
+green man,tomorrowland winter,0,0.0,2.252,False
+green man,trees,3,2.876,28.144,False
+green man,trnsmt,2,1.332,10.572,False
+green man,truck,13,10.58,18.3,False
+green man,victorious,12,10.516,41.568,False
+green man,vida,3,3.308,3.516,False
+green man,vieilles charrues,0,0.0,2.572,False
+green man,wireless,0,0.0,8.692,False
+internacional de benic ssim,all points east,33,31.448000000000004,9.700000000000001,False
+internacional de benic ssim,beautiful days,0,0.0,1.8,False
+internacional de benic ssim,bestival,3,8.068,2.04,False
+internacional de benic ssim,boardmasters,4,4.359999999999999,3.328,False
+internacional de benic ssim,download,1,1.28,2.892,False
+internacional de benic ssim,end of the road,7,5.736,3.0599999999999996,False
+internacional de benic ssim,eurock ennes de belfort,3,4.944,4.744,False
+internacional de benic ssim,glastonbury,25,30.0,34.636,False
+internacional de benic ssim,graspop metal meeting,0,0.4,6.244,False
+internacional de benic ssim,green man,4,4.064,2.7960000000000003,False
+internacional de benic ssim,isle of wight,17,19.112,16.94,False
+internacional de benic ssim,kendal calling,17,17.432000000000002,11.104000000000001,False
+internacional de benic ssim,latitude,10,12.272,11.46,False
+internacional de benic ssim,les ardentes,5,4.136,1.7599999999999998,False
+internacional de benic ssim,mad cool,32,26.032,19.112,False
+internacional de benic ssim,maifeld derby,5,3.2640000000000002,3.9000000000000004,False
+internacional de benic ssim,mysteryland,1,1.736,1.612,False
+internacional de benic ssim,neighbourhood weekender,13,15.024000000000001,2.7239999999999998,False
+internacional de benic ssim,nos alive,11,10.124,8.74,False
+internacional de benic ssim,off,1,2.952,1.088,False
+internacional de benic ssim,parklife,16,15.212000000000002,7.655999999999999,False
+internacional de benic ssim,pohoda,10,6.74,7.096,False
+internacional de benic ssim,pol and rock,2,1.648,3.62,False
+internacional de benic ssim,primavera sound,45,38.891999999999996,83.34,False
+internacional de benic ssim,pukkelpop,27,27.3,17.988000000000003,False
+internacional de benic ssim,ramblin man fair,0,0.0,1.8279999999999998,False
+internacional de benic ssim,reading,16,22.24,13.016,False
+internacional de benic ssim,rebellion,0,0.0,14.020000000000001,False
+internacional de benic ssim,reeperbahnfestival,9,8.828000000000001,9.996,False
+internacional de benic ssim,rock for people,10,11.968,6.859999999999999,False
+internacional de benic ssim,rock werchter,18,16.428,9.168000000000001,False
+internacional de benic ssim,slam dunk,2,0.62,2.06,False
+internacional de benic ssim,sziget,38,32.916,30.776,False
+internacional de benic ssim,the great escape,13,16.36,29.043999999999997,False
+internacional de benic ssim,tomorrowland weekend 1,7,7.912,28.476,False
+internacional de benic ssim,tomorrowland winter,1,0.944,3.66,False
+internacional de benic ssim,trees,3,3.248,12.040000000000001,False
+internacional de benic ssim,trnsmt,12,19.008000000000003,4.644,False
+internacional de benic ssim,truck,13,13.66,10.347999999999999,False
+internacional de benic ssim,victorious,29,24.396,17.916,False
+internacional de benic ssim,vida,8,8.468,12.66,False
+internacional de benic ssim,vieilles charrues,7,5.972,4.852,False
+internacional de benic ssim,wireless,5,4.9639999999999995,3.7520000000000002,False
+isle of wight,all points east,4,3.676,23.848000000000003,False
+isle of wight,boardmasters,12,10.02,13.312,False
+isle of wight,download,1,0.876,5.556,False
+isle of wight,end of the road,0,0.588,3.588,False
+isle of wight,eurock ennes de belfort,1,2.48,3.232,False
+isle of wight,glastonbury,42,37.352,146.076,False
+isle of wight,graspop metal meeting,1,0.196,2.272,False
+isle of wight,internacional de benic ssim,7,4.524,4.936,False
+isle of wight,kendal calling,39,31.432,44.416,False
+isle of wight,latitude,21,18.516,36.644,False
+isle of wight,mad cool,8,6.76,6.496,False
+isle of wight,maifeld derby,0,0.9319999999999999,1.608,False
+isle of wight,mysteryland,0,0.412,1.348,False
+isle of wight,neighbourhood weekender,8,7.248,4.608,False
+isle of wight,nos alive,1,0.888,4.744,False
+isle of wight,off,0,0.0,0.724,False
+isle of wight,parklife,10,6.96,28.712,False
+isle of wight,pohoda,1,0.104,1.216,False
+isle of wight,pol and rock,2,1.1880000000000002,3.6199999999999997,False
+isle of wight,primavera sound,6,3.376,28.98,False
+isle of wight,pukkelpop,11,10.112,14.852,False
+isle of wight,ramblin man fair,1,0.192,2.204,False
+isle of wight,reading,13,15.287999999999998,35.98,False
+isle of wight,rebellion,3,3.688,36.512,False
+isle of wight,reeperbahnfestival,8,9.352,21.156,False
+isle of wight,rock for people,18,9.88,23.328,False
+isle of wight,rock werchter,5,10.088,7.548,False
+isle of wight,slam dunk,1,1.056,5.808,False
+isle of wight,sziget,11,9.86,24.852,False
+isle of wight,the great escape,42,48.908,99.392,False
+isle of wight,tomorrowland weekend 1,5,2.928,32.048,False
+isle of wight,tomorrowland winter,0,0.0,2.2960000000000003,False
+isle of wight,trees,17,10.847999999999999,35.644,False
+isle of wight,trnsmt,12,14.280000000000001,11.452,False
+isle of wight,truck,41,37.112,38.44,False
+isle of wight,victorious,58,42.160000000000004,50.516,False
+isle of wight,vida,0,0.5,2.26,False
+isle of wight,vieilles charrues,2,2.4160000000000004,2.696,False
+isle of wight,wireless,0,0.228,11.280000000000001,False
+kendal calling,all points east,9,12.488,14.759999999999998,False
+kendal calling,beautiful days,3,2.512,1.856,False
+kendal calling,bestival,3,3.108,1.46,False
+kendal calling,boardmasters,9,10.34,8.044,False
+kendal calling,download,1,2.3120000000000003,5.9399999999999995,False
+kendal calling,end of the road,1,1.868,2.512,False
+kendal calling,eurock ennes de belfort,3,1.62,1.708,False
+kendal calling,glastonbury,44,45.256,73.908,False
+kendal calling,graspop metal meeting,0,0.364,2.18,False
+kendal calling,green man,0,2.28,2.344,False
+kendal calling,internacional de benic ssim,9,7.588,2.6759999999999997,False
+kendal calling,isle of wight,29,39.18,34.396,False
+kendal calling,latitude,24,24.555999999999997,19.528,False
+kendal calling,les ardentes,1,0.048,0.492,False
+kendal calling,mad cool,7,6.324,3.4599999999999995,False
+kendal calling,maifeld derby,3,1.904,1.3,False
+kendal calling,mysteryland,2,2.432,0.824,False
+kendal calling,neighbourhood weekender,21,20.832,3.04,False
+kendal calling,nos alive,5,2.112,2.528,False
+kendal calling,off,2,0.7,0.244,False
+kendal calling,parklife,14,10.852,17.984,False
+kendal calling,pohoda,0,1.604,1.208,False
+kendal calling,pol and rock,1,1.26,1.652,False
+kendal calling,primavera sound,8,6.388,16.708000000000002,False
+kendal calling,pukkelpop,20,11.424,9.052,False
+kendal calling,ramblin man fair,0,0.556,1.132,False
+kendal calling,reading,20,28.235999999999997,22.363999999999997,False
+kendal calling,rebellion,4,3.016,28.456,False
+kendal calling,reeperbahnfestival,13,17.944,15.703999999999999,False
+kendal calling,rock for people,16,14.18,13.100000000000001,False
+kendal calling,rock werchter,9,11.94,4.324,False
+kendal calling,slam dunk,1,0.544,4.0040000000000004,False
+kendal calling,sziget,11,8.696,14.564,False
+kendal calling,the great escape,18,34.868,50.647999999999996,False
+kendal calling,tomorrowland weekend 1,5,2.3800000000000003,15.564000000000002,False
+kendal calling,tomorrowland winter,1,0.528,1.52,False
+kendal calling,trees,12,12.123999999999999,22.112,False
+kendal calling,trnsmt,18,18.887999999999998,9.064,False
+kendal calling,truck,31,39.492,24.836,False
+kendal calling,victorious,39,47.804,30.596,False
+kendal calling,vida,2,0.676,2.3520000000000003,False
+kendal calling,vieilles charrues,3,2.06,2.432,False
+kendal calling,wireless,2,1.72,7.660000000000001,False
+latitude,all points east,70,65.916,31.188000000000002,False
+latitude,beautiful days,5,3.172,5.96,False
+latitude,bestival,26,25.012,16.672,False
+latitude,boardmasters,26,28.164,23.996000000000002,False
+latitude,download,2,2.728,16.732,False
+latitude,end of the road,19,14.352,8.155999999999999,False
+latitude,eurock ennes de belfort,9,6.784,3.3960000000000004,False
+latitude,glastonbury,108,105.764,170.27599999999998,False
+latitude,graspop metal meeting,0,0.8560000000000001,9.968,False
+latitude,green man,28,23.404,15.148,False
+latitude,internacional de benic ssim,25,27.008,12.728,False
+latitude,isle of wight,18,20.288,58.736,False
+latitude,kendal calling,40,40.752,42.08,False
+latitude,les ardentes,3,3.072,3.6799999999999997,False
+latitude,mad cool,30,27.276,9.72,False
+latitude,maifeld derby,17,13.576,3.34,False
+latitude,mysteryland,0,0.0,2.544,False
+latitude,neighbourhood weekender,18,17.912,7.916,False
+latitude,nos alive,22,18.759999999999998,10.188,False
+latitude,off,12,9.248,3.016,False
+latitude,parklife,14,11.120000000000001,28.715999999999998,False
+latitude,pohoda,15,16.747999999999998,7.84,False
+latitude,pol and rock,2,1.996,5.936,False
+latitude,primavera sound,56,48.612,44.956,False
+latitude,pukkelpop,44,39.324,23.223999999999997,False
+latitude,ramblin man fair,1,1.0,6.707999999999999,False
+latitude,reading,38,45.536,57.516,False
+latitude,rebellion,3,3.312,53.212,False
+latitude,reeperbahnfestival,26,28.772,19.312,False
+latitude,rock for people,13,11.399999999999999,27.84,False
+latitude,rock werchter,34,35.344,11.351999999999999,False
+latitude,slam dunk,1,0.26,9.972,False
+latitude,sziget,47,34.720000000000006,34.352,False
+latitude,the great escape,71,82.456,117.04,False
+latitude,tomorrowland weekend 1,2,2.0,39.368,False
+latitude,tomorrowland winter,0,0.0,3.332,False
+latitude,trees,8,8.232000000000001,46.62,False
+latitude,trnsmt,34,34.348,18.524,False
+latitude,truck,36,36.42,40.232,False
+latitude,victorious,42,41.46400000000001,68.18,False
+latitude,vida,5,3.88,6.568,False
+latitude,vieilles charrues,9,8.872,3.928,False
+latitude,wireless,2,0.532,12.616000000000001,False
+les ardentes,all points east,18,19.316000000000003,6.604000000000001,False
+les ardentes,beautiful days,1,1.004,2.084,False
+les ardentes,bestival,6,6.728000000000001,3.356,False
+les ardentes,boardmasters,3,2.604,3.412,False
+les ardentes,download,1,1.0,2.996,False
+les ardentes,end of the road,3,2.512,2.588,False
+les ardentes,eurock ennes de belfort,18,16.912,9.42,False
+les ardentes,glastonbury,28,24.543999999999997,31.235999999999997,False
+les ardentes,graspop metal meeting,0,0.0,25.088,False
+les ardentes,green man,4,4.02,3.676,False
+les ardentes,internacional de benic ssim,13,13.431999999999999,10.888,False
+les ardentes,isle of wight,2,1.7,11.66,False
+les ardentes,kendal calling,4,4.584,7.175999999999999,False
+les ardentes,latitude,7,7.4559999999999995,8.696,False
+les ardentes,mad cool,14,14.659999999999998,8.144,False
+les ardentes,maifeld derby,3,4.016,2.2840000000000003,False
+les ardentes,mysteryland,4,4.0,8.356,False
+les ardentes,neighbourhood weekender,2,2.0,2.172,False
+les ardentes,nos alive,4,3.4160000000000004,7.456000000000001,False
+les ardentes,off,4,4.78,3.564,False
+les ardentes,parklife,3,3.0,4.236000000000001,False
+les ardentes,pohoda,8,7.776,7.412,False
+les ardentes,pol and rock,1,0.9159999999999999,4.82,False
+les ardentes,primavera sound,23,23.14,31.791999999999998,False
+les ardentes,pukkelpop,32,30.084,41.108,False
+les ardentes,ramblin man fair,0,0.0,1.708,False
+les ardentes,reading,8,10.636000000000001,11.527999999999999,False
+les ardentes,rebellion,0,0.0,9.248,False
+les ardentes,reeperbahnfestival,4,4.000000000000001,4.756,False
+les ardentes,rock for people,2,2.36,11.196,False
+les ardentes,rock werchter,23,19.428,21.98,False
+les ardentes,slam dunk,0,0.0,1.8319999999999999,False
+les ardentes,sziget,33,26.144000000000002,33.34,False
+les ardentes,the great escape,6,5.443999999999999,21.403999999999996,False
+les ardentes,tomorrowland weekend 1,15,14.488000000000001,63.188,False
+les ardentes,tomorrowland winter,6,6.0,14.74,False
+les ardentes,trees,1,1.0,9.108,False
+les ardentes,trnsmt,1,0.42,3.696,False
+les ardentes,truck,2,3.3680000000000003,5.824,False
+les ardentes,victorious,8,7.768,14.144,False
+les ardentes,vida,5,3.812,5.656,False
+les ardentes,vieilles charrues,16,17.456,10.363999999999999,False
+les ardentes,wireless,10,10.748000000000001,2.584,False
+mad cool,all points east,15,18.392,4.484,False
+mad cool,boardmasters,3,3.2199999999999998,1.496,False
+mad cool,download,4,1.972,1.172,False
+mad cool,end of the road,2,1.812,0.864,False
+mad cool,eurock ennes de belfort,2,3.468,1.396,False
+mad cool,glastonbury,18,26.756,21.003999999999998,False
+mad cool,graspop metal meeting,0,0.36,1.1600000000000001,False
+mad cool,internacional de benic ssim,10,10.052000000000001,3.544,False
+mad cool,isle of wight,5,7.5680000000000005,7.716,False
+mad cool,kendal calling,6,6.9719999999999995,6.6160000000000005,False
+mad cool,latitude,7,10.044,4.912,False
+mad cool,maifeld derby,1,0.8839999999999999,0.344,False
+mad cool,mysteryland,2,1.8559999999999999,0.66,False
+mad cool,neighbourhood weekender,4,4.0280000000000005,1.132,False
+mad cool,nos alive,0,6.012,3.396,False
+mad cool,off,1,1.332,0.204,False
+mad cool,parklife,13,14.144,5.276000000000001,False
+mad cool,pohoda,0,1.264,1.024,False
+mad cool,pol and rock,3,2.8599999999999994,1.7080000000000002,False
+mad cool,primavera sound,24,22.028,33.164,False
+mad cool,pukkelpop,20,17.244,7.555999999999999,False
+mad cool,ramblin man fair,0,0.376,0.452,False
+mad cool,reading,2,8.959999999999999,5.708,False
+mad cool,rebellion,0,0.0,7.288,False
+mad cool,reeperbahnfestival,4,4.176,4.724,False
+mad cool,rock for people,9,6.055999999999999,4.4879999999999995,False
+mad cool,rock werchter,11,15.112,3.6879999999999997,False
+mad cool,slam dunk,1,0.6839999999999999,0.588,False
+mad cool,sziget,18,15.292,14.495999999999999,False
+mad cool,the great escape,8,13.703999999999999,15.5,False
+mad cool,tomorrowland weekend 1,4,5.116,15.956,False
+mad cool,tomorrowland winter,2,2.124,1.98,False
+mad cool,trees,7,4.584,5.684,False
+mad cool,trnsmt,5,6.7,2.072,False
+mad cool,truck,5,4.180000000000001,6.4719999999999995,False
+mad cool,victorious,9,10.112,8.116,False
+mad cool,vida,1,0.8240000000000001,2.968,False
+mad cool,vieilles charrues,3,4.128,1.1720000000000002,False
+mad cool,wireless,0,0.388,1.8519999999999999,False
+maifeld derby,all points east,7,9.015999999999998,2.452,False
+maifeld derby,beautiful days,0,0.0,0.308,False
+maifeld derby,bestival,0,0.776,0.448,False
+maifeld derby,boardmasters,2,2.1319999999999997,1.304,False
+maifeld derby,download,0,0.016,0.64,False
+maifeld derby,end of the road,5,5.936,0.8,False
+maifeld derby,eurock ennes de belfort,1,3.8560000000000003,1.74,False
+maifeld derby,glastonbury,15,13.548000000000002,13.048,False
+maifeld derby,graspop metal meeting,0,0.0,2.3440000000000003,False
+maifeld derby,green man,1,2.36,0.652,False
+maifeld derby,internacional de benic ssim,2,3.12,2.396,False
+maifeld derby,isle of wight,3,2.752,4.804,False
+maifeld derby,kendal calling,2,3.2359999999999998,3.9319999999999995,False
+maifeld derby,latitude,1,5.32,3.968,False
+maifeld derby,les ardentes,1,0.268,0.592,False
+maifeld derby,mad cool,3,2.7560000000000002,2.48,False
+maifeld derby,neighbourhood weekender,0,0.98,0.604,False
+maifeld derby,nos alive,1,2.66,1.0,False
+maifeld derby,off,0,1.02,0.0,False
+maifeld derby,parklife,2,1.9000000000000001,1.784,False
+maifeld derby,pohoda,1,1.328,1.0,False
+maifeld derby,pol and rock,1,0.592,1.076,False
+maifeld derby,primavera sound,9,12.416,9.835999999999999,False
+maifeld derby,pukkelpop,14,15.928,5.94,False
+maifeld derby,ramblin man fair,0,0.0,0.52,False
+maifeld derby,reading,7,5.300000000000001,3.816,False
+maifeld derby,rebellion,0,0.5519999999999999,2.596,False
+maifeld derby,reeperbahnfestival,10,15.328,12.828,False
+maifeld derby,rock for people,5,3.668,3.12,False
+maifeld derby,rock werchter,5,6.028,2.736,False
+maifeld derby,slam dunk,0,0.0,0.612,False
+maifeld derby,sziget,14,10.724,9.688,False
+maifeld derby,the great escape,4,9.572000000000001,9.332,False
+maifeld derby,tomorrowland weekend 1,1,1.0,8.984,False
+maifeld derby,tomorrowland winter,1,1.0,1.3399999999999999,False
+maifeld derby,trees,1,1.592,3.12,False
+maifeld derby,trnsmt,2,1.12,0.916,False
+maifeld derby,truck,1,3.1519999999999997,2.468,False
+maifeld derby,victorious,3,3.316,5.023999999999999,False
+maifeld derby,vida,0,0.248,0.544,False
+maifeld derby,vieilles charrues,6,6.1000000000000005,3.808,False
+maifeld derby,wireless,0,0.0,0.972,False
+mysteryland,all points east,0,0.0,0.7240000000000001,False
+mysteryland,boardmasters,0,0.68,0.42000000000000004,False
+mysteryland,download,0,0.0,0.548,False
+mysteryland,eurock ennes de belfort,1,0.892,2.176,False
+mysteryland,glastonbury,5,3.384,8.068,False
+mysteryland,graspop metal meeting,0,0.0,9.232,False
+mysteryland,internacional de benic ssim,0,0.012,0.32399999999999995,False
+mysteryland,isle of wight,1,1.204,3.06,False
+mysteryland,kendal calling,0,0.43600000000000005,1.8679999999999999,False
+mysteryland,latitude,0,0.0,1.436,False
+mysteryland,mad cool,1,1.0,0.516,False
+mysteryland,maifeld derby,0,0.0,0.116,False
+mysteryland,neighbourhood weekender,0,0.0,0.104,False
+mysteryland,parklife,9,9.508,1.7800000000000002,False
+mysteryland,primavera sound,1,1.3479999999999999,1.448,False
+mysteryland,pukkelpop,3,2.8600000000000003,18.663999999999998,False
+mysteryland,reading,1,2.58,1.64,False
+mysteryland,rebellion,0,0.0,2.004,False
+mysteryland,reeperbahnfestival,1,1.0,1.0,False
+mysteryland,rock werchter,0,0.0,11.44,False
+mysteryland,slam dunk,0,0.0,0.23199999999999998,False
+mysteryland,sziget,18,16.108,18.0,False
+mysteryland,the great escape,3,2.576,4.788,False
+mysteryland,tomorrowland weekend 1,34,34.448,39.396,False
+mysteryland,tomorrowland winter,7,7.056,7.904,False
+mysteryland,trees,1,1.0,1.8199999999999998,False
+mysteryland,trnsmt,1,0.804,0.504,False
+mysteryland,truck,1,1.0,2.2439999999999998,False
+mysteryland,victorious,2,0.62,2.488,False
+mysteryland,vida,0,0.0,0.244,False
+mysteryland,vieilles charrues,1,0.5920000000000001,2.932,False
+mysteryland,wireless,1,1.0,0.62,False
+neighbourhood weekender,all points east,2,5.348,3.7840000000000003,False
+neighbourhood weekender,boardmasters,1,2.544,1.44,False
+neighbourhood weekender,download,1,1.092,2.2560000000000002,False
+neighbourhood weekender,end of the road,0,0.192,0.716,False
+neighbourhood weekender,eurock ennes de belfort,1,1.412,0.652,False
+neighbourhood weekender,glastonbury,26,22.856,24.156,False
+neighbourhood weekender,graspop metal meeting,0,0.112,0.524,False
+neighbourhood weekender,internacional de benic ssim,8,5.3839999999999995,0.84,False
+neighbourhood weekender,isle of wight,21,22.811999999999998,10.2,False
+neighbourhood weekender,kendal calling,24,22.227999999999998,6.863999999999999,False
+neighbourhood weekender,latitude,10,9.396,5.936,False
+neighbourhood weekender,mad cool,8,7.492000000000001,1.212,False
+neighbourhood weekender,maifeld derby,1,0.6,0.392,False
+neighbourhood weekender,mysteryland,1,0.864,0.308,False
+neighbourhood weekender,nos alive,3,1.948,1.092,False
+neighbourhood weekender,off,0,0.0,0.14,False
+neighbourhood weekender,parklife,6,5.1160000000000005,6.167999999999999,False
+neighbourhood weekender,pohoda,0,0.424,0.224,False
+neighbourhood weekender,pol and rock,0,0.368,0.6559999999999999,False
+neighbourhood weekender,primavera sound,3,2.164,6.508,False
+neighbourhood weekender,pukkelpop,6,7.2,2.424,False
+neighbourhood weekender,ramblin man fair,0,0.276,0.388,False
+neighbourhood weekender,reading,18,18.216,6.864000000000001,False
+neighbourhood weekender,rebellion,0,0.0,7.444000000000001,False
+neighbourhood weekender,reeperbahnfestival,11,11.0,4.752,False
+neighbourhood weekender,rock for people,16,10.271999999999998,4.296,False
+neighbourhood weekender,rock werchter,7,8.448,1.544,False
+neighbourhood weekender,slam dunk,2,0.476,0.78,False
+neighbourhood weekender,sziget,5,5.656000000000001,3.856,False
+neighbourhood weekender,the great escape,7,15.596,15.355999999999998,False
+neighbourhood weekender,tomorrowland weekend 1,0,0.0,5.5600000000000005,False
+neighbourhood weekender,tomorrowland winter,0,0.0,0.724,False
+neighbourhood weekender,trees,6,3.436,7.103999999999999,False
+neighbourhood weekender,trnsmt,11,16.044,2.2640000000000002,False
+neighbourhood weekender,truck,23,24.880000000000003,7.52,False
+neighbourhood weekender,victorious,34,26.668,9.612,False
+neighbourhood weekender,vida,0,0.0,0.848,False
+neighbourhood weekender,vieilles charrues,0,0.296,0.544,False
+neighbourhood weekender,wireless,0,0.0,2.268,False
+nos alive,all points east,29,31.724000000000004,7.452000000000001,False
+nos alive,beautiful days,0,0.0,1.976,False
+nos alive,bestival,3,6.496,3.596,False
+nos alive,boardmasters,5,6.988,3.6239999999999997,False
+nos alive,download,1,1.512,3.788,False
+nos alive,end of the road,2,2.092,2.1279999999999997,False
+nos alive,eurock ennes de belfort,4,8.268,5.52,False
+nos alive,glastonbury,27,34.176,29.768,False
+nos alive,graspop metal meeting,0,0.0,7.396,False
+nos alive,green man,4,3.92,3.956,False
+nos alive,internacional de benic ssim,14,16.456,10.752,False
+nos alive,isle of wight,11,10.660000000000002,15.172,False
+nos alive,kendal calling,4,6.652000000000001,8.488000000000001,False
+nos alive,latitude,11,13.208000000000002,9.7,False
+nos alive,les ardentes,2,2.42,3.672,False
+nos alive,mad cool,15,23.668000000000003,8.048,False
+nos alive,maifeld derby,10,7.600000000000001,6.460000000000001,False
+nos alive,neighbourhood weekender,4,4.0520000000000005,2.008,False
+nos alive,off,1,1.3960000000000001,1.0,False
+nos alive,parklife,10,10.591999999999999,7.516,False
+nos alive,pohoda,11,8.484,11.0,False
+nos alive,pol and rock,1,0.504,1.0,False
+nos alive,primavera sound,23,22.471999999999998,26.156,False
+nos alive,pukkelpop,26,30.292,15.148000000000001,False
+nos alive,ramblin man fair,1,1.924,1.148,False
+nos alive,reading,11,17.976,12.304,False
+nos alive,rebellion,0,0.548,15.264,False
+nos alive,reeperbahnfestival,1,1.0,4.54,False
+nos alive,rock for people,10,7.992,10.0,False
+nos alive,rock werchter,21,28.82,10.328,False
+nos alive,slam dunk,0,0.0,2.3840000000000003,False
+nos alive,sziget,23,25.299999999999997,23.0,False
+nos alive,the great escape,3,7.5840000000000005,21.667999999999996,False
+nos alive,tomorrowland weekend 1,3,2.816,23.976000000000003,False
+nos alive,tomorrowland winter,0,0.0,2.8120000000000003,False
+nos alive,trees,2,1.704,10.588000000000001,False
+nos alive,trnsmt,11,12.947999999999999,4.472,False
+nos alive,truck,9,9.08,10.728,False
+nos alive,victorious,19,16.0,15.208,False
+nos alive,vida,2,3.9560000000000004,5.332,False
+nos alive,vieilles charrues,8,9.276,4.0760000000000005,False
+nos alive,wireless,1,1.7360000000000002,3.512,False
+off,all points east,13,11.356000000000002,3.944,False
+off,beautiful days,1,0.384,1.444,False
+off,bestival,6,4.172,2.212,False
+off,boardmasters,0,0.228,1.7880000000000003,False
+off,download,2,2.396,1.72,False
+off,end of the road,14,11.159999999999998,1.6360000000000001,False
+off,eurock ennes de belfort,4,3.3280000000000003,3.3880000000000003,False
+off,glastonbury,19,19.844,17.112,False
+off,graspop metal meeting,5,3.536,4.564,False
+off,green man,5,5.504,2.128,False
+off,internacional de benic ssim,7,6.56,8.168,False
+off,isle of wight,2,1.672,6.652,False
+off,kendal calling,1,1.7880000000000003,3.684,False
+off,latitude,4,6.684000000000001,5.279999999999999,False
+off,les ardentes,4,2.7399999999999998,1.624,False
+off,mad cool,11,8.840000000000002,6.14,False
+off,maifeld derby,7,5.943999999999999,5.236000000000001,False
+off,mysteryland,1,1.0,1.0,False
+off,neighbourhood weekender,0,0.0,1.3640000000000003,False
+off,nos alive,5,4.788,2.524,False
+off,parklife,6,6.0,2.104,False
+off,pohoda,12,10.616,10.652,False
+off,pol and rock,8,7.74,15.792,False
+off,primavera sound,36,37.01199999999999,29.884000000000004,False
+off,pukkelpop,10,12.936,7.792,False
+off,ramblin man fair,0,0.0,0.8720000000000001,False
+off,reading,3,6.192,6.387999999999999,False
+off,rebellion,1,0.8399999999999999,5.516000000000001,False
+off,reeperbahnfestival,3,3.0,3.296,False
+off,rock for people,3,2.428,3.2,False
+off,rock werchter,6,5.144,3.78,False
+off,slam dunk,0,0.0,1.1320000000000001,False
+off,sziget,18,14.152000000000001,11.66,False
+off,the great escape,4,4.904,11.024000000000001,False
+off,tomorrowland weekend 1,2,2.0,10.876,False
+off,tomorrowland winter,0,0.0,2.388,False
+off,trees,5,3.452,4.716,False
+off,trnsmt,2,1.8320000000000003,1.9520000000000002,False
+off,truck,2,2.428,2.984,False
+off,victorious,4,3.1679999999999997,7.508,False
+off,vida,3,2.472,5.128,False
+off,vieilles charrues,4,2.976,2.6,False
+off,wireless,1,1.3719999999999999,1.3320000000000003,False
+parklife,all points east,15,12.943999999999999,4.62,False
+parklife,boardmasters,16,16.564,6.936,False
+parklife,download,0,0.0,3.268,False
+parklife,eurock ennes de belfort,2,1.3599999999999999,1.524,False
+parklife,glastonbury,41,33.436,54.296,False
+parklife,graspop metal meeting,0,0.0,0.28,False
+parklife,internacional de benic ssim,0,0.776,1.012,False
+parklife,isle of wight,3,6.239999999999999,25.328000000000003,False
+parklife,kendal calling,3,4.611999999999999,18.436,False
+parklife,latitude,2,3.9999999999999996,15.528,False
+parklife,mad cool,5,3.952,1.5,False
+parklife,maifeld derby,2,1.228,1.044,False
+parklife,mysteryland,1,1.612,0.156,False
+parklife,pol and rock,0,0.0,0.5920000000000001,False
+parklife,primavera sound,7,6.66,5.6,False
+parklife,pukkelpop,14,13.855999999999998,3.9879999999999995,False
+parklife,reading,22,23.324,13.059999999999999,False
+parklife,rebellion,0,0.0,13.356000000000002,False
+parklife,reeperbahnfestival,3,2.816,12.200000000000001,False
+parklife,rock for people,0,0.596,7.260000000000001,False
+parklife,rock werchter,4,1.116,2.08,False
+parklife,slam dunk,0,0.0,3.104,False
+parklife,sziget,23,14.675999999999998,7.548,False
+parklife,the great escape,4,8.812000000000001,34.916,False
+parklife,tomorrowland weekend 1,24,18.716,10.203999999999999,False
+parklife,tomorrowland winter,2,0.648,0.784,False
+parklife,trees,0,0.0,13.348,False
+parklife,trnsmt,5,4.851999999999999,4.491999999999999,False
+parklife,truck,4,5.180000000000001,16.491999999999997,False
+parklife,victorious,8,4.34,19.451999999999998,False
+parklife,vida,0,0.0,1.048,False
+parklife,vieilles charrues,3,1.7520000000000002,1.036,False
+parklife,wireless,3,4.628,5.652,False
+pohoda,all points east,23,25.572,7.784000000000001,False
+pohoda,beautiful days,3,0.48,1.6960000000000002,False
+pohoda,bestival,6,3.032,1.804,False
+pohoda,boardmasters,5,2.688,2.616,False
+pohoda,download,0,0.988,2.388,False
+pohoda,end of the road,3,3.0519999999999996,2.344,False
+pohoda,eurock ennes de belfort,5,6.784000000000001,3.6879999999999997,False
+pohoda,glastonbury,22,24.692,24.624,False
+pohoda,graspop metal meeting,0,0.732,3.628,False
+pohoda,green man,3,2.8120000000000003,2.74,False
+pohoda,internacional de benic ssim,2,5.167999999999999,6.376,False
+pohoda,isle of wight,5,5.952000000000001,13.008000000000001,False
+pohoda,kendal calling,8,6.892,8.296,False
+pohoda,latitude,11,11.332,8.224,False
+pohoda,les ardentes,1,3.02,0.88,False
+pohoda,mad cool,10,9.74,7.348,False
+pohoda,maifeld derby,8,8.144,0.904,False
+pohoda,neighbourhood weekender,5,4.672,2.164,False
+pohoda,nos alive,6,7.0,6.0,False
+pohoda,off,5,7.644,4.996,False
+pohoda,parklife,7,7.0,5.92,False
+pohoda,pol and rock,5,3.6959999999999997,4.584,False
+pohoda,primavera sound,34,32.332,33.756,False
+pohoda,pukkelpop,19,19.804000000000002,12.508000000000001,False
+pohoda,ramblin man fair,0,0.0,1.544,False
+pohoda,reading,5,7.264,9.784,False
+pohoda,rebellion,2,1.484,10.664,False
+pohoda,reeperbahnfestival,6,6.0,12.200000000000001,False
+pohoda,rock for people,15,18.088,15.0,False
+pohoda,rock werchter,13,13.723999999999998,6.88,False
+pohoda,slam dunk,0,0.0,1.8,False
+pohoda,sziget,21,20.852000000000004,21.0,False
+pohoda,the great escape,5,9.24,19.976,False
+pohoda,tomorrowland weekend 1,3,2.672,20.544,False
+pohoda,tomorrowland winter,0,0.0,3.7319999999999998,False
+pohoda,trees,2,3.1119999999999997,9.516,False
+pohoda,trnsmt,2,3.32,3.664,False
+pohoda,truck,7,6.5,7.952000000000001,False
+pohoda,victorious,10,8.2,13.772,False
+pohoda,vida,1,0.748,3.5320000000000005,False
+pohoda,vieilles charrues,8,6.6240000000000006,5.028,False
+pohoda,wireless,0,0.84,2.9759999999999995,False
+pol and rock,all points east,0,0.34,1.296,False
+pol and rock,boardmasters,0,0.216,0.248,False
+pol and rock,download,3,3.364,0.868,False
+pol and rock,end of the road,0,0.0,0.284,False
+pol and rock,eurock ennes de belfort,6,4.755999999999999,2.364,False
+pol and rock,glastonbury,6,3.148,8.88,False
+pol and rock,graspop metal meeting,0,1.012,1.3279999999999998,False
+pol and rock,internacional de benic ssim,1,0.368,1.116,False
+pol and rock,isle of wight,0,0.532,3.476,False
+pol and rock,kendal calling,1,0.6000000000000001,1.816,False
+pol and rock,latitude,0,0.0,1.7,False
+pol and rock,mad cool,0,0.656,1.396,False
+pol and rock,maifeld derby,1,1.34,0.328,False
+pol and rock,neighbourhood weekender,1,0.256,0.324,False
+pol and rock,nos alive,0,0.204,2.476,False
+pol and rock,off,1,1.26,2.3,False
+pol and rock,parklife,0,0.0,2.108,False
+pol and rock,pohoda,0,0.908,1.348,False
+pol and rock,primavera sound,0,0.9840000000000001,7.372,False
+pol and rock,pukkelpop,0,2.8920000000000003,2.148,False
+pol and rock,ramblin man fair,0,0.336,0.16,False
+pol and rock,reading,0,2.8360000000000003,2.3640000000000003,False
+pol and rock,rebellion,0,0.5800000000000001,2.516,False
+pol and rock,reeperbahnfestival,1,0.6279999999999999,3.1399999999999997,False
+pol and rock,rock for people,5,5.12,4.8,False
+pol and rock,rock werchter,2,1.296,1.36,False
+pol and rock,slam dunk,2,1.7519999999999998,0.19599999999999998,False
+pol and rock,sziget,0,2.516,6.34,False
+pol and rock,the great escape,1,1.98,5.048,False
+pol and rock,tomorrowland weekend 1,1,1.448,6.983999999999999,False
+pol and rock,tomorrowland winter,0,0.0,2.856,False
+pol and rock,trees,4,3.92,2.3240000000000003,False
+pol and rock,trnsmt,0,0.036,0.8,False
+pol and rock,truck,0,0.0,2.2800000000000002,False
+pol and rock,victorious,1,0.592,3.032,False
+pol and rock,vida,0,0.0,0.7879999999999999,False
+pol and rock,vieilles charrues,2,1.2240000000000002,2.408,False
+pol and rock,wireless,0,0.0,0.8200000000000001,False
+primavera sound,all points east,50,61.46,17.503999999999998,False
+primavera sound,beautiful days,0,0.228,2.144,False
+primavera sound,bestival,2,2.668,1.512,False
+primavera sound,boardmasters,4,4.272,6.508,False
+primavera sound,download,1,2.192,6.8,False
+primavera sound,end of the road,14,16.567999999999998,3.96,False
+primavera sound,eurock ennes de belfort,21,21.048000000000002,11.196,False
+primavera sound,glastonbury,112,110.624,99.34400000000001,False
+primavera sound,graspop metal meeting,1,1.376,7.8919999999999995,False
+primavera sound,green man,5,5.132,2.496,False
+primavera sound,internacional de benic ssim,15,16.259999999999998,26.536,False
+primavera sound,isle of wight,8,8.904,42.46,False
+primavera sound,kendal calling,9,10.228,27.42,False
+primavera sound,latitude,24,33.324,25.311999999999998,False
+primavera sound,les ardentes,1,0.656,1.408,False
+primavera sound,mad cool,40,31.371999999999996,37.03999999999999,False
+primavera sound,maifeld derby,22,22.387999999999998,4.896,False
+primavera sound,mysteryland,3,3.5720000000000005,2.8120000000000003,False
+primavera sound,neighbourhood weekender,0,2.14,4.5600000000000005,False
+primavera sound,nos alive,16,12.472,14.123999999999999,False
+primavera sound,off,7,9.736,2.224,False
+primavera sound,parklife,32,31.948,22.035999999999998,False
+primavera sound,pohoda,9,7.708,7.9479999999999995,False
+primavera sound,pol and rock,5,3.364,8.152000000000001,False
+primavera sound,pukkelpop,55,61.8,31.768,False
+primavera sound,ramblin man fair,0,0.0,2.04,False
+primavera sound,reading,24,34.808,26.86,False
+primavera sound,rebellion,1,2.076,30.82,False
+primavera sound,reeperbahnfestival,28,29.572,38.727999999999994,False
+primavera sound,rock for people,8,6.504,14.312,False
+primavera sound,rock werchter,30,24.052,17.096,False
+primavera sound,slam dunk,1,0.732,3.984,False
+primavera sound,sziget,61,54.336,61.70399999999999,False
+primavera sound,the great escape,27,48.312000000000005,62.208,False
+primavera sound,tomorrowland weekend 1,13,12.687999999999999,60.815999999999995,False
+primavera sound,tomorrowland winter,3,2.42,9.948,False
+primavera sound,trees,5,7.575999999999999,27.456,False
+primavera sound,trnsmt,5,6.711999999999999,9.224,False
+primavera sound,truck,9,12.276,28.643999999999995,False
+primavera sound,victorious,21,15.203999999999999,38.772,False
+primavera sound,vida,15,13.812000000000001,17.956,False
+primavera sound,vieilles charrues,8,7.599999999999999,10.604000000000001,False
+primavera sound,wireless,5,5.6,9.18,False
+pukkelpop,all points east,34,42.432,9.299999999999999,False
+pukkelpop,beautiful days,0,0.0,0.956,False
+pukkelpop,bestival,3,3.132,0.776,False
+pukkelpop,boardmasters,8,9.384,2.844,False
+pukkelpop,download,12,9.452,4.52,False
+pukkelpop,end of the road,5,6.296,2.452,False
+pukkelpop,eurock ennes de belfort,16,17.036,18.4,False
+pukkelpop,glastonbury,57,59.032,49.480000000000004,False
+pukkelpop,graspop metal meeting,8,5.64,37.604,False
+pukkelpop,green man,1,2.06,1.0,False
+pukkelpop,internacional de benic ssim,16,13.807999999999998,6.927999999999999,False
+pukkelpop,isle of wight,14,15.276,23.78,False
+pukkelpop,kendal calling,8,14.456,14.016,False
+pukkelpop,latitude,20,27.136,12.86,False
+pukkelpop,les ardentes,4,3.752,1.848,False
+pukkelpop,mad cool,26,24.636,9.068,False
+pukkelpop,maifeld derby,15,14.42,2.192,False
+pukkelpop,mysteryland,12,11.292,31.252000000000002,False
+pukkelpop,neighbourhood weekender,6,6.296,2.588,False
+pukkelpop,nos alive,14,10.676,7.068,False
+pukkelpop,off,1,4.2,1.716,False
+pukkelpop,parklife,34,36.656000000000006,12.168000000000001,False
+pukkelpop,pohoda,6,5.32,2.752,False
+pukkelpop,pol and rock,8,8.755999999999998,10.064,False
+pukkelpop,primavera sound,49,49.392,36.604,False
+pukkelpop,ramblin man fair,0,0.3,1.1640000000000001,False
+pukkelpop,reading,18,43.816,14.572000000000001,False
+pukkelpop,rebellion,0,1.1280000000000001,17.064,False
+pukkelpop,reeperbahnfestival,16,15.988,12.4,False
+pukkelpop,rock for people,29,22.496000000000002,24.968,False
+pukkelpop,rock werchter,84,60.151999999999994,40.05200000000001,False
+pukkelpop,slam dunk,10,7.912000000000001,1.9560000000000002,False
+pukkelpop,sziget,70,55.028000000000006,53.168,False
+pukkelpop,the great escape,18,30.659999999999997,29.82,False
+pukkelpop,tomorrowland weekend 1,44,42.123999999999995,155.92,False
+pukkelpop,tomorrowland winter,9,10.424000000000001,34.44800000000001,False
+pukkelpop,trees,15,13.9,14.675999999999998,False
+pukkelpop,trnsmt,11,11.600000000000001,5.14,False
+pukkelpop,truck,20,19.384,15.463999999999999,False
+pukkelpop,victorious,28,20.939999999999998,20.387999999999998,False
+pukkelpop,vida,5,3.476,4.48,False
+pukkelpop,vieilles charrues,14,13.748,21.46,False
+pukkelpop,wireless,8,7.272,5.356,False
+ramblin man fair,all points east,0,0.0,6.016,False
+ramblin man fair,beautiful days,0,0.268,1.056,False
+ramblin man fair,bestival,0,0.0,0.772,False
+ramblin man fair,boardmasters,0,0.0,0.8520000000000001,False
+ramblin man fair,download,0,1.764,1.7760000000000002,False
+ramblin man fair,end of the road,0,0.0,1.784,False
+ramblin man fair,eurock ennes de belfort,1,0.5680000000000001,0.672,False
+ramblin man fair,glastonbury,2,2.152,20.48,False
+ramblin man fair,graspop metal meeting,3,4.712,1.1640000000000001,False
+ramblin man fair,green man,0,0.144,1.2,False
+ramblin man fair,internacional de benic ssim,0,0.0,1.564,False
+ramblin man fair,isle of wight,2,2.58,10.244,False
+ramblin man fair,kendal calling,2,1.296,6.208,False
+ramblin man fair,latitude,1,1.0,6.448,False
+ramblin man fair,les ardentes,0,0.0,0.22,False
+ramblin man fair,mad cool,1,1.18,1.868,False
+ramblin man fair,maifeld derby,0,0.0,0.352,False
+ramblin man fair,mysteryland,0,0.0,0.52,False
+ramblin man fair,neighbourhood weekender,1,0.5720000000000001,1.712,False
+ramblin man fair,nos alive,1,0.244,1.476,False
+ramblin man fair,off,0,0.0,0.252,False
+ramblin man fair,parklife,0,0.0,5.156000000000001,False
+ramblin man fair,pohoda,0,0.0,0.856,False
+ramblin man fair,pol and rock,2,2.3600000000000003,0.88,False
+ramblin man fair,primavera sound,0,0.0,7.0,False
+ramblin man fair,pukkelpop,0,0.584,3.384,False
+ramblin man fair,reading,0,0.876,7.247999999999999,False
+ramblin man fair,rebellion,0,0.0,8.0,False
+ramblin man fair,reeperbahnfestival,0,0.0,3.092,False
+ramblin man fair,rock for people,3,2.46,4.72,False
+ramblin man fair,rock werchter,3,1.8599999999999999,1.968,False
+ramblin man fair,slam dunk,0,0.0,0.976,False
+ramblin man fair,sziget,1,0.66,5.032,False
+ramblin man fair,the great escape,1,1.808,14.280000000000001,False
+ramblin man fair,tomorrowland weekend 1,0,0.0,5.248,False
+ramblin man fair,tomorrowland winter,0,0.0,0.6080000000000001,False
+ramblin man fair,trees,3,2.6,7.140000000000001,False
+ramblin man fair,trnsmt,0,0.0,2.4,False
+ramblin man fair,truck,0,0.168,6.232,False
+ramblin man fair,victorious,0,0.212,9.84,False
+ramblin man fair,vida,0,0.0,0.844,False
+ramblin man fair,vieilles charrues,0,0.0,0.572,False
+ramblin man fair,wireless,0,0.0,2.232,False
+reading,all points east,72,65.58000000000001,51.216,False
+reading,beautiful days,5,3.2119999999999997,12.556,False
+reading,bestival,46,42.508,29.24,False
+reading,boardmasters,71,60.168,35.884,False
+reading,download,63,48.116,28.400000000000002,False
+reading,end of the road,8,7.0280000000000005,16.588,False
+reading,eurock ennes de belfort,23,17.04,7.896,False
+reading,glastonbury,166,145.544,277.092,False
+reading,graspop metal meeting,43,24.363999999999997,19.116,False
+reading,green man,8,7.624,27.94,False
+reading,internacional de benic ssim,59,53.412,22.688000000000002,False
+reading,isle of wight,65,62.668000000000006,110.256,False
+reading,kendal calling,97,82.34400000000001,69.55999999999999,False
+reading,latitude,66,61.36,79.78,False
+reading,les ardentes,10,7.496,7.124,False
+reading,mad cool,51,41.023999999999994,18.144,False
+reading,maifeld derby,10,9.296,6.231999999999999,False
+reading,mysteryland,12,9.34,4.628,False
+reading,neighbourhood weekender,46,40.696,13.420000000000002,False
+reading,nos alive,28,18.396,16.259999999999998,False
+reading,off,5,5.096,5.152,False
+reading,parklife,58,51.268,44.891999999999996,False
+reading,pohoda,15,12.364,14.36,False
+reading,pol and rock,16,11.799999999999999,9.564000000000002,False
+reading,primavera sound,67,55.348000000000006,70.29599999999999,False
+reading,pukkelpop,95,90.57600000000002,40.036,False
+reading,ramblin man fair,4,2.484,11.7,False
+reading,rebellion,8,7.696,88.43599999999999,False
+reading,reeperbahnfestival,42,43.940000000000005,32.291999999999994,False
+reading,rock for people,123,91.6,45.224,False
+reading,rock werchter,94,65.588,21.092000000000002,False
+reading,slam dunk,42,38.452,17.820000000000004,False
+reading,sziget,98,78.124,55.3,False
+reading,the great escape,83,117.796,183.35999999999999,False
+reading,tomorrowland weekend 1,37,30.604,63.876000000000005,False
+reading,tomorrowland winter,3,1.8120000000000003,5.236,False
+reading,trees,97,79.06400000000001,77.82000000000001,False
+reading,trnsmt,75,69.852,29.871999999999996,False
+reading,truck,100,88.096,64.73599999999999,False
+reading,victorious,105,78.13600000000001,116.75999999999999,False
+reading,vida,2,2.8280000000000003,11.82,False
+reading,vieilles charrues,8,5.708,6.808000000000001,False
+reading,wireless,37,37.228,23.796,False
+rebellion,all points east,3,2.7,28.84,False
+rebellion,beautiful days,3,3.916,5.636,False
+rebellion,bestival,1,0.464,9.564,False
+rebellion,boardmasters,1,1.284,21.152,False
+rebellion,download,3,5.0600000000000005,16.136000000000003,False
+rebellion,end of the road,1,1.108,8.22,False
+rebellion,eurock ennes de belfort,2,0.652,5.316,False
+rebellion,glastonbury,19,16.608,188.09199999999998,False
+rebellion,graspop metal meeting,3,1.556,7.996,False
+rebellion,green man,0,0.0,10.696,False
+rebellion,internacional de benic ssim,1,1.0,10.932,False
+rebellion,isle of wight,6,5.311999999999999,78.204,False
+rebellion,kendal calling,5,5.464,54.083999999999996,False
+rebellion,latitude,4,4.0200000000000005,49.76,False
+rebellion,les ardentes,0,0.0,1.98,False
+rebellion,mad cool,0,0.0,11.399999999999999,False
+rebellion,maifeld derby,1,0.4,4.064,False
+rebellion,mysteryland,0,0.0,2.5,False
+rebellion,neighbourhood weekender,1,1.0,6.936,False
+rebellion,nos alive,1,0.288,8.736,False
+rebellion,off,0,0.064,2.796,False
+rebellion,parklife,0,0.0,33.708,False
+rebellion,pohoda,0,0.488,5.408,False
+rebellion,pol and rock,6,5.420000000000001,5.716,False
+rebellion,primavera sound,3,2.484,41.76,False
+rebellion,pukkelpop,4,3.0640000000000005,22.456,False
+rebellion,ramblin man fair,1,1.0,7.104000000000001,False
+rebellion,reading,4,4.52,57.788000000000004,False
+rebellion,reeperbahnfestival,3,2.6959999999999997,26.756,False
+rebellion,rock for people,3,3.132,30.98,False
+rebellion,rock werchter,2,1.3079999999999998,11.096,False
+rebellion,slam dunk,6,6.556,10.56,False
+rebellion,sziget,2,2.132,31.944,False
+rebellion,the great escape,12,12.024000000000001,129.82,False
+rebellion,tomorrowland weekend 1,1,1.0,44.372,False
+rebellion,tomorrowland winter,0,0.0,4.104,False
+rebellion,trees,23,22.904,53.028,False
+rebellion,trnsmt,1,1.1119999999999999,18.988,False
+rebellion,truck,7,5.832000000000001,44.596,False
+rebellion,victorious,6,4.668,78.424,False
+rebellion,vida,0,0.0,5.964,False
+rebellion,vieilles charrues,2,0.644,4.276000000000001,False
+rebellion,wireless,0,0.0,16.896,False
+reeperbahnfestival,all points east,6,4.196,3.86,False
+reeperbahnfestival,boardmasters,5,5.368,5.82,False
+reeperbahnfestival,eurock ennes de belfort,6,2.48,5.256,False
+reeperbahnfestival,glastonbury,26,16.744,41.263999999999996,False
+reeperbahnfestival,internacional de benic ssim,1,0.72,2.188,False
+reeperbahnfestival,isle of wight,6,6.22,15.664,False
+reeperbahnfestival,kendal calling,17,11.256,14.792000000000002,False
+reeperbahnfestival,latitude,24,20.208000000000002,12.2,False
+reeperbahnfestival,mad cool,3,2.296,3.436,False
+reeperbahnfestival,maifeld derby,11,6.62,3.48,False
+reeperbahnfestival,parklife,2,1.064,6.356,False
+reeperbahnfestival,pol and rock,1,1.096,0.924,False
+reeperbahnfestival,primavera sound,5,3.68,5.248,False
+reeperbahnfestival,pukkelpop,12,9.196,5.764,False
+reeperbahnfestival,reading,9,13.240000000000002,8.628,False
+reeperbahnfestival,rebellion,0,0.996,7.603999999999999,False
+reeperbahnfestival,rock for people,8,5.412,9.076,False
+reeperbahnfestival,rock werchter,7,2.692,1.6,False
+reeperbahnfestival,slam dunk,1,0.62,2.62,False
+reeperbahnfestival,sziget,10,9.148,13.668000000000001,False
+reeperbahnfestival,the great escape,48,57.22,29.416,False
+reeperbahnfestival,tomorrowland weekend 1,0,0.0,13.452,False
+reeperbahnfestival,trees,8,6.284,8.224,False
+reeperbahnfestival,trnsmt,4,5.08,2.62,False
+reeperbahnfestival,truck,12,10.116,10.427999999999999,False
+reeperbahnfestival,victorious,10,7.9719999999999995,12.972000000000001,False
+reeperbahnfestival,vieilles charrues,2,1.7839999999999998,3.972,False
+reeperbahnfestival,wireless,0,0.0,2.928,False
+rock for people,all points east,8,11.315999999999999,8.831999999999999,False
+rock for people,beautiful days,0,0.11599999999999999,2.112,False
+rock for people,bestival,4,2.316,1.58,False
+rock for people,boardmasters,5,5.736000000000001,3.7600000000000002,False
+rock for people,download,11,18.84,4.4559999999999995,False
+rock for people,end of the road,2,1.3880000000000001,2.548,False
+rock for people,eurock ennes de belfort,7,8.08,6.152,False
+rock for people,glastonbury,22,22.459999999999994,36.372,False
+rock for people,graspop metal meeting,7,14.168000000000001,5.239999999999999,False
+rock for people,green man,0,0.6759999999999999,2.7,False
+rock for people,internacional de benic ssim,5,7.42,3.7079999999999997,False
+rock for people,isle of wight,9,18.831999999999997,23.5,False
+rock for people,kendal calling,14,15.864,13.36,False
+rock for people,latitude,2,6.88,12.996,False
+rock for people,les ardentes,1,0.356,1.356,False
+rock for people,mad cool,12,13.459999999999999,5.036,False
+rock for people,maifeld derby,1,1.7560000000000002,0.78,False
+rock for people,neighbourhood weekender,6,10.164,2.28,False
+rock for people,nos alive,3,3.704,3.0,False
+rock for people,off,0,0.8839999999999999,1.18,False
+rock for people,parklife,3,2.6360000000000006,11.787999999999998,False
+rock for people,pohoda,3,5.412,3.0,False
+rock for people,pol and rock,14,13.78,12.82,False
+rock for people,primavera sound,7,6.800000000000001,12.851999999999999,False
+rock for people,pukkelpop,15,24.48,11.708000000000002,False
+rock for people,ramblin man fair,0,0.496,1.372,False
+rock for people,reading,16,39.932,14.344000000000001,False
+rock for people,rebellion,3,3.352,15.908,False
+rock for people,reeperbahnfestival,11,13.963999999999999,11.120000000000001,False
+rock for people,rock werchter,13,17.552,6.26,False
+rock for people,slam dunk,18,23.44,3.0359999999999996,False
+rock for people,sziget,23,26.543999999999997,23.0,False
+rock for people,the great escape,12,23.855999999999998,29.112000000000002,False
+rock for people,tomorrowland weekend 1,2,0.94,22.155999999999995,False
+rock for people,tomorrowland winter,0,0.0,2.7279999999999998,False
+rock for people,trees,36,34.96,14.972,False
+rock for people,trnsmt,5,12.644,6.023999999999999,False
+rock for people,truck,13,19.592000000000002,15.216,False
+rock for people,victorious,19,18.62,20.624000000000002,False
+rock for people,vida,0,0.516,1.5959999999999999,False
+rock for people,vieilles charrues,4,3.1679999999999997,2.124,False
+rock for people,wireless,0,0.0,5.648000000000001,False
+rock werchter,all points east,21,24.259999999999998,5.252,False
+rock werchter,beautiful days,1,1.0,0.62,False
+rock werchter,bestival,1,4.008,1.04,False
+rock werchter,boardmasters,9,8.784,3.0679999999999996,False
+rock werchter,download,4,5.4239999999999995,2.7359999999999998,False
+rock werchter,end of the road,2,2.3440000000000003,1.3239999999999998,False
+rock werchter,eurock ennes de belfort,13,16.016,8.264,False
+rock werchter,glastonbury,38,48.788,28.708000000000002,False
+rock werchter,graspop metal meeting,3,4.848,18.02,False
+rock werchter,green man,2,2.204,1.244,False
+rock werchter,internacional de benic ssim,14,11.728,5.124,False
+rock werchter,isle of wight,14,14.708,12.672,False
+rock werchter,kendal calling,24,21.224,8.347999999999999,False
+rock werchter,latitude,16,19.876,7.244,False
+rock werchter,les ardentes,0,1.224,2.004,False
+rock werchter,mad cool,29,31.82,5.632000000000001,False
+rock werchter,maifeld derby,4,5.348,0.968,False
+rock werchter,mysteryland,2,2.0,7.3919999999999995,False
+rock werchter,neighbourhood weekender,10,8.644,1.5039999999999998,False
+rock werchter,nos alive,14,15.284,5.148,False
+rock werchter,off,4,2.476,1.544,False
+rock werchter,parklife,10,12.42,6.840000000000001,False
+rock werchter,pohoda,8,6.468,3.224,False
+rock werchter,pol and rock,5,4.8759999999999994,5.768,False
+rock werchter,primavera sound,21,29.403999999999996,25.3,False
+rock werchter,pukkelpop,65,65.332,40.547999999999995,False
+rock werchter,ramblin man fair,1,1.996,1.024,False
+rock werchter,reading,16,36.152,9.192,False
+rock werchter,rebellion,0,0.9359999999999999,9.427999999999999,False
+rock werchter,reeperbahnfestival,10,13.276,5.556000000000001,False
+rock werchter,rock for people,25,23.088000000000005,16.028,False
+rock werchter,slam dunk,3,3.544,1.396,False
+rock werchter,sziget,41,45.099999999999994,30.432000000000002,False
+rock werchter,the great escape,6,21.344,20.544,False
+rock werchter,tomorrowland weekend 1,7,6.604,77.268,False
+rock werchter,tomorrowland winter,3,2.744,13.388,False
+rock werchter,trees,6,8.360000000000001,8.536000000000001,False
+rock werchter,trnsmt,14,20.720000000000002,3.4720000000000004,False
+rock werchter,truck,16,18.215999999999998,8.264,False
+rock werchter,victorious,34,32.596000000000004,12.496000000000002,False
+rock werchter,vida,3,2.084,3.132,False
+rock werchter,vieilles charrues,12,11.576,10.08,False
+rock werchter,wireless,1,1.2040000000000002,2.9800000000000004,False
+slam dunk,all points east,3,3.5280000000000005,9.148,False
+slam dunk,beautiful days,0,0.368,2.308,False
+slam dunk,bestival,1,1.068,3.024,False
+slam dunk,boardmasters,1,1.24,3.9839999999999995,False
+slam dunk,download,21,19.476,2.984,False
+slam dunk,end of the road,0,0.0,3.448,False
+slam dunk,eurock ennes de belfort,0,0.0,1.096,False
+slam dunk,glastonbury,3,4.876,34.864,False
+slam dunk,graspop metal meeting,21,15.08,2.564,False
+slam dunk,green man,0,0.0,3.6879999999999997,False
+slam dunk,internacional de benic ssim,0,1.1600000000000001,3.3919999999999995,False
+slam dunk,isle of wight,4,2.996,16.740000000000002,False
+slam dunk,kendal calling,3,3.132,10.676,False
+slam dunk,latitude,1,1.1640000000000001,12.212,False
+slam dunk,les ardentes,0,0.0,0.792,False
+slam dunk,mad cool,3,3.008,3.2319999999999998,False
+slam dunk,maifeld derby,0,0.0,0.64,False
+slam dunk,mysteryland,0,0.0,0.7760000000000001,False
+slam dunk,neighbourhood weekender,0,1.152,2.7359999999999998,False
+slam dunk,nos alive,0,0.0,2.776,False
+slam dunk,off,0,0.0,0.756,False
+slam dunk,parklife,0,0.0,5.876,False
+slam dunk,pohoda,0,0.0,2.02,False
+slam dunk,pol and rock,4,3.876,1.552,False
+slam dunk,primavera sound,1,0.944,10.636,False
+slam dunk,pukkelpop,8,7.94,6.144,False
+slam dunk,ramblin man fair,0,0.0,2.192,False
+slam dunk,reading,19,26.748,13.616000000000001,False
+slam dunk,rebellion,4,3.5680000000000005,11.996,False
+slam dunk,reeperbahnfestival,0,0.268,3.7199999999999998,False
+slam dunk,rock for people,31,21.972,7.824,False
+slam dunk,rock werchter,6,5.359999999999999,3.136,False
+slam dunk,sziget,3,1.636,8.831999999999999,False
+slam dunk,the great escape,2,2.036,27.052,False
+slam dunk,tomorrowland weekend 1,0,0.34,9.724000000000002,False
+slam dunk,tomorrowland winter,0,0.0,0.912,False
+slam dunk,trees,30,25.496000000000002,11.784,False
+slam dunk,trnsmt,1,2.8040000000000003,4.48,False
+slam dunk,truck,4,3.616,8.276000000000002,False
+slam dunk,victorious,3,5.275999999999999,17.656,False
+slam dunk,vida,0,0.0,1.464,False
+slam dunk,vieilles charrues,0,0.0,1.076,False
+slam dunk,wireless,0,0.0,3.692,False
+sziget,all points east,30,36.888,14.155999999999999,False
+sziget,beautiful days,0,0.488,2.216,False
+sziget,bestival,2,8.292,2.936,False
+sziget,boardmasters,5,9.124,5.135999999999999,False
+sziget,download,8,6.847999999999999,6.196,False
+sziget,end of the road,2,2.7,4.288,False
+sziget,eurock ennes de belfort,14,17.884,16.060000000000002,False
+sziget,glastonbury,54,62.855999999999995,56.992,False
+sziget,graspop metal meeting,6,4.984,22.944000000000003,False
+sziget,green man,0,3.628,3.4320000000000004,False
+sziget,internacional de benic ssim,21,23.608,12.184,False
+sziget,isle of wight,16,20.000000000000004,30.328000000000003,False
+sziget,kendal calling,16,16.66,18.968,False
+sziget,latitude,13,21.419999999999998,18.796,False
+sziget,les ardentes,2,5.384,3.844,False
+sziget,mad cool,28,29.248,14.948,False
+sziget,maifeld derby,12,12.252,6.0680000000000005,False
+sziget,mysteryland,27,32.056,27.0,False
+sziget,neighbourhood weekender,11,10.352000000000002,3.88,False
+sziget,nos alive,13,14.924000000000001,13.0,False
+sziget,off,2,4.800000000000001,3.0519999999999996,False
+sziget,parklife,17,25.527999999999995,14.748,False
+sziget,pohoda,17,16.4,17.0,False
+sziget,pol and rock,12,10.320000000000002,10.948,False
+sziget,primavera sound,29,39.480000000000004,52.788,False
+sziget,pukkelpop,41,68.41600000000001,55.372,False
+sziget,ramblin man fair,1,1.34,2.564,False
+sziget,reading,17,37.692,20.5,False
+sziget,rebellion,1,1.396,22.644000000000002,False
+sziget,reeperbahnfestival,25,24.336,30.903999999999996,False
+sziget,rock for people,27,23.464000000000002,27.0,False
+sziget,rock werchter,37,35.516,29.580000000000002,False
+sziget,slam dunk,1,1.58,3.108,False
+sziget,the great escape,18,29.967999999999996,43.476000000000006,False
+sziget,tomorrowland weekend 1,60,65.664,92.452,False
+sziget,tomorrowland winter,21,23.264000000000003,25.248,False
+sziget,trees,4,7.568,20.811999999999998,False
+sziget,trnsmt,11,15.572000000000001,7.556000000000001,False
+sziget,truck,16,16.28,18.552,False
+sziget,victorious,35,25.759999999999998,29.44,False
+sziget,vida,2,2.216,5.683999999999999,False
+sziget,vieilles charrues,22,22.068,21.263999999999996,False
+sziget,wireless,1,3.564,6.696,False
+the great escape,all points east,69,50.407999999999994,55.135999999999996,False
+the great escape,beautiful days,2,1.656,10.752,False
+the great escape,bestival,12,8.888,8.24,False
+the great escape,boardmasters,18,16.272,23.004,False
+the great escape,download,16,12.784,24.64,False
+the great escape,end of the road,10,8.332,14.252,False
+the great escape,eurock ennes de belfort,14,8.748,8.708,False
+the great escape,glastonbury,179,121.584,293.016,False
+the great escape,graspop metal meeting,5,3.036,12.196,False
+the great escape,green man,10,8.396,12.928,False
+the great escape,internacional de benic ssim,15,10.491999999999999,13.104000000000001,False
+the great escape,isle of wight,69,60.087999999999994,140.948,False
+the great escape,kendal calling,63,41.355999999999995,77.88,False
+the great escape,latitude,85,71.64,83.196,False
+the great escape,les ardentes,0,0.544,2.836,False
+the great escape,mad cool,15,12.040000000000001,16.192,False
+the great escape,maifeld derby,20,13.64,5.872,False
+the great escape,mysteryland,1,1.148,4.752,False
+the great escape,neighbourhood weekender,29,22.919999999999998,12.564,False
+the great escape,nos alive,9,3.26,10.652000000000001,False
+the great escape,off,1,0.876,1.604,False
+the great escape,parklife,19,14.387999999999998,62.828,False
+the great escape,pohoda,8,4.18,8.224,False
+the great escape,pol and rock,4,2.184,7.336,False
+the great escape,primavera sound,61,37.583999999999996,62.452000000000005,False
+the great escape,pukkelpop,38,23.759999999999998,34.984,False
+the great escape,ramblin man fair,1,0.788,6.632,False
+the great escape,reading,92,84.052,89.64,False
+the great escape,rebellion,9,10.308,102.74400000000001,False
+the great escape,reeperbahnfestival,117,111.776,56.92,False
+the great escape,rock for people,46,32.0,47.007999999999996,False
+the great escape,rock werchter,35,18.939999999999998,18.632,False
+the great escape,slam dunk,5,3.4880000000000004,15.54,False
+the great escape,sziget,43,24.668,52.264,False
+the great escape,tomorrowland weekend 1,3,1.7399999999999998,57.760000000000005,False
+the great escape,tomorrowland winter,0,0.0,6.6000000000000005,False
+the great escape,trees,76,57.256,85.8,False
+the great escape,trnsmt,50,32.46,32.624,False
+the great escape,truck,92,80.324,85.312,False
+the great escape,victorious,76,53.775999999999996,121.972,False
+the great escape,vida,6,5.9239999999999995,9.78,False
+the great escape,vieilles charrues,7,4.824000000000001,8.972,False
+the great escape,wireless,9,9.448,30.628,False
+tomorrowland weekend 1,all points east,8,6.016000000000001,12.192,False
+tomorrowland weekend 1,beautiful days,0,0.0,1.988,False
+tomorrowland weekend 1,bestival,3,2.7,1.676,False
+tomorrowland weekend 1,boardmasters,5,6.1,5.272,False
+tomorrowland weekend 1,download,0,0.0,5.892,False
+tomorrowland weekend 1,end of the road,0,0.0,2.736,False
+tomorrowland weekend 1,eurock ennes de belfort,4,4.348000000000001,26.184,False
+tomorrowland weekend 1,glastonbury,23,22.868,60.984,False
+tomorrowland weekend 1,graspop metal meeting,0,0.0,52.544000000000004,False
+tomorrowland weekend 1,green man,0,0.0,2.468,False
+tomorrowland weekend 1,internacional de benic ssim,4,5.132000000000001,7.680000000000001,False
+tomorrowland weekend 1,isle of wight,1,2.924,32.392,False
+tomorrowland weekend 1,kendal calling,1,3.4000000000000004,18.224,False
+tomorrowland weekend 1,latitude,0,0.0,17.863999999999997,False
+tomorrowland weekend 1,les ardentes,1,0.688,3.932,False
+tomorrowland weekend 1,mad cool,5,4.952,10.136,False
+tomorrowland weekend 1,maifeld derby,0,0.0,3.6799999999999997,False
+tomorrowland weekend 1,mysteryland,84,86.13600000000001,53.86,False
+tomorrowland weekend 1,neighbourhood weekender,0,0.0,2.556,False
+tomorrowland weekend 1,nos alive,0,0.136,6.364000000000001,False
+tomorrowland weekend 1,off,0,0.0,0.972,False
+tomorrowland weekend 1,parklife,40,38.788,15.679999999999998,False
+tomorrowland weekend 1,pohoda,0,0.116,3.796,False
+tomorrowland weekend 1,pol and rock,1,0.552,11.12,False
+tomorrowland weekend 1,primavera sound,10,12.292000000000002,40.172000000000004,False
+tomorrowland weekend 1,pukkelpop,29,33.876000000000005,127.524,False
+tomorrowland weekend 1,ramblin man fair,0,0.0,1.212,False
+tomorrowland weekend 1,reading,5,12.508000000000001,19.976000000000003,False
+tomorrowland weekend 1,rebellion,1,1.0,24.316,False
+tomorrowland weekend 1,reeperbahnfestival,1,1.3039999999999998,15.776,False
+tomorrowland weekend 1,rock for people,3,2.9879999999999995,28.708000000000002,False
+tomorrowland weekend 1,rock werchter,1,1.288,62.74000000000001,False
+tomorrowland weekend 1,slam dunk,1,0.6599999999999999,3.328,False
+tomorrowland weekend 1,sziget,74,65.88,85.05199999999999,False
+tomorrowland weekend 1,the great escape,1,2.1919999999999997,39.176,False
+tomorrowland weekend 1,tomorrowland winter,85,85.66399999999999,50.524,True
+tomorrowland weekend 1,trees,0,0.0,19.456,False
+tomorrowland weekend 1,trnsmt,0,0.6399999999999999,7.199999999999999,False
+tomorrowland weekend 1,truck,0,0.956,20.816,False
+tomorrowland weekend 1,victorious,1,0.784,28.028,False
+tomorrowland weekend 1,vida,0,0.332,6.468,False
+tomorrowland weekend 1,vieilles charrues,8,7.684,31.34,False
+tomorrowland weekend 1,wireless,0,0.8200000000000001,7.224,False
+tomorrowland winter,all points east,0,0.0,0.6880000000000001,False
+tomorrowland winter,boardmasters,0,0.3,0.464,False
+tomorrowland winter,download,0,0.0,0.352,False
+tomorrowland winter,eurock ennes de belfort,3,2.076,15.772,False
+tomorrowland winter,glastonbury,3,2.932,5.804,False
+tomorrowland winter,graspop metal meeting,0,0.0,13.596,False
+tomorrowland winter,internacional de benic ssim,0,0.012,0.632,False
+tomorrowland winter,isle of wight,0,0.0,2.1,False
+tomorrowland winter,kendal calling,0,0.316,1.516,False
+tomorrowland winter,latitude,0,0.0,1.1400000000000001,False
+tomorrowland winter,mad cool,0,0.048,0.9199999999999999,False
+tomorrowland winter,maifeld derby,0,0.0,0.18,False
+tomorrowland winter,mysteryland,8,9.251999999999999,6.112,False
+tomorrowland winter,neighbourhood weekender,0,0.0,0.12,False
+tomorrowland winter,nos alive,0,0.0,1.404,False
+tomorrowland winter,parklife,6,6.5120000000000005,1.5679999999999998,False
+tomorrowland winter,pol and rock,0,0.0,0.468,False
+tomorrowland winter,primavera sound,2,1.9080000000000004,4.5040000000000004,False
+tomorrowland winter,pukkelpop,5,4.792,17.991999999999997,False
+tomorrowland winter,reading,0,1.084,1.344,False
+tomorrowland winter,rebellion,0,0.0,1.816,False
+tomorrowland winter,reeperbahnfestival,1,1.0,3.816,False
+tomorrowland winter,rock for people,0,0.0,2.952,False
+tomorrowland winter,rock werchter,0,0.092,12.48,False
+tomorrowland winter,slam dunk,0,0.0,0.256,False
+tomorrowland winter,sziget,15,11.3,13.352,False
+tomorrowland winter,the great escape,0,0.0,3.364,False
+tomorrowland winter,tomorrowland weekend 1,29,28.855999999999998,35.58,True
+tomorrowland winter,trees,0,0.0,1.468,False
+tomorrowland winter,trnsmt,0,0.0,0.46799999999999997,False
+tomorrowland winter,truck,0,0.0,1.892,False
+tomorrowland winter,victorious,0,0.0,2.052,False
+tomorrowland winter,vida,0,0.0,0.792,False
+tomorrowland winter,vieilles charrues,3,1.896,18.396,False
+tomorrowland winter,wireless,0,0.0,0.536,False
+trees,all points east,13,14.18,26.192,False
+trees,beautiful days,3,1.956,4.256,False
+trees,bestival,7,7.948,10.964,False
+trees,boardmasters,10,10.468,17.908,False
+trees,download,28,37.512,13.928,False
+trees,end of the road,1,0.92,6.928,False
+trees,eurock ennes de belfort,8,6.216,4.159999999999999,False
+trees,glastonbury,50,46.384,155.876,False
+trees,graspop metal meeting,11,13.288,7.4239999999999995,False
+trees,green man,2,1.536,9.98,False
+trees,internacional de benic ssim,3,3.188,10.164,False
+trees,isle of wight,13,16.844,65.688,False
+trees,kendal calling,27,24.195999999999998,43.459999999999994,False
+trees,latitude,8,10.748,44.636,False
+trees,les ardentes,0,0.0,2.8040000000000003,False
+trees,mad cool,12,14.395999999999999,8.832,False
+trees,maifeld derby,4,2.716,3.4999999999999996,False
+trees,mysteryland,0,0.0,2.152,False
+trees,neighbourhood weekender,6,7.607999999999999,6.072,False
+trees,nos alive,1,1.1800000000000002,6.728,False
+trees,off,0,0.808,1.8040000000000003,False
+trees,parklife,0,0.0,29.731999999999996,False
+trees,pohoda,5,5.372000000000001,6.108,False
+trees,pol and rock,5,4.327999999999999,4.676,False
+trees,primavera sound,16,9.808,35.24399999999999,False
+trees,pukkelpop,20,18.568,19.387999999999998,False
+trees,ramblin man fair,0,0.236,4.072,False
+trees,reading,53,68.204,48.836,False
+trees,rebellion,13,16.168,49.488,False
+trees,reeperbahnfestival,16,17.956,24.311999999999998,False
+trees,rock for people,43,47.87200000000001,26.055999999999997,False
+trees,rock werchter,16,14.191999999999998,10.664,False
+trees,slam dunk,37,42.236000000000004,9.072,False
+trees,sziget,12,12.208000000000002,29.223999999999997,False
+trees,the great escape,52,67.128,98.88000000000001,False
+trees,tomorrowland weekend 1,1,1.0,34.284000000000006,False
+trees,tomorrowland winter,0,0.0,3.1599999999999997,False
+trees,trnsmt,10,9.708,15.304,False
+trees,truck,31,38.431999999999995,41.964,False
+trees,victorious,28,27.696,60.844,False
+trees,vida,0,0.476,5.536,False
+trees,vieilles charrues,3,2.016,3.5520000000000005,False
+trees,wireless,0,0.0,14.420000000000002,False
+trnsmt,all points east,16,14.924000000000001,10.152,False
+trnsmt,beautiful days,1,1.0,1.696,False
+trnsmt,bestival,4,4.072,1.22,False
+trnsmt,boardmasters,9,8.112,2.936,False
+trnsmt,download,1,2.176,3.62,False
+trnsmt,end of the road,0,0.112,3.316,False
+trnsmt,eurock ennes de belfort,4,4.984,1.756,False
+trnsmt,glastonbury,36,38.188,48.656,False
+trnsmt,graspop metal meeting,0,1.04,2.3880000000000003,False
+trnsmt,green man,0,0.284,2.012,False
+trnsmt,internacional de benic ssim,16,12.712,3.2360000000000007,False
+trnsmt,isle of wight,42,41.644,25.44,False
+trnsmt,kendal calling,28,24.128,15.220000000000002,False
+trnsmt,latitude,19,19.580000000000002,16.616,False
+trnsmt,les ardentes,0,0.18,0.54,False
+trnsmt,mad cool,17,15.856,3.924,False
+trnsmt,maifeld derby,3,3.1719999999999997,1.024,False
+trnsmt,mysteryland,2,1.972,0.808,False
+trnsmt,neighbourhood weekender,27,25.536,2.652,False
+trnsmt,nos alive,5,4.16,2.308,False
+trnsmt,off,1,0.432,0.512,False
+trnsmt,parklife,17,14.663999999999998,10.088000000000001,False
+trnsmt,pohoda,4,1.696,1.536,False
+trnsmt,pol and rock,1,0.6519999999999999,1.72,False
+trnsmt,primavera sound,10,8.264,12.08,False
+trnsmt,pukkelpop,15,15.623999999999999,6.496,False
+trnsmt,ramblin man fair,2,1.46,1.6960000000000002,False
+trnsmt,reading,18,29.356,15.139999999999999,False
+trnsmt,rebellion,1,0.34,14.892,False
+trnsmt,reeperbahnfestival,12,15.116,8.312,False
+trnsmt,rock for people,27,16.076,10.527999999999999,False
+trnsmt,rock werchter,19,20.904,3.756,False
+trnsmt,slam dunk,4,2.424,2.704,False
+trnsmt,sziget,20,14.572000000000001,9.648,False
+trnsmt,the great escape,12,29.636000000000003,31.248000000000005,False
+trnsmt,tomorrowland weekend 1,1,0.596,12.192,False
+trnsmt,tomorrowland winter,0,0.0,1.248,False
+trnsmt,trees,8,6.692,15.056000000000001,False
+trnsmt,truck,27,28.508000000000003,13.828000000000001,False
+trnsmt,victorious,41,31.979999999999997,20.832,False
+trnsmt,vida,1,1.096,1.548,False
+trnsmt,vieilles charrues,1,0.7839999999999999,1.4040000000000001,False
+trnsmt,wireless,2,2.4720000000000004,5.708,False
+truck,all points east,21,19.416,11.836,False
+truck,beautiful days,2,0.688,1.42,False
+truck,bestival,9,8.236,2.52,False
+truck,boardmasters,18,19.496000000000002,11.388,False
+truck,download,8,6.5600000000000005,6.564,False
+truck,end of the road,2,1.1079999999999999,2.224,False
+truck,eurock ennes de belfort,5,4.264,2.472,False
+truck,glastonbury,50,39.368,93.06400000000001,False
+truck,graspop metal meeting,1,0.796,2.256,False
+truck,green man,3,4.072,2.8,False
+truck,internacional de benic ssim,11,9.332,3.76,False
+truck,isle of wight,53,51.97200000000001,40.260000000000005,False
+truck,kendal calling,46,46.431999999999995,28.9,False
+truck,latitude,23,26.072,24.912,False
+truck,les ardentes,1,0.076,0.464,False
+truck,mad cool,11,10.052,4.08,False
+truck,maifeld derby,7,5.48,1.78,False
+truck,mysteryland,0,0.0,0.776,False
+truck,neighbourhood weekender,21,20.652,1.8760000000000001,False
+truck,nos alive,3,2.652,2.444,False
+truck,off,1,0.388,0.5960000000000001,False
+truck,parklife,8,6.408,18.144,False
+truck,pohoda,3,2.632,1.468,False
+truck,pol and rock,0,0.0,1.9720000000000002,False
+truck,primavera sound,11,8.356,15.404,False
+truck,pukkelpop,19,17.796000000000003,9.387999999999998,False
+truck,ramblin man fair,1,0.636,1.748,False
+truck,reading,35,38.588,24.952,False
+truck,rebellion,4,5.284,22.976,False
+truck,reeperbahnfestival,30,31.407999999999998,17.136,False
+truck,rock for people,30,22.680000000000003,14.244,False
+truck,rock werchter,16,14.088,4.168,False
+truck,slam dunk,5,5.416,5.231999999999999,False
+truck,sziget,16,13.516,15.392,False
+truck,the great escape,59,72.38,62.459999999999994,False
+truck,tomorrowland weekend 1,5,3.62,19.551999999999996,False
+truck,tomorrowland winter,0,0.0,1.6280000000000001,False
+truck,trees,29,27.880000000000003,24.136000000000003,False
+truck,trnsmt,27,24.996000000000002,8.836,False
+truck,victorious,44,45.688,35.42400000000001,False
+truck,vida,1,0.316,2.34,False
+truck,vieilles charrues,3,1.7080000000000002,1.996,False
+truck,wireless,0,0.0,8.572000000000001,False
+victorious,all points east,15,17.296000000000003,36.436,False
+victorious,beautiful days,4,1.66,4.86,False
+victorious,bestival,1,2.488,3.644,False
+victorious,boardmasters,11,13.172,14.524000000000001,False
+victorious,download,1,2.104,13.276,False
+victorious,end of the road,0,1.6840000000000002,9.283999999999999,False
+victorious,eurock ennes de belfort,2,3.176,5.772,False
+victorious,glastonbury,49,54.20799999999999,196.02000000000004,False
+victorious,graspop metal meeting,1,1.556,6.8759999999999994,False
+victorious,green man,1,1.256,5.636,False
+victorious,internacional de benic ssim,7,8.688,9.112,False
+victorious,isle of wight,62,71.852,88.30799999999999,False
+victorious,kendal calling,46,48.084,56.172,False
+victorious,latitude,37,34.792,56.279999999999994,False
+victorious,les ardentes,0,0.024,1.332,False
+victorious,mad cool,11,10.536,11.456,False
+victorious,maifeld derby,1,2.016,3.592,False
+victorious,mysteryland,0,0.98,2.908,False
+victorious,neighbourhood weekender,17,19.184,8.388,False
+victorious,nos alive,2,2.7560000000000002,7.859999999999999,False
+victorious,off,1,1.1720000000000002,1.28,False
+victorious,parklife,11,12.703999999999999,39.85600000000001,False
+victorious,pohoda,0,2.44,4.436,False
+victorious,pol and rock,1,2.2439999999999998,5.703999999999999,False
+victorious,primavera sound,7,10.628,42.868,False
+victorious,pukkelpop,12,16.363999999999997,22.659999999999997,False
+victorious,ramblin man fair,1,0.788,4.856,False
+victorious,reading,18,33.004,55.992,False
+victorious,rebellion,5,5.763999999999999,59.48,False
+victorious,reeperbahnfestival,19,19.575999999999997,32.936,False
+victorious,rock for people,15,15.523999999999997,34.24,False
+victorious,rock werchter,17,17.86,12.592,False
+victorious,slam dunk,1,0.8920000000000001,8.844000000000001,False
+victorious,sziget,10,17.592000000000002,34.98,False
+victorious,the great escape,24,46.279999999999994,125.092,False
+victorious,tomorrowland weekend 1,2,1.692,42.74,False
+victorious,tomorrowland winter,0,0.0,4.276,False
+victorious,trees,11,11.764,55.08,False
+victorious,trnsmt,16,19.336,18.708000000000002,False
+victorious,truck,34,47.644,54.284,False
+victorious,vida,3,1.6840000000000002,5.268,False
+victorious,vieilles charrues,3,3.492,4.895999999999999,False
+victorious,wireless,2,1.4400000000000002,19.052000000000003,False
+vida,all points east,9,8.264,4.3759999999999994,False
+vida,beautiful days,0,0.0,0.9039999999999999,False
+vida,bestival,1,1.068,0.928,False
+vida,boardmasters,1,1.008,1.46,False
+vida,download,0,0.0,1.2279999999999998,False
+vida,end of the road,3,2.512,1.664,False
+vida,eurock ennes de belfort,2,2.2520000000000002,2.964,False
+vida,glastonbury,5,7.9559999999999995,17.328,False
+vida,graspop metal meeting,0,0.0,2.9720000000000004,False
+vida,green man,2,2.16,1.38,False
+vida,internacional de benic ssim,15,13.536000000000001,10.548,False
+vida,isle of wight,2,1.076,8.944,False
+vida,kendal calling,2,3.876,6.156000000000001,False
+vida,latitude,2,2.396,6.444000000000001,False
+vida,les ardentes,0,0.968,0.872,False
+vida,mad cool,7,6.884,11.036,False
+vida,maifeld derby,2,1.2240000000000002,1.7080000000000002,False
+vida,mysteryland,0,0.0,0.916,False
+vida,neighbourhood weekender,0,0.0,1.3399999999999999,False
+vida,nos alive,4,4.444,4.036,False
+vida,off,0,0.94,0.548,False
+vida,parklife,0,0.0,3.284,False
+vida,pohoda,0,0.32,3.608,False
+vida,pol and rock,0,0.0,1.696,False
+vida,primavera sound,28,28.128,39.588,False
+vida,pukkelpop,4,5.256,8.572,False
+vida,ramblin man fair,0,0.0,0.864,False
+vida,reading,2,2.072,6.252,False
+vida,rebellion,0,0.0,5.748,False
+vida,reeperbahnfestival,1,1.0,5.796,False
+vida,rock for people,1,1.008,2.736,False
+vida,rock werchter,5,5.72,4.548,False
+vida,slam dunk,0,0.0,1.04,False
+vida,sziget,6,4.656000000000001,14.812000000000003,False
+vida,the great escape,3,3.668,14.379999999999999,False
+vida,tomorrowland weekend 1,1,1.396,14.608,False
+vida,tomorrowland winter,0,0.0,1.6800000000000002,False
+vida,trees,1,0.524,5.676,False
+vida,trnsmt,0,0.5880000000000001,1.8160000000000003,False
+vida,truck,1,1.2440000000000002,4.592,False
+vida,victorious,2,2.7600000000000002,8.832,False
+vida,vieilles charrues,4,3.2520000000000002,2.3200000000000003,False
+vida,wireless,0,0.0,1.872,False
+vieilles charrues,all points east,5,4.5760000000000005,1.324,False
+vieilles charrues,boardmasters,0,0.0,0.332,False
+vieilles charrues,download,0,0.268,0.244,False
+vieilles charrues,end of the road,1,0.872,0.344,False
+vieilles charrues,eurock ennes de belfort,8,9.528,6.816,False
+vieilles charrues,glastonbury,2,4.36,7.548000000000001,False
+vieilles charrues,graspop metal meeting,0,0.0,3.244,False
+vieilles charrues,internacional de benic ssim,3,2.832,1.2,False
+vieilles charrues,isle of wight,2,3.424,2.732,False
+vieilles charrues,kendal calling,1,2.236,2.484,False
+vieilles charrues,latitude,3,4.256,2.06,False
+vieilles charrues,mad cool,3,2.128,1.584,False
+vieilles charrues,maifeld derby,1,1.6440000000000001,0.32,False
+vieilles charrues,mysteryland,1,0.956,2.512,False
+vieilles charrues,neighbourhood weekender,1,0.6,0.41200000000000003,False
+vieilles charrues,nos alive,3,2.612,2.824,False
+vieilles charrues,off,0,0.332,0.352,False
+vieilles charrues,parklife,0,0.556,1.284,False
+vieilles charrues,pohoda,2,0.984,1.94,False
+vieilles charrues,pol and rock,0,1.2280000000000002,1.272,False
+vieilles charrues,primavera sound,5,4.16,7.2,False
+vieilles charrues,pukkelpop,3,5.364,12.004,False
+vieilles charrues,ramblin man fair,0,0.0,0.252,False
+vieilles charrues,reading,0,1.924,1.988,False
+vieilles charrues,rebellion,0,0.9239999999999999,1.584,False
+vieilles charrues,reeperbahnfestival,4,4.508,4.076,False
+vieilles charrues,rock for people,1,1.1360000000000001,2.068,False
+vieilles charrues,rock werchter,5,4.808000000000001,7.207999999999999,False
+vieilles charrues,slam dunk,0,0.0,0.196,False
+vieilles charrues,sziget,10,11.088,13.844000000000001,False
+vieilles charrues,the great escape,1,2.176,5.208,False
+vieilles charrues,tomorrowland weekend 1,3,3.724,18.704,False
+vieilles charrues,tomorrowland winter,1,2.156,21.7,False
+vieilles charrues,trees,0,0.68,2.108,False
+vieilles charrues,trnsmt,0,0.556,0.47600000000000003,False
+vieilles charrues,truck,1,2.032,1.9080000000000001,False
+vieilles charrues,victorious,3,2.04,2.64,False
+vieilles charrues,vida,0,0.26,0.48,False
+vieilles charrues,wireless,0,0.0,0.5599999999999999,False
+wireless,all points east,7,6.272,5.12,False
+wireless,boardmasters,1,0.908,3.148,False
+wireless,download,0,0.0,1.3359999999999999,False
+wireless,end of the road,0,0.0,0.92,False
+wireless,eurock ennes de belfort,1,1.028,0.768,False
+wireless,glastonbury,16,17.012,31.012,False
+wireless,graspop metal meeting,0,0.0,0.492,False
+wireless,internacional de benic ssim,2,1.776,1.132,False
+wireless,isle of wight,0,0.212,12.132000000000001,False
+wireless,kendal calling,0,0.0,10.236,False
+wireless,latitude,0,0.468,8.74,False
+wireless,mad cool,0,0.276,1.496,False
+wireless,maifeld derby,0,0.0,0.376,False
+wireless,mysteryland,0,0.0,0.28,False
+wireless,neighbourhood weekender,0,0.0,0.996,False
+wireless,nos alive,1,0.19999999999999998,1.12,False
+wireless,off,1,0.3,0.132,False
+wireless,parklife,8,6.4159999999999995,6.496,False
+wireless,pohoda,0,0.068,0.336,False
+wireless,pol and rock,0,0.0,0.8160000000000001,False
+wireless,primavera sound,3,2.624,6.064,False
+wireless,pukkelpop,5,4.771999999999999,3.428,False
+wireless,ramblin man fair,0,0.0,0.48,False
+wireless,reading,11,8.883999999999999,7.700000000000001,False
+wireless,rebellion,0,0.0,8.068000000000001,False
+wireless,reeperbahnfestival,0,0.0,4.768000000000001,False
+wireless,rock for people,0,0.0,5.528,False
+wireless,rock werchter,1,1.804,1.8159999999999998,False
+wireless,slam dunk,0,0.0,1.264,False
+wireless,sziget,5,3.1879999999999997,5.828,False
+wireless,the great escape,4,4.835999999999999,21.68,False
+wireless,tomorrowland weekend 1,1,0.356,7.3839999999999995,False
+wireless,tomorrowland winter,0,0.0,0.536,False
+wireless,trees,0,0.0,7.84,False
+wireless,trnsmt,3,2.184,2.48,False
+wireless,truck,0,0.0,8.915999999999999,False
+wireless,victorious,0,0.156,11.468,False
+wireless,vida,0,0.0,0.512,False
+wireless,vieilles charrues,0,0.0,0.624,False

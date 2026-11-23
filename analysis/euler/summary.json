@@ -1,0 +1,43 @@
+{
+  "input_rows": 59434,
+  "retained_rows": 55808,
+  "pandemic_rows_excluded": 3521,
+  "rebroadcast_rows_removed": 105,
+  "years_excluded": [
+    2020,
+    2021
+  ],
+  "n_act_keys": 32487,
+  "valid_mbid_rows": 1793,
+  "shared_mbid_groups": 46,
+  "spelling_groups": 297,
+  "short_generic_keys": 484,
+  "conflicting_id_keys": 13,
+  "approved_groups": {
+    "catfishandthebottlemen": [
+      "catfish and amp the bottlemen",
+      "catfish and the bottlemen"
+    ],
+    "haelos": [
+      "h los",
+      "haelos"
+    ],
+    "fontainesdc": [
+      "fontaines d c",
+      "fontaines dc"
+    ],
+    "eatstatic": [
+      "eat static",
+      "eatstatic"
+    ]
+  },
+  "samples_per_scenario_year": 200,
+  "input_sha256": {
+    "data/processed/lineups_clean.csv": "766aba9b7b2c2a2c05cf4761413dfbd10023cc7c5d6ca37f0fdad5792ac60322",
+    "data/processed/editions_clean.csv": "80c7faec8e6c6c60916b1663effe03e493df6e1e633ccb94f1dc70543880a36e",
+    "data/clashfinder_ids.txt": "6fd386a60a4cc88eeec3a8a1736ad13330550197672febe7a663265e2b150532"
+  },
+  "removed_stages_present": false,
+  "null_interpretation": "each scenario has its own fixed margins; change nulls compare independent draws, not known identity errors",
+  "removed_stage_shows": null
+}

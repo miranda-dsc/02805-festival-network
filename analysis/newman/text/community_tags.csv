@@ -1,0 +1,154 @@
+year,seed,community,festivals,tag_coverage,tags,tfidf,tag_deletion_min_jaccard
+2015,19,0,beautiful days | bestival | end of the road | glastonbury | latitude | les ardentes | nos alive | off,0.27265686,indie rock | electronic | hip hop,0.3862 | 0.3499 | 0.3121,0.5
+2015,19,1,download | reading | trees,0.46455224,metalcore | indie rock | rock,0.4023 | 0.3851 | 0.3615,0.5
+2015,23,0,beautiful days | bestival | end of the road | glastonbury | latitude | les ardentes | nos alive | off | reading,0.29096639,indie rock | hip hop | electronic,0.4412 | 0.3330 | 0.3232,1
+2015,23,1,download | trees,0.46564885,metalcore | hard rock | rock,0.4481 | 0.3882 | 0.3228,0.2
+2015,31,0,beautiful days | bestival | end of the road | glastonbury | latitude | les ardentes | nos alive | off | reading,0.29096639,indie rock | hip hop | electronic,0.4412 | 0.3330 | 0.3232,1
+2015,31,1,download | trees,0.46564885,metalcore | hard rock | rock,0.4481 | 0.3882 | 0.3228,0.2
+2015,41,0,beautiful days | bestival | end of the road | glastonbury | latitude | les ardentes | nos alive | off,0.27265686,indie rock | electronic | hip hop,0.3862 | 0.3499 | 0.3121,0.5
+2015,41,1,download | reading | trees,0.46455224,metalcore | indie rock | rock,0.4023 | 0.3851 | 0.3615,0.5
+2015,53,0,beautiful days | bestival | end of the road | glastonbury | latitude | les ardentes | nos alive | off,0.27265686,indie rock | electronic | hip hop,0.3862 | 0.3499 | 0.3121,0.5
+2015,53,1,download | reading | trees,0.46455224,metalcore | indie rock | rock,0.4023 | 0.3851 | 0.3615,0.5
+2016,19,0,bestival | boardmasters | glastonbury | green man | latitude | reading | rebellion | truck,0.26375306,punk | indie rock | electronic,0.6355 | 0.3405 | 0.2552,0.5
+2016,19,1,download | graspop metal meeting | rock for people | slam dunk,0.39506173,metalcore | pop punk | hard rock,0.5350 | 0.2581 | 0.2285,0.5
+2016,19,2,internacional de benic ssim | les ardentes | maifeld derby | off | pohoda | rock werchter | sziget | vida,0.33459001,electronic | indie rock | hip hop,0.4688 | 0.3559 | 0.3427,0.5
+2016,23,0,bestival | boardmasters | glastonbury | green man | internacional de benic ssim | latitude | reading | rebellion | rock werchter | sziget | truck | vida,0.27713028,punk | indie rock | electronic,0.5465 | 0.3815 | 0.3082,0.5
+2016,23,1,download | graspop metal meeting | les ardentes | maifeld derby | off | pohoda | rock for people | slam dunk,0.35490605,metalcore | electronic | rock,0.4462 | 0.2263 | 0.2261,0.2
+2016,31,0,bestival | boardmasters | glastonbury | green man | latitude | reading | rebellion | truck,0.26375306,punk | indie rock | electronic,0.6355 | 0.3405 | 0.2552,0.5
+2016,31,1,download | graspop metal meeting | rock for people | slam dunk,0.39506173,metalcore | pop punk | hard rock,0.5350 | 0.2581 | 0.2285,0.5
+2016,31,2,internacional de benic ssim | les ardentes | maifeld derby | off | pohoda | rock werchter | sziget | vida,0.33459001,electronic | indie rock | hip hop,0.4688 | 0.3559 | 0.3427,0.5
+2016,41,0,bestival | boardmasters | glastonbury | green man | latitude | reading | rebellion | truck,0.26375306,punk | indie rock | electronic,0.6355 | 0.3405 | 0.2552,0.5
+2016,41,1,download | graspop metal meeting | rock for people | slam dunk,0.39506173,metalcore | pop punk | hard rock,0.5350 | 0.2581 | 0.2285,0.5
+2016,41,2,internacional de benic ssim | les ardentes | maifeld derby | off | pohoda | rock werchter | sziget | vida,0.33459001,electronic | indie rock | hip hop,0.4688 | 0.3559 | 0.3427,0.5
+2016,53,0,bestival | boardmasters | glastonbury | green man | latitude | reading | rebellion | truck,0.26375306,punk | indie rock | electronic,0.6355 | 0.3405 | 0.2552,0.5
+2016,53,1,download | graspop metal meeting | rock for people | slam dunk,0.39506173,metalcore | pop punk | hard rock,0.5350 | 0.2581 | 0.2285,0.5
+2016,53,2,internacional de benic ssim | les ardentes | maifeld derby | off | pohoda | rock werchter | sziget | vida,0.33459001,electronic | indie rock | hip hop,0.4688 | 0.3559 | 0.3427,0.5
+2017,19,0,beautiful days | bestival | boardmasters | glastonbury | kendal calling | reading | slam dunk | the great escape | trees | trnsmt | victorious,0.24987531,indie rock | alternative rock | hip hop,0.5140 | 0.2696 | 0.2608,0.5
+2017,19,1,download | graspop metal meeting | ramblin man fair | rock for people,0.37719298,hard rock | metalcore | heavy metal,0.5013 | 0.2778 | 0.2591,0.5
+2017,19,2,green man | internacional de benic ssim | les ardentes | nos alive | off | pohoda | primavera sound | pukkelpop | sziget | tomorrowland weekend 1 | vida,0.35717715,electronic | indie rock | hip hop,0.3760 | 0.3418 | 0.2854,0.5
+2017,23,0,beautiful days | bestival | glastonbury | internacional de benic ssim | les ardentes | nos alive | pohoda | primavera sound | pukkelpop | sziget | tomorrowland weekend 1 | vida,0.29359823,electronic | indie rock | hip hop,0.3862 | 0.3216 | 0.3156,0.5
+2017,23,1,boardmasters | reading | slam dunk | the great escape | trees | trnsmt | victorious,0.25837321,indie rock | alternative rock | indie pop,0.5620 | 0.3123 | 0.2473,0.5
+2017,23,2,download | graspop metal meeting | ramblin man fair | rock for people,0.37719298,hard rock | metalcore | heavy metal,0.5013 | 0.2778 | 0.2591,0.5
+2017,23,3,green man | kendal calling | off,0.37467018,indie rock | folk | jazz,0.5821 | 0.2892 | 0.2236,0.5
+2017,31,0,beautiful days | bestival | boardmasters | glastonbury | green man | kendal calling | reading | slam dunk | the great escape | trees | trnsmt | victorious,0.25358509,indie rock | alternative rock | hip hop,0.5268 | 0.2675 | 0.2565,0.5
+2017,31,1,download | graspop metal meeting | ramblin man fair | rock for people,0.37719298,hard rock | metalcore | heavy metal,0.5013 | 0.2778 | 0.2591,0.5
+2017,31,2,internacional de benic ssim | les ardentes | nos alive | off | pohoda | primavera sound | pukkelpop | sziget | tomorrowland weekend 1 | vida,0.35882661,electronic | indie rock | house,0.3892 | 0.3015 | 0.2995,0.5
+2017,41,0,beautiful days | bestival | glastonbury | internacional de benic ssim | les ardentes | nos alive | pohoda | primavera sound | pukkelpop | sziget | tomorrowland weekend 1 | vida,0.29359823,electronic | indie rock | hip hop,0.3862 | 0.3216 | 0.3156,0.5
+2017,41,1,boardmasters | reading | slam dunk | the great escape | trees | trnsmt | victorious,0.25837321,indie rock | alternative rock | indie pop,0.5620 | 0.3123 | 0.2473,0.5
+2017,41,2,download | graspop metal meeting | ramblin man fair | rock for people,0.37719298,hard rock | metalcore | heavy metal,0.5013 | 0.2778 | 0.2591,0.5
+2017,41,3,green man | kendal calling | off,0.37467018,indie rock | folk | jazz,0.5821 | 0.2892 | 0.2236,0.5
+2017,53,0,beautiful days | bestival | boardmasters | glastonbury | green man | kendal calling | reading | slam dunk | the great escape | trees | trnsmt | victorious,0.25358509,indie rock | alternative rock | hip hop,0.5268 | 0.2675 | 0.2565,0.5
+2017,53,1,download | graspop metal meeting | ramblin man fair | rock for people,0.37719298,hard rock | metalcore | heavy metal,0.5013 | 0.2778 | 0.2591,0.5
+2017,53,2,internacional de benic ssim | les ardentes | nos alive | off | pohoda | primavera sound | pukkelpop | sziget | tomorrowland weekend 1 | vida,0.35882661,electronic | indie rock | house,0.3892 | 0.3015 | 0.2995,0.5
+2018,19,0,beautiful days | bestival | isle of wight | neighbourhood weekender | reading | rebellion | slam dunk | trees | trnsmt | truck | victorious | wireless,0.3259334,punk | indie rock | alternative rock,0.6991 | 0.3331 | 0.2505,0.5
+2018,19,1,all points east | end of the road | green man | internacional de benic ssim | latitude | maifeld derby | off | pohoda | primavera sound | pukkelpop | sziget | vida,0.33305474,indie rock | electronic | indie pop,0.5587 | 0.3567 | 0.2165,1
+2018,19,2,download | graspop metal meeting | pol and rock | ramblin man fair | rock for people,0.39954853,metalcore | hard rock | rock,0.5019 | 0.2715 | 0.2687,0.2
+2018,19,3,eurock ennes de belfort | les ardentes | mad cool | nos alive | rock werchter | vieilles charrues,0.51503759,hip hop | indie rock | alternative rock,0.5582 | 0.3530 | 0.2781,0.5
+2018,23,0,beautiful days | bestival | isle of wight | neighbourhood weekender | reading | rebellion | slam dunk | trees | trnsmt | truck | victorious | wireless,0.3259334,punk | indie rock | alternative rock,0.6991 | 0.3331 | 0.2505,0.5
+2018,23,1,all points east | end of the road | green man | internacional de benic ssim | latitude | maifeld derby | off | primavera sound | pukkelpop | vida,0.40366972,indie rock | electronic | indie pop,0.6209 | 0.2993 | 0.2311,1
+2018,23,2,download | graspop metal meeting | pohoda | pol and rock | ramblin man fair | rock for people | sziget,0.27328244,metalcore | rock | electronic,0.3830 | 0.2463 | 0.2272,0.2
+2018,23,3,eurock ennes de belfort | les ardentes | mad cool | nos alive | rock werchter | vieilles charrues,0.51503759,hip hop | indie rock | alternative rock,0.5582 | 0.3530 | 0.2781,0.5
+2018,31,0,beautiful days | bestival | isle of wight | neighbourhood weekender | reading | rebellion | slam dunk | trees | trnsmt | truck | victorious | wireless,0.3259334,punk | indie rock | alternative rock,0.6991 | 0.3331 | 0.2505,0.5
+2018,31,1,all points east | end of the road | green man | internacional de benic ssim | latitude | maifeld derby | off | primavera sound | pukkelpop | vida,0.40366972,indie rock | electronic | indie pop,0.6209 | 0.2993 | 0.2311,1
+2018,31,2,download | graspop metal meeting | pohoda | pol and rock | ramblin man fair | rock for people | sziget,0.27328244,metalcore | rock | electronic,0.3830 | 0.2463 | 0.2272,0.2
+2018,31,3,eurock ennes de belfort | les ardentes | mad cool | nos alive | rock werchter | vieilles charrues,0.51503759,hip hop | indie rock | alternative rock,0.5582 | 0.3530 | 0.2781,0.5
+2018,41,0,beautiful days | bestival | isle of wight | neighbourhood weekender | reading | rebellion | slam dunk | trees | trnsmt | truck | victorious | wireless,0.3259334,punk | indie rock | alternative rock,0.6991 | 0.3331 | 0.2505,0.5
+2018,41,1,all points east | end of the road | green man | internacional de benic ssim | latitude | maifeld derby | off | primavera sound | pukkelpop | vida,0.40366972,indie rock | electronic | indie pop,0.6209 | 0.2993 | 0.2311,1
+2018,41,2,download | graspop metal meeting | pohoda | pol and rock | ramblin man fair | rock for people | sziget,0.27328244,metalcore | rock | electronic,0.3830 | 0.2463 | 0.2272,0.2
+2018,41,3,eurock ennes de belfort | les ardentes | mad cool | nos alive | rock werchter | vieilles charrues,0.51503759,hip hop | indie rock | alternative rock,0.5582 | 0.3530 | 0.2781,0.5
+2018,53,0,beautiful days | bestival | isle of wight | neighbourhood weekender | reading | rebellion | slam dunk | trees | trnsmt | truck | victorious | wireless,0.3259334,punk | indie rock | alternative rock,0.6991 | 0.3331 | 0.2505,0.5
+2018,53,1,all points east | end of the road | green man | internacional de benic ssim | latitude | maifeld derby | off | primavera sound | pukkelpop | vida,0.40366972,indie rock | electronic | indie pop,0.6209 | 0.2993 | 0.2311,1
+2018,53,2,download | graspop metal meeting | pohoda | pol and rock | ramblin man fair | rock for people | sziget,0.27328244,metalcore | rock | electronic,0.3830 | 0.2463 | 0.2272,0.2
+2018,53,3,eurock ennes de belfort | les ardentes | mad cool | nos alive | rock werchter | vieilles charrues,0.51503759,hip hop | indie rock | alternative rock,0.5582 | 0.3530 | 0.2781,0.5
+2019,19,0,graspop metal meeting | internacional de benic ssim | isle of wight | kendal calling | neighbourhood weekender | ramblin man fair | rock for people | trees | victorious,0.28735632,indie rock | rock | alternative rock,0.5090 | 0.3295 | 0.3038,1
+2019,19,1,all points east | end of the road | glastonbury | latitude | off | pohoda | primavera sound | pukkelpop | reading | the great escape | wireless,0.293,hip hop | indie rock | electronic,0.4220 | 0.4138 | 0.3482,1
+2019,19,2,eurock ennes de belfort | mad cool | nos alive | pol and rock | rock werchter | sziget | vieilles charrues,0.50457516,electronic | indie rock | hip hop,0.4079 | 0.3463 | 0.3364,0.5
+2019,19,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.34928849,hardstyle | house | electronic,0.7413 | 0.3176 | 0.2811,0.5
+2019,23,0,eurock ennes de belfort | graspop metal meeting | pol and rock | ramblin man fair | rock for people | trees | vieilles charrues,0.45533141,rock | polish | hard rock,0.3587 | 0.2908 | 0.2540,0.5
+2019,23,1,all points east | end of the road | glastonbury | isle of wight | kendal calling | latitude | neighbourhood weekender | off | primavera sound | the great escape | victorious,0.26959093,indie rock | electronic | hip hop,0.5129 | 0.3041 | 0.2746,0.5
+2019,23,2,internacional de benic ssim | mad cool | nos alive | pohoda | rock werchter | sziget,0.37485844,indie rock | electronic | hip hop,0.4586 | 0.4017 | 0.2631,0.5
+2019,23,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.34928849,hardstyle | house | electronic,0.7413 | 0.3176 | 0.2811,0.5
+2019,23,4,pukkelpop | reading | wireless,0.41570881,hip hop | trap | indie rock,0.5944 | 0.2978 | 0.2606,0.5
+2019,31,0,eurock ennes de belfort | graspop metal meeting | pol and rock | ramblin man fair | rock for people | trees | vieilles charrues,0.45533141,rock | polish | hard rock,0.3587 | 0.2908 | 0.2540,0.5
+2019,31,1,all points east | end of the road | glastonbury | isle of wight | kendal calling | latitude | neighbourhood weekender | the great escape | victorious,0.25127929,indie rock | electronic | folk,0.5313 | 0.2645 | 0.2413,0.2
+2019,31,2,internacional de benic ssim | mad cool | nos alive | pohoda | rock werchter | sziget,0.37485844,indie rock | electronic | hip hop,0.4586 | 0.4017 | 0.2631,0.5
+2019,31,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.34928849,hardstyle | house | electronic,0.7413 | 0.3176 | 0.2811,0.5
+2019,31,4,off | primavera sound | pukkelpop | reading | wireless,0.43598616,hip hop | electronic | indie rock,0.5726 | 0.3453 | 0.3042,0.5
+2019,41,0,graspop metal meeting | internacional de benic ssim | isle of wight | kendal calling | neighbourhood weekender | pol and rock | ramblin man fair | rock for people | trees | victorious,0.2917223,indie rock | rock | alternative rock,0.4652 | 0.3496 | 0.2850,1
+2019,41,1,all points east | end of the road | glastonbury | latitude | off | pohoda | primavera sound | pukkelpop | reading | the great escape | wireless,0.293,hip hop | indie rock | electronic,0.4220 | 0.4138 | 0.3482,1
+2019,41,2,eurock ennes de belfort | mad cool | nos alive | rock werchter | sziget | vieilles charrues,0.52959029,electronic | indie rock | hip hop,0.4368 | 0.3821 | 0.3709,1
+2019,41,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.34928849,hardstyle | house | electronic,0.7413 | 0.3176 | 0.2811,0.5
+2019,53,0,graspop metal meeting | internacional de benic ssim | isle of wight | kendal calling | neighbourhood weekender | pol and rock | ramblin man fair | rock for people | trees | victorious,0.2917223,indie rock | rock | alternative rock,0.4652 | 0.3496 | 0.2850,1
+2019,53,1,all points east | end of the road | glastonbury | latitude | off | pohoda | primavera sound | pukkelpop | reading | the great escape | wireless,0.293,hip hop | indie rock | electronic,0.4220 | 0.4138 | 0.3482,1
+2019,53,2,eurock ennes de belfort | mad cool | nos alive | rock werchter | sziget | vieilles charrues,0.52959029,electronic | indie rock | hip hop,0.4368 | 0.3821 | 0.3709,1
+2019,53,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.34928849,hardstyle | house | electronic,0.7413 | 0.3176 | 0.2811,0.5
+2022,19,0,kendal calling | neighbourhood weekender | reading | rebellion | rock for people | the great escape | trees | trnsmt | truck | victorious,0.30222416,punk | indie rock | rock,0.5616 | 0.5048 | 0.2549,0.5
+2022,19,1,all points east | glastonbury | nos alive | parklife | primavera sound | pukkelpop | rock werchter,0.32372125,electronic | indie rock | techno,0.4356 | 0.3559 | 0.2543,0.5
+2022,19,2,mysteryland | pol and rock | sziget | tomorrowland weekend 1 | tomorrowland winter,0.31935176,hardstyle | house | electronic,0.6150 | 0.3800 | 0.3378,0.5
+2022,23,0,kendal calling | neighbourhood weekender | reading | rebellion | rock for people | the great escape | trees | trnsmt | truck | victorious,0.30222416,punk | indie rock | rock,0.5616 | 0.5048 | 0.2549,0.5
+2022,23,1,all points east | glastonbury | nos alive | parklife | primavera sound | pukkelpop | rock werchter,0.32372125,electronic | indie rock | techno,0.4356 | 0.3559 | 0.2543,0.5
+2022,23,2,mysteryland | pol and rock | sziget | tomorrowland weekend 1 | tomorrowland winter,0.31935176,hardstyle | house | electronic,0.6150 | 0.3800 | 0.3378,0.5
+2022,31,0,kendal calling | neighbourhood weekender | reading | rebellion | rock for people | the great escape | trees | trnsmt | truck | victorious,0.30222416,punk | indie rock | rock,0.5616 | 0.5048 | 0.2549,0.5
+2022,31,1,all points east | glastonbury | nos alive | parklife | primavera sound | pukkelpop | rock werchter,0.32372125,electronic | indie rock | techno,0.4356 | 0.3559 | 0.2543,0.5
+2022,31,2,mysteryland | pol and rock | sziget | tomorrowland weekend 1 | tomorrowland winter,0.31935176,hardstyle | house | electronic,0.6150 | 0.3800 | 0.3378,0.5
+2022,41,0,kendal calling | neighbourhood weekender | reading | rebellion | rock for people | the great escape | trees | trnsmt | truck | victorious,0.30222416,punk | indie rock | rock,0.5616 | 0.5048 | 0.2549,0.5
+2022,41,1,all points east | glastonbury | nos alive | parklife | primavera sound | pukkelpop | rock werchter,0.32372125,electronic | indie rock | techno,0.4356 | 0.3559 | 0.2543,0.5
+2022,41,2,mysteryland | pol and rock | sziget | tomorrowland weekend 1 | tomorrowland winter,0.31935176,hardstyle | house | electronic,0.6150 | 0.3800 | 0.3378,0.5
+2022,53,0,kendal calling | neighbourhood weekender | reading | rebellion | rock for people | the great escape | trees | trnsmt | truck | victorious,0.30222416,punk | indie rock | rock,0.5616 | 0.5048 | 0.2549,0.5
+2022,53,1,all points east | glastonbury | nos alive | parklife | primavera sound | pukkelpop | rock werchter,0.32372125,electronic | indie rock | techno,0.4356 | 0.3559 | 0.2543,0.5
+2022,53,2,mysteryland | pol and rock | sziget | tomorrowland weekend 1 | tomorrowland winter,0.31935176,hardstyle | house | electronic,0.6150 | 0.3800 | 0.3378,0.5
+2023,19,0,download | graspop metal meeting | pol and rock | rebellion | rock for people | trees,0.40375123,punk | metalcore | rock,0.7231 | 0.3046 | 0.2554,0.5
+2023,19,1,eurock ennes de belfort | vieilles charrues,0.60992908,hip hop | chanson française | french hip hop,0.4893 | 0.4281 | 0.2123,0.5
+2023,19,2,glastonbury | isle of wight | maifeld derby | parklife | primavera sound | reading | reeperbahnfestival | trnsmt | truck | victorious | vida | wireless,0.22892145,indie rock | electronic | indie pop,0.3878 | 0.3399 | 0.2949,0.5
+2023,19,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.3002681,hardstyle | house | techno,0.6233 | 0.4261 | 0.3909,1
+2023,23,0,download | graspop metal meeting | pol and rock | rebellion | rock for people | trees,0.40375123,punk | metalcore | rock,0.7231 | 0.3046 | 0.2554,0.5
+2023,23,1,eurock ennes de belfort | vieilles charrues,0.60992908,hip hop | chanson française | french hip hop,0.4893 | 0.4281 | 0.2123,0.5
+2023,23,2,glastonbury | isle of wight | maifeld derby | parklife | primavera sound | reading | reeperbahnfestival | trnsmt | truck | victorious | vida | wireless,0.22892145,indie rock | electronic | indie pop,0.3878 | 0.3399 | 0.2949,0.5
+2023,23,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.3002681,hardstyle | house | techno,0.6233 | 0.4261 | 0.3909,1
+2023,31,0,download | graspop metal meeting | pol and rock | rebellion | rock for people | trees,0.40375123,punk | metalcore | rock,0.7231 | 0.3046 | 0.2554,0.5
+2023,31,1,eurock ennes de belfort | vieilles charrues,0.60992908,hip hop | chanson française | french hip hop,0.4893 | 0.4281 | 0.2123,0.5
+2023,31,2,glastonbury | isle of wight | maifeld derby | parklife | primavera sound | reading | reeperbahnfestival | trnsmt | truck | victorious | vida | wireless,0.22892145,indie rock | electronic | indie pop,0.3878 | 0.3399 | 0.2949,0.5
+2023,31,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.3002681,hardstyle | house | techno,0.6233 | 0.4261 | 0.3909,1
+2023,41,0,download | graspop metal meeting | pol and rock | rebellion | rock for people | trees,0.40375123,punk | metalcore | rock,0.7231 | 0.3046 | 0.2554,0.5
+2023,41,1,eurock ennes de belfort | vieilles charrues,0.60992908,hip hop | chanson française | french hip hop,0.4893 | 0.4281 | 0.2123,0.5
+2023,41,2,glastonbury | isle of wight | maifeld derby | parklife | primavera sound | reading | reeperbahnfestival | trnsmt | truck | victorious | vida | wireless,0.22892145,indie rock | electronic | indie pop,0.3878 | 0.3399 | 0.2949,0.5
+2023,41,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.3002681,hardstyle | house | techno,0.6233 | 0.4261 | 0.3909,1
+2023,53,0,download | graspop metal meeting | pol and rock | rebellion | rock for people | trees,0.40375123,punk | metalcore | rock,0.7231 | 0.3046 | 0.2554,0.5
+2023,53,1,eurock ennes de belfort | vieilles charrues,0.60992908,hip hop | chanson française | french hip hop,0.4893 | 0.4281 | 0.2123,0.5
+2023,53,2,glastonbury | isle of wight | maifeld derby | parklife | primavera sound | reading | reeperbahnfestival | trnsmt | truck | victorious | vida | wireless,0.22892145,indie rock | electronic | indie pop,0.3878 | 0.3399 | 0.2949,0.5
+2023,53,3,mysteryland | tomorrowland weekend 1 | tomorrowland winter,0.3002681,hardstyle | house | techno,0.6233 | 0.4261 | 0.3909,1
+2024,19,0,eurock ennes de belfort | internacional de benic ssim | mad cool | rock for people | rock werchter | slam dunk | trees,0.44758065,rock | alternative rock | indie rock,0.3832 | 0.3483 | 0.3116,0.5
+2024,19,1,glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | wireless,0.21619107,electronic | drum and bass | house,0.4339 | 0.4004 | 0.3724,1
+2024,19,2,isle of wight | kendal calling | truck | victorious,0.14439834,indie rock | pop | rock,0.6706 | 0.2790 | 0.2646,0.5
+2024,19,3,latitude | maifeld derby | primavera sound | reeperbahnfestival | the great escape,0.22064057,indie rock | pop | electronic,0.4555 | 0.2967 | 0.2818,0.5
+2024,23,0,eurock ennes de belfort | internacional de benic ssim | mad cool | rock for people | rock werchter | slam dunk | trees,0.44758065,rock | alternative rock | indie rock,0.3832 | 0.3483 | 0.3116,0.5
+2024,23,1,glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | wireless,0.21619107,electronic | drum and bass | house,0.4339 | 0.4004 | 0.3724,1
+2024,23,2,isle of wight | kendal calling | truck | victorious,0.14439834,indie rock | pop | rock,0.6706 | 0.2790 | 0.2646,0.5
+2024,23,3,latitude | maifeld derby | primavera sound | reeperbahnfestival | the great escape,0.22064057,indie rock | pop | electronic,0.4555 | 0.2967 | 0.2818,0.5
+2024,31,0,eurock ennes de belfort | internacional de benic ssim | mad cool | rock for people | rock werchter | slam dunk | trees,0.44758065,rock | alternative rock | indie rock,0.3832 | 0.3483 | 0.3116,0.5
+2024,31,1,glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | wireless,0.21619107,electronic | drum and bass | house,0.4339 | 0.4004 | 0.3724,1
+2024,31,2,isle of wight | kendal calling | truck | victorious,0.14439834,indie rock | pop | rock,0.6706 | 0.2790 | 0.2646,0.5
+2024,31,3,latitude | maifeld derby | primavera sound | reeperbahnfestival | the great escape,0.22064057,indie rock | pop | electronic,0.4555 | 0.2967 | 0.2818,0.5
+2024,41,0,eurock ennes de belfort | internacional de benic ssim | mad cool | rock for people | rock werchter | slam dunk | trees,0.44758065,rock | alternative rock | indie rock,0.3832 | 0.3483 | 0.3116,0.5
+2024,41,1,glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | wireless,0.21619107,electronic | drum and bass | house,0.4339 | 0.4004 | 0.3724,1
+2024,41,2,isle of wight | kendal calling | truck | victorious,0.14439834,indie rock | pop | rock,0.6706 | 0.2790 | 0.2646,0.5
+2024,41,3,latitude | maifeld derby | primavera sound | reeperbahnfestival | the great escape,0.22064057,indie rock | pop | electronic,0.4555 | 0.2967 | 0.2818,0.5
+2024,53,0,eurock ennes de belfort | internacional de benic ssim | mad cool | rock for people | rock werchter | slam dunk | trees,0.44758065,rock | alternative rock | indie rock,0.3832 | 0.3483 | 0.3116,0.5
+2024,53,1,glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | wireless,0.21619107,electronic | drum and bass | house,0.4339 | 0.4004 | 0.3724,1
+2024,53,2,isle of wight | kendal calling | truck | victorious,0.14439834,indie rock | pop | rock,0.6706 | 0.2790 | 0.2646,0.5
+2024,53,3,latitude | maifeld derby | primavera sound | reeperbahnfestival | the great escape,0.22064057,indie rock | pop | electronic,0.4555 | 0.2967 | 0.2818,0.5
+2025,19,0,rebellion | rock for people | slam dunk | trees,0.36339869,punk | metalcore | post-hardcore,0.8102 | 0.2207 | 0.2006,0.5
+2025,19,1,all points east | boardmasters | glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | trnsmt | vieilles charrues | wireless,0.2257826,house | electronic | techno,0.3929 | 0.3844 | 0.3080,0.5
+2025,19,2,isle of wight | kendal calling | latitude | reeperbahnfestival | the great escape | truck | victorious,0.16498784,indie rock | pop | indie pop,0.4958 | 0.3639 | 0.2692,0.5
+2025,23,0,rebellion | rock for people | slam dunk | trees,0.36339869,punk | metalcore | post-hardcore,0.8102 | 0.2207 | 0.2006,0.5
+2025,23,1,all points east | boardmasters | glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | vieilles charrues | wireless,0.22336943,house | electronic | techno,0.4018 | 0.3903 | 0.3158,0.5
+2025,23,2,isle of wight | kendal calling | latitude | reeperbahnfestival | the great escape | trnsmt | truck | victorious,0.16998314,indie rock | pop | indie pop,0.5191 | 0.3548 | 0.2706,0.5
+2025,31,0,rebellion | rock for people | slam dunk | trees,0.36339869,punk | metalcore | post-hardcore,0.8102 | 0.2207 | 0.2006,0.5
+2025,31,1,all points east | boardmasters | glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | trnsmt | vieilles charrues | wireless,0.2257826,house | electronic | techno,0.3929 | 0.3844 | 0.3080,0.5
+2025,31,2,isle of wight | kendal calling | latitude | reeperbahnfestival | the great escape | truck | victorious,0.16498784,indie rock | pop | indie pop,0.4958 | 0.3639 | 0.2692,0.5
+2025,41,0,rebellion | rock for people | slam dunk | trees,0.36339869,punk | metalcore | post-hardcore,0.8102 | 0.2207 | 0.2006,0.5
+2025,41,1,all points east | boardmasters | glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | trnsmt | vieilles charrues | wireless,0.2257826,house | electronic | techno,0.3929 | 0.3844 | 0.3080,0.5
+2025,41,2,isle of wight | kendal calling | latitude | reeperbahnfestival | the great escape | truck | victorious,0.16498784,indie rock | pop | indie pop,0.4958 | 0.3639 | 0.2692,0.5
+2025,53,0,rebellion | rock for people | slam dunk | trees,0.36339869,punk | metalcore | post-hardcore,0.8102 | 0.2207 | 0.2006,0.5
+2025,53,1,all points east | boardmasters | glastonbury | parklife | pol and rock | pukkelpop | reading | sziget | tomorrowland weekend 1 | trnsmt | vieilles charrues | wireless,0.2257826,house | electronic | techno,0.3929 | 0.3844 | 0.3080,0.5
+2025,53,2,isle of wight | kendal calling | latitude | reeperbahnfestival | the great escape | truck | victorious,0.16498784,indie rock | pop | indie pop,0.4958 | 0.3639 | 0.2692,0.5

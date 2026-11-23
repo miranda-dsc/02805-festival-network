@@ -1,0 +1,16 @@
+59434 input rows; 105 rebroadcast rows removed; 3521 pandemic rows excluded
+32487 act keys; 46 shared-ID groups; 297 spelling groups; 484 risk keys; 13 keys with conflicting IDs
+4 approved spelling groups; removed-stages file present: False
+2019 baseline: 31 editions; 5733 acts; {'shared_act_links': 2485, 'positive_pairs': 307}; 200 checked nulls
+2019 all_shared_mbids: 31 editions; 5716 acts; {'shared_act_links': 2498, 'positive_pairs': 308}; 200 checked nulls
+2019 all_spellings: 31 editions; 5718 acts; {'shared_act_links': 2498, 'positive_pairs': 308}; 200 checked nulls
+2019 short_generic_split: 31 editions; 5760 acts; {'shared_act_links': 2449, 'positive_pairs': 306}; 200 checked nulls
+2019 conflicting_id_split: 31 editions; 5736 acts; {'shared_act_links': 2482, 'positive_pairs': 306}; 200 checked nulls
+2019 proposed_fix: 31 editions; 5731 acts; {'shared_act_links': 2487, 'positive_pairs': 307}; 200 checked nulls
+2023 baseline: 24 editions; 5456 acts; {'shared_act_links': 1168, 'positive_pairs': 145}; 200 checked nulls
+2023 all_shared_mbids: 24 editions; 5447 acts; {'shared_act_links': 1178, 'positive_pairs': 145}; 200 checked nulls
+2023 all_spellings: 24 editions; 5449 acts; {'shared_act_links': 1173, 'positive_pairs': 146}; 200 checked nulls
+2023 short_generic_split: 24 editions; 5472 acts; {'shared_act_links': 1147, 'positive_pairs': 143}; 200 checked nulls
+2023 conflicting_id_split: 24 editions; 5458 acts; {'shared_act_links': 1166, 'positive_pairs': 145}; 200 checked nulls
+2023 proposed_fix: 24 editions; 5456 acts; {'shared_act_links': 1168, 'positive_pairs': 145}; 200 checked nulls
+analysis tables and figures saved

@@ -9,3 +9,11 @@ __pycache__/
 .ipynb_checkpoints/
 
 data/raw/events.json
+
+# local notes, not shared
+CLAUDE.md
+notes.md
+.claude/
+.DS_Store
+data/raw/musicbrainz/
+notes/

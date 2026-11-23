@@ -1,0 +1,89 @@
+year,scenario,edition_a,edition_b,festival_a,festival_b,before,after
+2019,all_shared_mbids,2ktrees2019,latitude2019,trees,latitude,4,5
+2019,all_shared_mbids,endoftheroad2019,vcharrues19,end of the road,vieilles charrues,1,2
+2019,all_shared_mbids,eurocks2019,vcharrues19,eurock ennes de belfort,vieilles charrues,11,12
+2019,all_shared_mbids,fib19,vcharrues19,internacional de benic ssim,vieilles charrues,0,1
+2019,all_shared_mbids,g2019,latitude2019,glastonbury,latitude,42,44
+2019,all_shared_mbids,g2019,tge2019,glastonbury,the great escape,58,59
+2019,all_shared_mbids,g2019,vcharrues19,glastonbury,vieilles charrues,2,3
+2019,all_shared_mbids,iow2019,latitude2019,isle of wight,latitude,8,9
+2019,all_shared_mbids,latitude2019,leedsfest2019,latitude,leeds,16,17
+2019,all_shared_mbids,latitude2019,pkp2019,latitude,pukkelpop,7,8
+2019,all_shared_mbids,latitude2019,read2019,latitude,reading,14,15
+2019,all_shared_mbids,latitude2019,sziget19,latitude,sziget,6,7
+2019,all_spellings,ape2019,latitude2019,all points east,latitude,12,13
+2019,all_spellings,g2019,kc2018,glastonbury,kendal calling,30,32
+2019,all_spellings,g2019,latitude2019,glastonbury,latitude,42,43
+2019,all_spellings,g2019,tge2019,glastonbury,the great escape,58,59
+2019,all_spellings,iow2019,kc2018,isle of wight,kendal calling,16,17
+2019,all_spellings,iow2019,mcf19,isle of wight,mad cool,2,3
+2019,all_spellings,kc2018,leedsfest2019,kendal calling,leeds,13,14
+2019,all_spellings,kc2018,nbhdweekender2019,kendal calling,neighbourhood weekender,11,12
+2019,all_spellings,kc2018,off2019,kendal calling,off,0,1
+2019,all_spellings,kc2018,pkp2019,kendal calling,pukkelpop,3,4
+2019,all_spellings,kc2018,ps2k19,kendal calling,primavera sound,5,6
+2019,all_spellings,kc2018,read2019,kendal calling,reading,11,12
+2019,short_generic_split,ape2019,g2019,all points east,glastonbury,42,41
+2019,short_generic_split,ape2019,nos19,all points east,nos alive,10,9
+2019,short_generic_split,ape2019,rw2019,all points east,rock werchter,11,10
+2019,short_generic_split,ape2019,tge2019,all points east,the great escape,35,34
+2019,short_generic_split,endoftheroad2019,g2019,end of the road,glastonbury,20,19
+2019,short_generic_split,endoftheroad2019,ps2k19,end of the road,primavera sound,9,8
+2019,short_generic_split,eurocks2019,gmm2019,eurock ennes de belfort,graspop metal meeting,1,0
+2019,short_generic_split,eurocks2019,rfp2019,eurock ennes de belfort,rock for people,3,2
+2019,short_generic_split,g2019,latitude2019,glastonbury,latitude,42,41
+2019,short_generic_split,g2019,ps2k19,glastonbury,primavera sound,37,35
+2019,short_generic_split,g2019,rw2019,glastonbury,rock werchter,26,24
+2019,short_generic_split,g2019,sziget19,glastonbury,sziget,16,15
+2019,short_generic_split,g2019,tge2019,glastonbury,the great escape,58,57
+2019,short_generic_split,gmm2019,rfp2019,graspop metal meeting,rock for people,4,3
+2019,short_generic_split,gmm2019,rmf2019,graspop metal meeting,ramblin man fair,4,3
+2019,short_generic_split,iow2019,nbhdweekender2019,isle of wight,neighbourhood weekender,9,8
+2019,short_generic_split,iow2019,rfp2019,isle of wight,rock for people,4,3
+2019,short_generic_split,latitude2019,tge2019,latitude,the great escape,40,39
+2019,short_generic_split,leedsfest2019,pkp2019,leeds,pukkelpop,33,32
+2019,short_generic_split,leedsfest2019,read2019,leeds,reading,220,214
+2019,short_generic_split,leedsfest2019,wire2019,leeds,wireless,16,15
+2019,short_generic_split,ml2019,pkp2019,mysteryland,pukkelpop,4,3
+2019,short_generic_split,nos19,rw2019,nos alive,rock werchter,8,7
+2019,short_generic_split,pkp2019,read2019,pukkelpop,reading,33,32
+2019,short_generic_split,pkp2019,rw2019,pukkelpop,rock werchter,5,4
+2019,short_generic_split,ps2k19,rw2019,primavera sound,rock werchter,10,9
+2019,short_generic_split,ps2k19,sziget19,primavera sound,sziget,12,11
+2019,short_generic_split,read2019,wire2019,reading,wireless,13,12
+2019,short_generic_split,rw2019,sziget19,rock werchter,sziget,14,13
+2019,conflicting_id_split,eurocks2019,vcharrues19,eurock ennes de belfort,vieilles charrues,11,10
+2019,conflicting_id_split,g2019,nbhdweekender2019,glastonbury,neighbourhood weekender,11,10
+2019,conflicting_id_split,kc2018,vcharrues19,kendal calling,vieilles charrues,1,0
+2019,proposed_fix,g2019,latitude2019,glastonbury,latitude,42,43
+2019,proposed_fix,g2019,tge2019,glastonbury,the great escape,58,59
+2023,all_shared_mbids,g2023,leeds23,glastonbury,leeds,28,29
+2023,all_shared_mbids,g2023,parklife23,glastonbury,parklife,43,46
+2023,all_shared_mbids,g2023,rbf23,glastonbury,reeperbahnfestival,15,16
+2023,all_shared_mbids,g2023,read23,glastonbury,reading,25,27
+2023,all_shared_mbids,g2023,truck2023,glastonbury,truck,18,19
+2023,all_shared_mbids,g2023,vic2023,glastonbury,victorious,21,23
+2023,all_spellings,g2023,ml2023,glastonbury,mysteryland,0,1
+2023,all_spellings,iow2023,vic2023,isle of wight,victorious,10,11
+2023,all_spellings,rbf23,vida2023,reeperbahnfestival,vida,2,3
+2023,all_spellings,tml2023w1,tomorrowlandwinter2023,tomorrowland weekend 1,tomorrowland winter,51,52
+2023,all_spellings,truck2023,vic2023,truck,victorious,18,19
+2023,short_generic_split,2ktrees2023,download23,trees,download,22,21
+2023,short_generic_split,download23,g2023,download,glastonbury,8,7
+2023,short_generic_split,download23,graspopfestival,download,graspop metal meeting,37,35
+2023,short_generic_split,download23,ps2023,download,primavera sound,4,2
+2023,short_generic_split,eurocks23,tml2023w1,eurock ennes de belfort,tomorrowland weekend 1,1,0
+2023,short_generic_split,eurocks23,vc2023,eurock ennes de belfort,vieilles charrues,8,7
+2023,short_generic_split,g2023,iow2023,glastonbury,isle of wight,24,22
+2023,short_generic_split,g2023,leeds23,glastonbury,leeds,28,27
+2023,short_generic_split,g2023,parklife23,glastonbury,parklife,43,42
+2023,short_generic_split,g2023,read23,glastonbury,reading,25,24
+2023,short_generic_split,g2023,trnsmt23,glastonbury,trnsmt,18,17
+2023,short_generic_split,g2023,wireless23,glastonbury,wireless,9,8
+2023,short_generic_split,graspopfestival,ps2023,graspop metal meeting,primavera sound,1,0
+2023,short_generic_split,iow2023,parklife23,isle of wight,parklife,5,4
+2023,short_generic_split,iow2023,wireless23,isle of wight,wireless,2,1
+2023,short_generic_split,leeds23,read23,leeds,reading,184,182
+2023,short_generic_split,parklife23,wireless23,parklife,wireless,2,1
+2023,conflicting_id_split,g2023,iow2023,glastonbury,isle of wight,24,23
+2023,conflicting_id_split,leeds23,read23,leeds,reading,184,183
