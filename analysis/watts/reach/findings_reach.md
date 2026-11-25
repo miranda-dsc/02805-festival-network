@@ -1,6 +1,6 @@
 # Wikipedia reach
 
-We used 5,712 acts at two or more festivals. Foreign reach counts Wikipedia editions outside the act's home languages, using MusicBrainz artist country and Babel's language data. We used five tiers for mapped artist countries. Zero foreign includes 306 acts with home-language articles and the rest have no linked article. The unknown artist country group contains 504 blank country codes and 1 unmapped code, all with blank foreign counts. The 897 acts without an MBID form a match-failure group.
+We used 5,712 acts at two or more festivals. Foreign reach counts Wikipedia editions outside the act's home languages, using MusicBrainz artist country and Babel's language data. We used five tiers for mapped artist countries. Zero foreign includes 1,550 acts without a linked article and 306 with an article in a home language. For most acts in this tier, the zero reflects missing Wikipedia coverage in our data. The unknown artist country group contains 504 blank country codes and 1 unmapped code, all with blank foreign counts. The 897 acts without an MBID form a match-failure group.
 
 ## Country mixing
 
@@ -18,7 +18,7 @@ The null in the table is within-year curveball, with 2,000 draws per year and gr
 | **Separate group** | | | | | | | | |
 | Unknown MBID | 897 | +0.178 | -0.024 (0.015) | 1.22 | +0.32 | 8 of 9 | +0.154 to +0.226 | +0.21 to +0.29 |
 
-The zero-foreign tier had observed r +0.194 against -0.031 under within-year curveball. The tier with 10 or more foreign editions had r -0.029 against -0.038 and was inside its central null band. Same-country overlap relative to within-year curveball expectation peaked in the 1 foreign tier at 1.42. For the unknown artist country group, r is undefined in 2015 because all observed overlap was between British editions.
+The zero-foreign tier had observed r +0.194 against -0.031 under within-year curveball. The tier with 10 or more foreign editions had r -0.029 against -0.038. Same-country overlap relative to within-year curveball expectation peaked in the 1 foreign tier at 1.42. For the unknown artist country group, r is undefined in 2015 because all observed overlap was between British editions.
 
 Each projection edge is weighted by the number of shared acts in the group. We count its weight once in each direction in the country mixing matrix and compute categorical assortativity as (diagonal share minus marginal agreement) divided by (one minus marginal agreement). The pooled estimate sums the yearly mixing matrices. We recompute r for every curveball projection. The r deletion range drops each festival's edges from the observed and shuffled projections, then recomputes observed r minus null mean r. The observed/expected ratio uses same-country pair overlap and includes pairs with zero overlap. Gap/expected divides the year and day-bin adjusted same-country contrast by that same null expectation. The raw excess has units of shared acts per pair and depends on tier lineup sizes. [Week 3, part 7](https://sunelehmann.com/socialgraphs2026-web/weeks/week3.html#mixing-patterns-do-the-important-stick-together) and [Network Atlas, section 30.2](https://www.networkatlas.eu/files/sna_book.pdf)
 
@@ -66,7 +66,7 @@ Coverage captures how often the MusicBrainz join supplies Wikipedia evidence and
 
 English Wikipedia covered 2,067 of 3,247 acts (63.7%) from countries with nationally official or de facto English, and 538 of 1,063 (50.6%) from other countries with a language mapping. Among acts with one article, English was the only edition for 221 of 232 in the first group and 13 of 81 in the second. Counting articles outside each act's home languages removes the automatic reach credit for a home-language article. It still reflects unequal editing and MusicBrainz linkage across language communities. [Week 7, part 7](https://sunelehmann.com/socialgraphs2026-web/weeks/week7.html#bias)
 
-The random Q-id audit confirmed 29 of 30 identities (96.7%, 95% Wilson interval 83.3% to 99.4%). It confirmed 28 of 29 among acts with articles. The sample mix was 14 name, 12 clashfinder id, 4 ambiguous. The clashfinder id match for `majestic` was wrong. The act key combines Kevin Christie (the house DJ billed at Tomorrowland 2023) with the roots reggae band billed as The Majestic at Victorious. This measures join precision conditional on a Q-id. It gives limited precision by match method and misses acts without a Q-id. [Q-id audit](audit.csv)
+The random Q-id audit confirmed 29 of 30 identities (96.7%, 95% Wilson interval 83.3% to 99.4%). It confirmed 28 of 29 among acts with articles. The sample had 14 name matches, 12 Clashfinder ID matches, 4 ambiguous matches and zero alias matches. The clashfinder id match for `majestic` was wrong. The act key combines Kevin Christie (the house DJ billed at Tomorrowland 2023) with the roots reggae band billed as The Majestic at Victorious. This measures join precision conditional on a Q-id. The sample is too small to estimate precision by match method and misses acts without a Q-id. [Q-id audit](audit.csv)
 
 We found a missed foreign article for 4 of 18 sampled acts in the zero-foreign tier (22.2%, 95% Wilson interval 9.0% to 45.2%). Across all 20 sampled acts with no linked article, we recovered an article of any language for 7 (35.0%, 95% Wilson interval 18.1% to 56.7%). All recovered articles existed before the crawl. We marked 0 cases uncertain. We searched across Wikipedias and checked candidate titles against festival or artist sources. This checks how often a manual search recovers an article from the no-article group. It misses articles the search did not surface and gives a wide estimate from a small draw. [Miss audit](miss_audit.csv)
 
@@ -81,7 +81,7 @@ We moved 22% and 45% of the 1,550 zero-foreign acts without a linked article int
 | 45% | 698 | 0 foreign | 1,158 | +0.190 | -0.032 | +0.222 |
 | 45% | 698 | 1 foreign | 972 | +0.176 | -0.029 | +0.205 |
 
-Using unrounded estimates, the zero-minus-one difference in r excess fell from 0.062 before reassignment to 0.008 at 22% and 0.017 at 45%. The zero-foreign excess stayed above +0.21 in both scenarios, compared with +0.009 for the 10-or-more tier, whose membership is fixed in this test. This measures sensitivity to random reassignment at two specified leakage rates. It misses systematic differences in which acts lack links and the possibility that recovered acts belong in tiers above one foreign edition. The scenarios give no numerical bound on the contrast. [Leakage results](country_gap_leakage.csv)
+Using unrounded estimates, the zero-minus-one difference in r excess fell from 0.062 before reassignment to 0.008 at 22% and 0.017 at 45%. The two low tiers had similar r excess in both scenarios, around +0.2 each. Both exceeded the 10-or-more tier at about +0.01, whose membership stayed fixed. This measures sensitivity to random reassignment at two specified leakage rates. It misses systematic differences in which acts lack links and the possibility that recovered acts belong in tiers above one foreign edition. The scenarios give no numerical bound on the contrast. [Leakage results](country_gap_leakage.csv)
 
 ## Methods and sensitivity
 
@@ -115,7 +115,7 @@ The same within-year curveball baseline and mixing statistics apply in this sens
 
 The strict-match sensitivity keeps Clashfinder ID, name and alias matches and reruns the within-year curveball on those acts. The main analysis includes 662 ambiguous matches. The highest foreign-reach tier had observed r -0.039 and null mean -0.037, the smallest excess r among the five foreign tiers. This checks whether the main pattern survives a stricter join. It changes group composition and skips the Unknown MBID group. [Strict-match results](country_gap_strict.csv)
 
-The table shows observed r minus mean within-year curveball r. The excess falls across all five tiers under each rule. The 10-or-more tier sits inside its central 95% null band under all three rules. Under the official-status rule, the overlap ratio peaks at one foreign edition.
+The table shows observed r minus mean within-year curveball r. The excess falls across all five tiers under each rule. The 10-or-more tier sits inside its central 95% null band under all three rules. Under the official-status rule, it exceeded the yearly null mean in 5 of 9 years. Under the official-status rule, the overlap ratio peaks at one foreign edition.
 
 | Foreign tier | Official status | Earlier home rule | Strict matching |
 |---|---:|---:|---:|
