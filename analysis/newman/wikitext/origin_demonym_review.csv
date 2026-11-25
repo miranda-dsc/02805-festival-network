@@ -1,0 +1,11 @@
+act_key,original_origin_text,original_origin_country,original_method,origin_text,origin_country,method,mb_country,hand_country,evidence,supported
+alpha blondy,,,,Ivorian,CI,norp,CI,CI,Intro calls him an Ivorian reggae singer,True
+dubioza kolektiv,,,,Bosnian,BA,norp,BA,BA,Intro calls them a Bosnian group,True
+eiv r,,,,Faroese,FO,norp,FO,FO,Intro calls her Faroese and says she was born and raised in Syðrugøta,True
+enji,,,,Mongolian,MN,norp,DE,MN,Intro calls her a Mongolian jazz singer and gives no German origin,True
+fatoumata diawara,,,,Malian,ML,norp,ML,ML,Intro calls her Malian and describes France as her current residence,True
+hu,,,,Mongolian,MN,norp,MN,MN,Intro calls them Mongolian and gives Ulaanbaatar as the place of formation,True
+kiasmos,,,,Faroese,FO,norp,IS,,Intro calls the duo Faroese-Icelandic and gives no single place of formation,False
+salvatore ganacci,,,,Bosnian,BA,norp,SE,,Intro calls him Bosnian-Swedish and gives no single origin,False
+sampa the great,,,,Zambian,ZM,norp,AU,ZM,Intro calls her Zambian and describes Australia as a former base,True
+solomun,,,,Bosnian,BA,norp,BA,,Intro calls him Bosnian-German and gives no single origin,False

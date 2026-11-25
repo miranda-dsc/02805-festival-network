@@ -1,0 +1,99 @@
+audit_group,act_key,qid,original_origin_text,original_origin_country,original_method,origin_text,origin_country,method,mb_country,hand_country,original_correct,correct,mb_correct,note
+original_disagreement,algiers,Q20012828,"London, England",GB,gpe_qualified,"London, England",GB,gpe_qualified,US,GB,True,True,False,Lead places the band in London England even though it calls it American
+original_disagreement,anyma,Q99678050,Italian,IT,norp,Italian,IT,norp,DE,,False,False,False,Lead identifies an Italian-American DJ with no single origin
+original_disagreement,azekel,Q17781976,Nigerian,NG,norp,Nigerian,NG,norp,GB,,False,False,False,Lead gives Nigerian birth and London as where the singer is from
+original_disagreement,bas,Q17515138,French,FR,norp,French,FR,norp,US,,False,False,False,Lead gives French birthplace and American nationality
+original_disagreement,code black,Q13472456,Australian,AU,norp,Australian,AU,norp,NL,AU,True,True,False,Lead identifies an Australian DJ
+original_disagreement,confidence man,Q56276615,Australian,AU,norp,Australian,AU,norp,GB,AU,True,True,False,Lead places the Australian band in Brisbane where it formed
+original_disagreement,daniel bedingfield,Q362251,New Zealand,NZ,gpe_country,New Zealand,NZ,gpe_country,GB,,False,False,False,Lead gives both New Zealand and British nationality
+original_disagreement,dillon,Q1225595,Brazilian,BR,norp,Brazilian,BR,norp,DE,BR,True,True,False,Lead identifies a Brazilian singer with Germany as her current base
+original_disagreement,dj seinfeld,Q59241691,Swedish,SE,norp,Swedish,SE,norp,ES,SE,True,True,False,Lead identifies a Swedish DJ
+original_disagreement,ellur,Q135473062,Halifax,CA,gpe_city,Halifax,CA,gpe_city,GB,GB,False,False,True,Lead identifies an English singer from Halifax
+original_disagreement,flogging molly,Q917861,Irish,IE,norp,Irish,IE,norp,US,US,False,False,True,Lead places the formation of the Irish-American band in Los Angeles
+original_disagreement,gabriel garzon montano,Q42211875,Colombian,CO,norp,Colombian,CO,norp,US,,False,False,False,Lead gives Colombian French and American nationality with New York as a base
+original_disagreement,genesis owusu,Q70855114,Ghanaian,GH,norp,Ghanaian,GH,norp,AU,AU,False,False,True,Lead places the Ghanaian-Australian rapper in Canberra as where he is from
+original_disagreement,ghostpoet,Q4039401,British,GB,norp,British,GB,norp,DE,GB,True,True,False,Lead identifies a British singer and a later Berlin base
+original_disagreement,grandson,Q56274788,American,US,norp,American,US,norp,CA,,False,False,False,Lead identifies an American and Canadian singer without one origin
+original_disagreement,jalen ngonda,Q99677483,American,US,norp,American,US,norp,GB,US,True,True,False,Lead identifies an American musician with England as his base
+original_disagreement,james marriott,Q105758249,Swiss,CH,norp,Swiss,CH,norp,GB,,False,False,False,Lead gives Swiss birthplace and English nationality
+original_disagreement,jarred christmas,Q16204138,New Zealand,NZ,gpe_country,New Zealand,NZ,gpe_country,GB,NZ,True,True,False,Lead says the comedian is from New Zealand and now lives and works in the UK
+original_disagreement,jayda g,Q105961146,Canadian,CA,norp,Canadian,CA,norp,GB,CA,True,True,False,Lead identifies a Canadian DJ
+original_disagreement,jordan rakei,Q55583815,New Zealand,NZ,gpe_country,New Zealand,NZ,gpe_country,GB,,False,False,False,Lead gives both New Zealand and Australian nationality with London as a base
+original_disagreement,kenya grace,Q122729278,South African,ZA,norp,South African,ZA,norp,GB,,False,False,False,Lead gives South African birth and British nationality
+original_disagreement,krystal klear,Q76838564,Irish,IE,norp,Irish,IE,norp,GB,IE,True,True,False,Lead identifies an Irish DJ who lives in New York
+original_disagreement,lebanon hanover,Q15110870,"Sunderland, England",GB,gpe_qualified,"Sunderland, England",GB,gpe_qualified,DE,GB,True,True,False,Lead places the formation of the Swiss-British duo in Sunderland England
+original_disagreement,logic1000,Q115244429,Australian,AU,norp,Australian,AU,norp,DE,AU,True,True,False,Lead identifies an Australian DJ living in London
+original_disagreement,major lazer,Q2604214,American,US,norp,American,US,norp,JM,US,True,True,False,Lead identifies an American DJ group
+original_disagreement,marlo,Q6771893,Dutch,NL,norp,Dutch,NL,norp,AU,,False,False,False,Lead gives Dutch birth and Australian nationality
+original_disagreement,nathy peluso,Q57208379,Argentine,AR,norp,Argentine,AR,norp,ES,,False,False,False,Lead gives Argentine and Spanish nationality without a single origin
+original_disagreement,nicki minaj,Q162202,Trinidadian,TT,norp,Trinidadian,TT,norp,US,TT,True,True,False,Lead identifies a Trinidadian rapper
+original_disagreement,obongjayar,Q59660249,Nigerian,NG,norp,Nigerian,NG,norp,GB,NG,True,True,False,Lead identifies a Nigerian singer based in London
+original_disagreement,octavian,Q56728124,French,FR,norp,French,FR,norp,GB,GB,False,False,True,Lead says the French-British rapper is from London
+original_disagreement,paula temple,Q94969526,British,GB,norp,British,GB,norp,DE,GB,True,True,False,Lead describes a British DJ born in Manchester
+original_disagreement,petite meller,Q20742885,French,FR,norp,French,FR,norp,US,,False,False,False,Lead gives French and American nationality with Los Angeles as a base
+original_disagreement,petrol girls,Q55629700,London,GB,gpe_city,London,GB,gpe_city,AT,GB,True,True,False,Lead places English band formation in London
+original_disagreement,phase,Q3556951,"Larissa, Greece",GR,gpe_qualified,"Larissa, Greece",GR,gpe_qualified,GB,GR,True,True,False,Lead places band formation in Larissa Greece and identifies a later UK base
+original_disagreement,piney gir,Q2095588,American,US,norp,American,US,norp,GB,US,True,True,False,Lead gives American nationality and birth in Kansas with London as current base
+original_disagreement,ray blk,Q28146094,Nigeria,NG,gpe_country,Nigeria,NG,gpe_country,GB,,False,False,False,Lead gives Nigerian birth and British nationality and upbringing in London
+original_disagreement,reignwolf,Q30632658,Canadian,CA,norp,Canadian,CA,norp,US,CA,True,True,False,Lead places the Canadian trio in Saskatoon Saskatchewan
+original_disagreement,rina sawayama,Q28840001,Japanese,JP,norp,Japanese,JP,norp,GB,,False,False,False,Lead gives Japanese and British nationalities with Japanese birth and London upbringing
+original_disagreement,sega bodega,Q82542922,Irish,IE,norp,Irish,IE,norp,GB,,False,False,False,Lead gives Irish and Chilean nationalities without one origin
+original_disagreement,sevdaliza,Q28112930,Iranian,IR,norp,Iranian,IR,norp,NL,,False,False,False,Lead gives Iranian and Dutch nationalities without one origin
+original_disagreement,shanti celeste,Q39087096,Chilean,CL,norp,Chilean,CL,norp,GB,CL,True,True,False,Lead gives Chilean nationality and birth in Temuco Chile
+original_disagreement,skynd,Q108898808,Australian,AU,norp,Australian,AU,norp,SE,AU,True,True,False,Lead describes an Australian band
+original_disagreement,slash,Q34166,British,GB,norp,British,GB,norp,US,,False,False,False,Lead gives British and American nationalities without one origin
+original_disagreement,sofia isella,Q133288725,American,US,norp,American,US,norp,AU,US,True,True,False,Lead identifies an American singer
+original_disagreement,sofia kourtesis,Q106409111,Peruvian,PE,norp,Peruvian,PE,norp,DE,PE,True,True,False,Lead identifies a Peruvian DJ based in Berlin
+original_disagreement,tara maclean,Q4570669,Irish,IE,norp,Irish,IE,norp,CA,,False,False,False,Lead gives Irish and Canadian nationalities without one origin
+original_disagreement,unknown mortal orchestra,Q7896966,New Zealand,NZ,gpe_country,New Zealand,NZ,gpe_country,US,NZ,True,True,False,Lead says the band is from Auckland and is now based in Portland
+original_disagreement,vtss,Q133567726,Polish,PL,norp,Polish,PL,norp,DE,PL,True,True,False,Lead gives Polish nationality and birth in Warsaw
+original_disagreement,yasmine hamdan,Q195788,Lebanese,LB,norp,Lebanese,LB,norp,FR,LB,True,True,False,Lead identifies a Lebanese singer now based in Paris
+original_disagreement,yves tumor,Q56486752,"Miami, Florida",US,gpe_qualified,"Miami, Florida",US,gpe_qualified,IT,US,True,True,False,Lead gives American nationality and birth in Miami Florida
+original_fill,afrodeutsche,Q107349168,English,GB,norp,English,GB,norp,,GB,True,True,False,Lead identifies an English composer and DJ based in Manchester
+original_fill,brennan heart,Q909017,Dutch,NL,norp,Dutch,NL,norp,,NL,True,True,False,Lead identifies a Dutch DJ
+original_fill,courage my love,Q15044785,"Kitchener, Ontario, Canada",CA,gpe_qualified,"Kitchener, Ontario, Canada",CA,gpe_qualified,,CA,True,True,False,Lead places the Canadian band in Kitchener Ontario
+original_fill,darlia,Q20684006,Blackpool,GB,gpe_city,Blackpool,GB,gpe_city,,GB,True,True,False,Lead places the English band in Blackpool
+original_fill,girl group,,British,GB,norp,British,GB,norp,,,False,False,False,Lead identifies a British-Norwegian group and gives Liverpool as its base
+original_fill,joel dommett,,English,GB,norp,English,GB,norp,,GB,True,True,False,Lead identifies an English comedian
+original_fill,juanita stein,Q6301576,Australian,AU,norp,Australian,AU,norp,,AU,True,True,False,Lead identifies an Australian musician
+original_fill,korsakoff,Q468162,Dutch,NL,norp,Dutch,NL,norp,,NL,True,True,False,Lead identifies a Dutch DJ
+original_fill,lisa mercedez,,Jamaican,JM,norp,Jamaican,JM,norp,,JM,True,True,False,Lead identifies a Jamaican recording artist
+original_fill,lucas and steve,Q24849203,Dutch,NL,norp,Dutch,NL,norp,,NL,True,True,False,Lead identifies a Dutch duo whose founding DJs are from Maastricht
+original_fill,martinez brothers,Q20687342,"Bronx, New York",US,gpe_qualified,"Bronx, New York",US,gpe_qualified,,US,True,True,False,Lead places the duo in the Bronx New York
+original_fill,maya delilah,Q115728375,English,GB,norp,English,GB,norp,,GB,True,True,False,Lead says the English singer was born and raised in North London
+original_fill,ria lina,Q20744503,British,GB,norp,British,GB,norp,,GB,True,True,False,Lead identifies a British comedian
+original_fill,shasimone,,British,GB,norp,British,GB,norp,,,False,False,False,Lead identifies a British-Ghanaian singer with no single origin
+original_fill,sorcha richardson,Q88541247,Irish,IE,norp,Irish,IE,norp,,IE,True,True,False,Lead identifies an Irish singer-songwriter from Dublin
+original_fill,thomas headon,Q110718339,British,GB,norp,British,GB,norp,,,False,False,False,Lead gives British birthplace and Australian nationality with London as current base
+original_fill,ts7,Q18354861,British,GB,norp,British,GB,norp,,GB,True,True,False,Lead identifies a British DJ and producer
+original_fill,ytram,Q14544318,Dutch,NL,norp,Dutch,NL,norp,,NL,True,True,False,Lead identifies the Martin Garrix alias Ytram and describes a Dutch DJ
+original_random,alan walker,Q21808729,Norwegian,NO,norp,Norwegian,NO,norp,NO,NO,True,True,True,Lead describes a Norwegian DJ
+original_random,alunageorge,Q10353,London,GB,gpe_city,London,GB,gpe_city,GB,GB,True,True,True,English duo from London
+original_random,andreya triana,Q1195964,British,GB,norp,British,GB,norp,GB,GB,True,True,True,British singer from South East London
+original_random,august burns red,Q537954,"Lancaster, Pennsylvania",US,gpe_qualified,"Lancaster, Pennsylvania",US,gpe_qualified,US,US,True,True,True,American band from Lancaster Pennsylvania
+original_random,badly drawn boy,Q508888,English,GB,norp,English,GB,norp,GB,GB,True,True,True,Lead describes an English musician
+original_random,baroness,Q808701,American,US,norp,American,US,norp,US,US,True,True,True,American band from Savannah Georgia
+original_random,cabbage,Q30604087,English,GB,norp,English,GB,norp,GB,GB,True,True,True,English band formed in Mossley
+original_random,carlita,Q135427016,Turkish,TR,norp,Turkish,TR,norp,TR,,False,False,False,Lead gives Turkish and Italian nationality without one origin
+original_random,chvrches,Q5118436,Scottish,GB,norp,Scottish,GB,norp,GB,GB,True,True,True,Scottish band from Glasgow
+original_random,dodge brothers,Q7730499,British,GB,norp,British,GB,norp,GB,GB,True,True,True,British band from Southampton
+original_random,fireworks,Q277975,American,US,norp,American,US,norp,US,US,True,True,True,American band from Metro Detroit Michigan
+original_random,johnny foreigner,Q584106,"Birmingham, UK",GB,gpe_qualified,"Birmingham, UK",GB,gpe_qualified,GB,GB,True,True,True,Lead places the band in Birmingham UK
+original_random,kara jackson,Q106928234,American,US,norp,American,US,norp,US,US,True,True,True,Lead describes an American singer
+original_random,lady leshurr,Q16234742,British,GB,norp,British,GB,norp,GB,GB,True,True,True,Lead describes a British rapper
+original_random,lil baby,Q50527563,American,US,norp,American,US,norp,US,US,True,True,True,Lead describes an American rapper
+original_random,loyle carner,Q21705109,British,GB,norp,British,GB,norp,GB,GB,True,True,True,Lead describes a British musician
+original_random,maggie rogers,Q28769131,"Easton, Maryland",US,gpe_qualified,"Easton, Maryland",US,gpe_qualified,US,US,True,True,True,American singer from Easton Maryland
+original_random,mattn,Q61859261,Belgian,BE,norp,Belgian,BE,norp,BE,BE,True,True,True,Lead describes a Belgian DJ
+original_random,monarchy,Q6898056,British,GB,norp,British,GB,norp,AU,AU,False,False,True,Lead describes an Australian duo based in Britain
+original_random,mothica,Q110624844,American,US,norp,American,US,norp,US,US,True,True,True,Lead describes an American singer
+original_random,murder capital,Q66765152,Irish,IE,norp,Irish,IE,norp,IE,IE,True,True,True,Irish band formed in Dublin
+original_random,nto,Q121539052,French,FR,norp,French,FR,norp,FR,FR,True,True,True,Lead describes a French producer
+original_random,raven age,Q24039212,English,GB,norp,English,GB,norp,GB,GB,True,True,True,English band formed in London
+original_random,sam paganini,Q16854336,"Treviso, Veneto, Italy",IT,gpe_qualified,"Treviso, Veneto, Italy",IT,gpe_qualified,IT,IT,True,True,True,Italian DJ from Treviso
+original_random,single mothers,Q18163832,Canadian,CA,norp,Canadian,CA,norp,CA,CA,True,True,True,Canadian band formed in London Ontario
+original_random,stand atlantic,Q46850299,Australian,AU,norp,Australian,AU,norp,AU,AU,True,True,True,Australian band from Sydney
+original_random,underworld,Q849429,British,GB,norp,British,GB,norp,GB,GB,True,True,True,British group formed in Cardiff Wales
+original_random,victoria,Q106859392,Italian,IT,norp,Italian,IT,norp,IT,IT,True,True,True,Lead describes an Italian musician
+original_random,yame,Q123574342,French,FR,norp,French,FR,norp,FR,,False,False,False,French birthplace and Cameroonian nationality give competing origins
+original_random,zz top,Q136591,"Houston, Texas",US,gpe_qualified,"Houston, Texas",US,gpe_qualified,US,US,True,True,True,American band formed in Houston Texas
