@@ -1,7 +1,4 @@
 reach,contrast,gap,deletion_low,deletion_high,years_positive,years,pairs
-1 festival,same country,0.0,0.0,0.0,0,9,759
-1 festival,GB with GB,0.0,0.0,0.0,0,9,702
-1 festival,same country abroad,0.0,0.0,0.0,0,8,57
 2 festivals,same country,0.45410436144053595,0.3203989742153047,0.5407162723158975,9,9,759
 2 festivals,GB with GB,0.3804860331928416,0.2265249381571114,0.4615589766443635,9,9,702
 2 festivals,same country abroad,1.7966791740524584,1.1112955867604262,2.2816286439036886,8,8,57

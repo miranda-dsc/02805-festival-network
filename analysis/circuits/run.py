@@ -66,8 +66,11 @@ def check_margins(draw, rows):
 
 
 def national_share(bookings):
-    """share of each act's editions in its most common country (acts with 2+ editions)"""
-    counts = bookings.groupby(["act_key", "country"]).size()
+    """share of each act's distinct festivals in its most common country (acts at 2+ festivals).
+    Each festival counts once per act, so playing the same festival every year does not by
+    itself make an act look national."""
+    fests = bookings.drop_duplicates(["act_key", "festival"])
+    counts = fests.groupby(["act_key", "country"]).size()
     total = counts.groupby(level=0).sum()
     share = counts.groupby(level=0).max() / total
     return share[total >= 2]
@@ -81,7 +84,7 @@ def main():
     act_class = reach.map(reach_class)
 
     # observed national share
-    obs_share = national_share(lineups[["act_key", "edition", "country"]])
+    obs_share = national_share(lineups[["act_key", "festival", "country"]])
 
     null_shares = []                 # one Series per draw, filled across years
     pair_rows = []
@@ -106,6 +109,8 @@ def main():
                 null += c.reindex(CLASSES, fill_value=0).values
             null /= SAMPLES
             for k, cls in enumerate(CLASSES):
+                if cls == CLASSES[0]:      # an act at one festival can never be shared
+                    continue
                 pair_rows.append(dict(year=year, edition_a=a, edition_b=b,
                                       festival_a=festival[a], festival_b=festival[b],
                                       country_a=country[a], country_b=country[b],
@@ -120,6 +125,7 @@ def main():
                 for e, lineup in zip(eds, draws[s]) for act in lineup]
         b = pd.DataFrame(rows, columns=["act_key", "edition"])
         b["country"] = b["edition"].map(country)
+        b["festival"] = b["edition"].map(festival)
         null_shares.append(national_share(b))
     null_mat = pd.concat(null_shares, axis=1).reindex(obs_share.index)
 
@@ -148,7 +154,7 @@ def main():
         return np.mean(per_year), per_year
 
     gap_rows = []
-    for cls in CLASSES:
+    for cls in CLASSES[1:]:
         g = pairs[pairs["reach"] == cls]
         for label, mask in [("same country", lambda f: f["same_country"]),
                             ("GB with GB", lambda f: f["uk_pair"]),
@@ -173,7 +179,16 @@ def main():
     ratios = ratio_table(pairs)
     ratios.to_csv(OUT / "country_ratio_by_reach.csv", index=False)
 
-    write_findings(share, gaps, gaps_share, ratios, reach, lineups, editions)
+    # outside GB, by country: which countries drive the same-country ratios
+    ab = pairs[pairs["same_country"] & ~pairs["uk_pair"]]
+    by_cty = (ab.groupby(["reach", "country_a"]).agg(pairs=("observed", "size"), observed=("observed", "sum"),
+                                                     null_mean=("null_mean", "sum")).reset_index())
+    by_cty["ratio"] = by_cty["observed"] / by_cty["null_mean"]
+    by_cty.to_csv(OUT / "abroad_by_country.csv", index=False)
+    wide = by_cty[by_cty["reach"] == CLASSES[3]]
+    abroad_note = ", ".join(f"{r.country_a} {r.observed}/{r.null_mean:.1f}" for r in wide.itertuples())
+
+    write_findings(share, gaps, gaps_share, ratios, reach, lineups, editions, abroad_note)
 
 
 def ratio_table(pairs):
@@ -200,7 +215,7 @@ def ratio_table(pairs):
     return pd.DataFrame(rows)
 
 
-def write_findings(share, gaps, gaps_share, ratios, reach, lineups, editions):
+def write_findings(share, gaps, gaps_share, ratios, reach, lineups, editions, abroad_note):
     sc = gaps[gaps.contrast == "same country"].set_index("reach")
     uk = gaps[gaps.contrast == "GB with GB"].set_index("reach")
     ab = gaps[gaps.contrast == "same country abroad"].set_index("reach")
@@ -212,17 +227,17 @@ def write_findings(share, gaps, gaps_share, ratios, reach, lineups, editions):
         f"{SAMPLES} draws per year, keeping lineup sizes and act degrees (checked on the first and last draw). "
         "Same-brand pairs are excluded from the pair test.",
         "",
-        "1. National share. " + "; ".join(
+        "1. National share (each festival counted once per act). " + "; ".join(
             f"{r}: {sh.at[r, 'observed']:.2f} observed vs {sh.at[r, 'null_mean']:.2f} null "
             f"({sh.at[r, 'null_low']:.2f} to {sh.at[r, 'null_high']:.2f}), {int(sh.at[r, 'acts']):,} acts"
             for r in sh.index) + ".",
         "   This measures how much more acts stay in one country than random lineups of the same sizes would make them.",
-        "   It misses acts' home countries and treats every edition of an act as equal.",
+        "   It misses acts' home countries; counting festivals rather than editions keeps repeat visits to one festival from looking national.",
         "",
         "2. Same-country gap by reach (excess shared acts per pair, same country minus different country). "
         + "; ".join(f"{r}: {sc.at[r, 'gap']:+.2f} ({sc.at[r, 'deletion_low']:+.2f} to {sc.at[r, 'deletion_high']:+.2f} "
                     f"after festival deletions, positive in {int(sc.at[r, 'years_positive'])} of {int(sc.at[r, 'years'])} years)"
-                    for r in CLASSES) + ".",
+                    for r in CLASSES[1:]) + ".",
         "   Share of the total gap by class: " + ", ".join(f"{r} {v:.0%}" for r, v in gaps_share.items()) + ".",
         "   This measures which acts carry the country effect, with size defined from lineups only.",
         "   It misses calendar and genre, which watts/ controls for, and deletions drop pairs without rerunning the null.",
@@ -235,13 +250,15 @@ def write_findings(share, gaps, gaps_share, ratios, reach, lineups, editions):
             f"{r.reach} {r.same_country_abroad:.2f}x" for r in ratios.itertuples()) + " the null.",
         "   This measures the national tilt of each class, which the absolute gaps in 2 hide: an act at k "
         "festivals makes k(k-1)/2 pair links, so wide acts dominate absolute counts.",
-        "   It misses calendar and genre, and the ratios outside GB rest on 57 pairs.",
+        "   It misses calendar and genre, and the ratios outside GB rest on 57 pairs. By country outside GB "
+        "(observed/null shared acts, 5+ festivals): " + abroad_note + ". The low 5+ value outside GB comes "
+        "mostly from Belgium, so we do not lean on it.",
         "",
-        "4. UK and elsewhere, absolute gaps. GB with GB: " + ", ".join(f"{r} {uk.at[r, 'gap']:+.2f}" for r in CLASSES)
-        + f" ({int(uk.at[CLASSES[0], 'pairs'])} pairs). Same country outside GB: "
-        + ", ".join(f"{r} {ab.at[r, 'gap']:+.2f}" for r in CLASSES)
-        + f" ({int(ab.at[CLASSES[0], 'pairs'])} pairs, positive in "
-        + ", ".join(f"{int(ab.at[r, 'years_positive'])}/{int(ab.at[r, 'years'])}" for r in CLASSES) + " years).",
+        "4. UK and elsewhere, absolute gaps. GB with GB: " + ", ".join(f"{r} {uk.at[r, 'gap']:+.2f}" for r in CLASSES[1:])
+        + f" ({int(uk.at[CLASSES[1], 'pairs'])} pairs). Same country outside GB: "
+        + ", ".join(f"{r} {ab.at[r, 'gap']:+.2f}" for r in CLASSES[1:])
+        + f" ({int(ab.at[CLASSES[1], 'pairs'])} pairs, positive in "
+        + ", ".join(f"{int(ab.at[r, 'years_positive'])}/{int(ab.at[r, 'years'])}" for r in CLASSES[1:]) + " years).",
         "   This measures whether the pattern is only a UK pattern.",
         "   It misses precision outside GB, where few same-country pairs exist.",
     ]
