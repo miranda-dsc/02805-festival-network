@@ -14,7 +14,7 @@ decisions were ours, and how we checked the AI's output.
 | Collect all years 2015-2025 | Human (overruled the AI, which proposed only 2019 and 2022-2025) | Human | To see whether festivals kept presenting the same artists in those years |
 | Keep festivals present in at least 4 years | AI | Human | Balance between number of festivals and years covered |
 | Check ambiguous festival names (Lollapalooza, Pitchfork, Ultra, Mysteryland) by timezone | Human | Human | Names alone could not tell the countries apart |
-| Remove non-music stages by keyword, with exceptions | Human | Human, after reviewing every flagged stage | Talks, circus and theatre are not music |
+| Remove non-music stages by keyword, with exceptions | AI | Human, after reviewing every flagged stage | Talks, circus and theatre are not music |
 | Write separate *_clean files instead of overwriting inputs | Human | Human | Each file is produced by one script only |
 
 
