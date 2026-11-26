@@ -3,7 +3,7 @@
 This file documents where an AI model touched our data, code or text, which
 decisions were ours, and how we checked the AI's output.
 
-## Data collection and cleaning (src/00a to 02)
+## Data collection and cleaning
 
 ### Who decided what
 
