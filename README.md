@@ -3,10 +3,9 @@
 Final project for 02805 Social Graphs and Interactions, DTU, 2026.
 Nandini Karnati, Gustav Maglehøj Hansen and Miranda Caralampio Barrios.
 
-We ask which European festivals book the same acts, and why. We build the
-network of festival editions and the acts they book (Clashfinder lineups,
-2015-2025), compare every overlap with a curveball null, and test how country,
-reach and sound shape which festivals share acts.
+We build the network of European festival editions and the acts they book
+(Clashfinder lineups, 2015-2025), compare every overlap with a curveball null,
+and test how country, reach and sound shape which festivals share acts.
 How we used AI is documented in [AI_METHODS.md](AI_METHODS.md).
 
 ## Pipeline (src/)
