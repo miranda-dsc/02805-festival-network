@@ -32,17 +32,17 @@ LABELS = {
     "bestival": ("Bestival", (15, -25)),
 }
 GROUPS = {
-    "slam dunk": "Slam Dunk, Pohoda\nand three more",
+    "slam dunk": "Slam Dunk, Pohoda\nand two more",
     "les ardentes": "Les Ardentes and two\nFrench festivals",
     "mysteryland": "Tomorrowland,\nMysteryland",
     "download": "Download,\nGraspop",
 }
 
 
-def festival_graph():
-    pairs = pd.read_csv(ANALYSIS / "watts" / "pairs.csv",
-                        usecols=["festival_a", "festival_b", "country_a", "country_b",
-                                 "same_brand", "excess"])
+def festival_graph(pairs=None):
+    """festivals joined by their excess shared acts summed over years, positive sums only"""
+    if pairs is None:
+        pairs = pd.read_csv(ANALYSIS / "watts" / "pairs.csv")
     pairs = pairs.loc[~pairs["same_brand"]]
     countries = dict(zip(pairs["festival_a"], pairs["country_a"]))
     countries.update(zip(pairs["festival_b"], pairs["country_b"]))
@@ -51,7 +51,7 @@ def festival_graph():
     pooled = pairs["excess"].groupby([ends[0].values, ends[1].values]).sum()
     graph = nx.Graph()
     for festival, country in countries.items():
-        graph.add_node(festival, country=country if country in COLORS else "Other")
+        graph.add_node(festival, country=country, group=country if country in COLORS else "Other")
     for (a, b), excess in pooled.items():
         if excess > 0:
             graph.add_edge(a, b, weight=excess)
@@ -59,12 +59,14 @@ def festival_graph():
 
 
 def disparity_backbone(graph, alpha=ALPHA):
-    """keep an edge if it is significant for either end (serrano et al. 2009)"""
+    """keep an edge if it is significant for either end (serrano et al. 2009);
+    a leaf's edge is judged at its other end, and a pair of leaves is kept"""
     keep = set()
     for node in graph:
         k = graph.degree(node)
         if k < 2:
-            keep.update(tuple(sorted((node, other))) for other in graph[node])
+            keep.update(tuple(sorted((node, other))) for other in graph[node]
+                        if graph.degree(other) == 1)
             continue
         strength = graph.degree(node, weight="weight")
         for other, data in graph[node].items():
@@ -109,7 +111,7 @@ def main():
     nx.draw_networkx_edges(graph, pos, ax=ax, width=0.7, edge_color="#6b6b6b", alpha=0.5)
     nx.draw_networkx_nodes(graph, pos, ax=ax,
                            node_size=[12 + SCALE * between[node] for node in graph],
-                           node_color=[COLORS[data["country"]] for _, data in graph.nodes(data=True)],
+                           node_color=[COLORS[data["group"]] for _, data in graph.nodes(data=True)],
                            edgecolors="white", linewidths=0.5)
     for festival, (label, offset) in LABELS.items():
         ax.annotate(label, pos[festival], xytext=offset, textcoords="offset points", fontsize=6,
@@ -122,7 +124,7 @@ def main():
             x = max(pos[node][0] for node in part) + 0.07
             y = sum(pos[node][1] for node in part) / len(part)
             ax.text(x, y, GROUPS[member], fontsize=6, va="center", linespacing=1.1)
-    countries = {data["country"] for _, data in graph.nodes(data=True)}
+    countries = {data["group"] for _, data in graph.nodes(data=True)}
     key = [Line2D([], [], marker="o", linestyle="none", markerfacecolor=color,
                   markeredgecolor="white", markersize=5.5, label=country)
            for country, color in COLORS.items() if country in countries]
